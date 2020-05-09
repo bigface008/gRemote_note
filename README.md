@@ -73,3 +73,14 @@ In file included from /usr/local/include/opencv4/opencv2/opencv.hpp:86:0,
 这当然不是好的解决方案，而且奇怪的是，`mod_app.cpp` 里明明是在我一开始放 `#include <opencv2/opencv.hpp` 后面才有 `#include <X11/Xlib.h>`，但是前面的语句会先于后面的语句报错？
 
 总之这个问题有待深入考察。
+
+## mod_app 中的共享内存会自动释放吗？
+
+这大概不能算是个坑......只是个疑问。
+
+## cv::cuda::GpuMat::upload 第一次调用的时候速度很慢
+
+在 `interpolator.cpp` 中第一次调用 `cv::cuda::GpuMat::upload` 的时候速度很慢。后面调用的速度就快了很多。这是因为第一次调用 cuda 函数的时候，需要初始化 CUDA context。
+
+详细请看这个链接。[link](https://stackoverflow.com/questions/19454373/too-slow-gpumat-uploading-of-an-small-image/40069778)
+

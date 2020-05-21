@@ -28,8 +28,10 @@ do
 
     server_cpu_usage=$(ps aux | grep 'cgl-render' | awk '{sum += $3}END{print sum}')
     client_cpu_usage=$(ps aux | grep 'cgl-capture' | awk '{sum += $3}END{print sum}')
+    server_mem_usage=$(ps aux | grep 'cgl-render' | awk '{sum += $6}END{print sum}')
+    client_mem_usage=$(ps aux | grep 'cgl-capture' | awk '{sum += $6}END{print sum}')
     echo "    cpu: client $client_cpu_usage%; server $server_cpu_usage%;"
-    echo "    mem: client %; server %;"
+    echo "    mem: client ${client_mem_usage}KB; server ${server_mem_usage}KB;"
     echo "    gpu: client %; server %;"
     echo "    gpu mem: client %; server %;"
     # echo 'server_cpu_usage:'$server_cpu_usage

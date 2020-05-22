@@ -1,0 +1,661 @@
+gRemote log:
+timestamp 2020-05-22 16:09:17:060935313
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 1272538173( 1G)    receive:1272538173( 1G)
+timestamp 2020-05-22 16:09:18:134062358
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:19:186159207
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:20:238857151
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:21:332941779
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:22:381638404
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:23:431186495
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:24:480093880
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:25:531809140
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:26:582421925
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 183456KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:27:707247138
+    cpu: client 0%; server 6%;
+    mem: client 0KB; server 183456KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:09:28:755452037
+    cpu: client 0%; server 3.5%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 2683533( 2M)    receive:2683533( 2M)
+timestamp 2020-05-22 16:09:29:803941105
+    cpu: client 0%; server 1.7%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 261886( 255K)    receive:261886( 255K)
+timestamp 2020-05-22 16:09:30:850673707
+    cpu: client 0%; server 1.4%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 267934( 261K)    receive:267934( 261K)
+timestamp 2020-05-22 16:09:31:895877932
+    cpu: client 0%; server 1.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 272868( 266K)    receive:272868( 266K)
+timestamp 2020-05-22 16:09:32:947847393
+    cpu: client 0%; server 1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 278187( 271K)    receive:278187( 271K)
+timestamp 2020-05-22 16:09:33:999778511
+    cpu: client 0%; server 0.8%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 278174( 271K)    receive:278174( 271K)
+timestamp 2020-05-22 16:09:35:051319678
+    cpu: client 0%; server 0.7%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 271445( 265K)    receive:271445( 265K)
+timestamp 2020-05-22 16:09:36:098479157
+    cpu: client 0%; server 0.7%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 278809( 272K)    receive:278809( 272K)
+timestamp 2020-05-22 16:09:37:144178126
+    cpu: client 0%; server 0.6%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 290012( 283K)    receive:290012( 283K)
+timestamp 2020-05-22 16:09:38:190415953
+    cpu: client 0%; server 0.5%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 288329( 281K)    receive:288329( 281K)
+timestamp 2020-05-22 16:09:39:237843516
+    cpu: client 0%; server 0.5%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285772( 279K)    receive:285772( 279K)
+timestamp 2020-05-22 16:09:40:285921984
+    cpu: client 0%; server 0.5%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 286092( 279K)    receive:286092( 279K)
+timestamp 2020-05-22 16:09:41:332105435
+    cpu: client 0%; server 0.4%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 292494( 285K)    receive:292494( 285K)
+timestamp 2020-05-22 16:09:42:382087807
+    cpu: client 0%; server 0.4%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 269158( 262K)    receive:269158( 262K)
+timestamp 2020-05-22 16:09:43:426157991
+    cpu: client 0%; server 0.4%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 272952( 266K)    receive:272952( 266K)
+timestamp 2020-05-22 16:09:44:469198885
+    cpu: client 0%; server 0.3%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 294797( 287K)    receive:294797( 287K)
+timestamp 2020-05-22 16:09:45:513730377
+    cpu: client 0%; server 0.3%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284666( 277K)    receive:284666( 277K)
+timestamp 2020-05-22 16:09:46:557225022
+    cpu: client 0%; server 0.3%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 301098( 294K)    receive:301098( 294K)
+timestamp 2020-05-22 16:09:47:602471343
+    cpu: client 0%; server 0.3%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 295739( 288K)    receive:295739( 288K)
+timestamp 2020-05-22 16:09:48:646022614
+    cpu: client 0%; server 0.3%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 295056( 288K)    receive:295056( 288K)
+timestamp 2020-05-22 16:09:49:689998902
+    cpu: client 0%; server 0.3%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 283625( 276K)    receive:283625( 276K)
+timestamp 2020-05-22 16:09:50:735161548
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 276382( 269K)    receive:276382( 269K)
+timestamp 2020-05-22 16:09:51:778991265
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 263311( 257K)    receive:263311( 257K)
+timestamp 2020-05-22 16:09:52:824917107
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 274432( 268K)    receive:274432( 268K)
+timestamp 2020-05-22 16:09:53:870815717
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 279419( 272K)    receive:279419( 272K)
+timestamp 2020-05-22 16:09:54:914929038
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 277799( 271K)    receive:277799( 271K)
+timestamp 2020-05-22 16:09:55:959784282
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287275( 280K)    receive:287275( 280K)
+timestamp 2020-05-22 16:09:57:003673777
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 291309( 284K)    receive:291309( 284K)
+timestamp 2020-05-22 16:09:58:047877122
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 296044( 289K)    receive:296044( 289K)
+timestamp 2020-05-22 16:09:59:091958185
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 300239( 293K)    receive:300239( 293K)
+timestamp 2020-05-22 16:10:00:136038763
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 291439( 284K)    receive:291439( 284K)
+timestamp 2020-05-22 16:10:01:182322206
+    cpu: client 0%; server 0.2%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 295026( 288K)    receive:295026( 288K)
+timestamp 2020-05-22 16:10:02:227521112
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285992( 279K)    receive:285992( 279K)
+timestamp 2020-05-22 16:10:03:271400418
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 288508( 281K)    receive:288508( 281K)
+timestamp 2020-05-22 16:10:04:315464152
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 272478( 266K)    receive:272478( 266K)
+timestamp 2020-05-22 16:10:05:359160100
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 289692( 282K)    receive:289692( 282K)
+timestamp 2020-05-22 16:10:06:403250269
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 286480( 279K)    receive:286480( 279K)
+timestamp 2020-05-22 16:10:07:447449405
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284949( 278K)    receive:284949( 278K)
+timestamp 2020-05-22 16:10:08:491556318
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 270860( 264K)    receive:270860( 264K)
+timestamp 2020-05-22 16:10:09:536403325
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 254204( 248K)    receive:254204( 248K)
+timestamp 2020-05-22 16:10:10:582014699
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 269498( 263K)    receive:269498( 263K)
+timestamp 2020-05-22 16:10:11:631438782
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 261468( 255K)    receive:261468( 255K)
+timestamp 2020-05-22 16:10:12:682448071
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 260102( 254K)    receive:260102( 254K)
+timestamp 2020-05-22 16:10:13:726865233
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 256759( 250K)    receive:256759( 250K)
+timestamp 2020-05-22 16:10:14:772405463
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 253103( 247K)    receive:253103( 247K)
+timestamp 2020-05-22 16:10:15:817282844
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 253859( 247K)    receive:253859( 247K)
+timestamp 2020-05-22 16:10:16:863511481
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 258864( 252K)    receive:258864( 252K)
+timestamp 2020-05-22 16:10:17:907610796
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 271854( 265K)    receive:271854( 265K)
+timestamp 2020-05-22 16:10:18:952998192
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 272915( 266K)    receive:272915( 266K)
+timestamp 2020-05-22 16:10:19:999382923
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280416( 273K)    receive:280416( 273K)
+timestamp 2020-05-22 16:10:21:043918365
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 276925( 270K)    receive:276925( 270K)
+timestamp 2020-05-22 16:10:22:088215842
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 279013( 272K)    receive:279013( 272K)
+timestamp 2020-05-22 16:10:23:132394603
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 283287( 276K)    receive:283287( 276K)
+timestamp 2020-05-22 16:10:24:177048945
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280899( 274K)    receive:280899( 274K)
+timestamp 2020-05-22 16:10:25:222129452
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285342( 278K)    receive:285342( 278K)
+timestamp 2020-05-22 16:10:26:266324301
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 295662( 288K)    receive:295662( 288K)
+timestamp 2020-05-22 16:10:27:311266887
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 292852( 285K)    receive:292852( 285K)
+timestamp 2020-05-22 16:10:28:356108338
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287777( 281K)    receive:287777( 281K)
+timestamp 2020-05-22 16:10:29:401227104
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 295096( 288K)    receive:295096( 288K)
+timestamp 2020-05-22 16:10:30:444312012
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 275567( 269K)    receive:275567( 269K)
+timestamp 2020-05-22 16:10:31:489895149
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287993( 281K)    receive:287993( 281K)
+timestamp 2020-05-22 16:10:32:534967302
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 292910( 286K)    receive:292910( 286K)
+timestamp 2020-05-22 16:10:33:580537160
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284259( 277K)    receive:284259( 277K)
+timestamp 2020-05-22 16:10:34:625548177
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287319( 280K)    receive:287319( 280K)
+timestamp 2020-05-22 16:10:35:670938328
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284195( 277K)    receive:284195( 277K)
+timestamp 2020-05-22 16:10:36:718827408
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 286603( 279K)    receive:286603( 279K)
+timestamp 2020-05-22 16:10:37:766349314
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280072( 273K)    receive:280072( 273K)
+timestamp 2020-05-22 16:10:38:810563585
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287910( 281K)    receive:287910( 281K)
+timestamp 2020-05-22 16:10:39:854949626
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 283593( 276K)    receive:283593( 276K)
+timestamp 2020-05-22 16:10:40:899951804
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 275139( 268K)    receive:275139( 268K)
+timestamp 2020-05-22 16:10:41:951998903
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280198( 273K)    receive:280198( 273K)
+timestamp 2020-05-22 16:10:42:996482997
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284129( 277K)    receive:284129( 277K)
+timestamp 2020-05-22 16:10:44:051192488
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 273516( 267K)    receive:273516( 267K)
+timestamp 2020-05-22 16:10:45:096736790
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285429( 278K)    receive:285429( 278K)
+timestamp 2020-05-22 16:10:46:143394501
+    cpu: client 0%; server 0.1%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 297069( 290K)    receive:297069( 290K)
+timestamp 2020-05-22 16:10:47:187491118
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285305( 278K)    receive:285305( 278K)
+timestamp 2020-05-22 16:10:48:232803913
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 282523( 275K)    receive:282523( 275K)
+timestamp 2020-05-22 16:10:49:282111014
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285294( 278K)    receive:285294( 278K)
+timestamp 2020-05-22 16:10:50:325178763
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280010( 273K)    receive:280010( 273K)
+timestamp 2020-05-22 16:10:51:370010763
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 257110( 251K)    receive:257110( 251K)
+timestamp 2020-05-22 16:10:52:418019522
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 265162( 258K)    receive:265162( 258K)
+timestamp 2020-05-22 16:10:53:464709577
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 282143( 275K)    receive:282143( 275K)
+timestamp 2020-05-22 16:10:54:510399495
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 281536( 274K)    receive:281536( 274K)
+timestamp 2020-05-22 16:10:55:555493714
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287841( 281K)    receive:287841( 281K)
+timestamp 2020-05-22 16:10:56:601813224
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 273495( 267K)    receive:273495( 267K)
+timestamp 2020-05-22 16:10:57:651472811
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 272623( 266K)    receive:272623( 266K)
+timestamp 2020-05-22 16:10:58:696697841
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 260865( 254K)    receive:260865( 254K)
+timestamp 2020-05-22 16:10:59:742465988
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 257346( 251K)    receive:257346( 251K)
+timestamp 2020-05-22 16:11:00:787530383
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 250936( 245K)    receive:250936( 245K)
+timestamp 2020-05-22 16:11:01:833981966
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 255695( 249K)    receive:255695( 249K)
+timestamp 2020-05-22 16:11:02:881710436
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 257638( 251K)    receive:257638( 251K)
+timestamp 2020-05-22 16:11:03:927277008
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 251241( 245K)    receive:251241( 245K)
+timestamp 2020-05-22 16:11:04:973413833
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 261451( 255K)    receive:261451( 255K)
+timestamp 2020-05-22 16:11:06:021527892
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 270274( 263K)    receive:270274( 263K)
+timestamp 2020-05-22 16:11:07:064909065
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 274699( 268K)    receive:274699( 268K)
+timestamp 2020-05-22 16:11:08:109524499
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 268989( 262K)    receive:268989( 262K)
+timestamp 2020-05-22 16:11:09:154474488
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 261007( 254K)    receive:261007( 254K)
+timestamp 2020-05-22 16:11:10:198989416
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 286991( 280K)    receive:286991( 280K)
+timestamp 2020-05-22 16:11:11:246337233
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 270595( 264K)    receive:270595( 264K)
+timestamp 2020-05-22 16:11:12:291942007
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 277633( 271K)    receive:277633( 271K)
+timestamp 2020-05-22 16:11:13:338129352
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 279948( 273K)    receive:279948( 273K)
+timestamp 2020-05-22 16:11:14:385962705
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 254162( 248K)    receive:254162( 248K)
+timestamp 2020-05-22 16:11:15:436716055
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 283171( 276K)    receive:283171( 276K)
+timestamp 2020-05-22 16:11:16:483943213
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 290652( 283K)    receive:290652( 283K)
+timestamp 2020-05-22 16:11:17:527770291
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 287248( 280K)    receive:287248( 280K)
+timestamp 2020-05-22 16:11:18:572216077
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280585( 274K)    receive:280585( 274K)
+timestamp 2020-05-22 16:11:19:617250782
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 278521( 271K)    receive:278521( 271K)
+timestamp 2020-05-22 16:11:20:664465214
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 273376( 266K)    receive:273376( 266K)
+timestamp 2020-05-22 16:11:21:709948361
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 288726( 281K)    receive:288726( 281K)
+timestamp 2020-05-22 16:11:22:755234237
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 286587( 279K)    receive:286587( 279K)
+timestamp 2020-05-22 16:11:23:803058736
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280295( 273K)    receive:280295( 273K)
+timestamp 2020-05-22 16:11:24:850007105
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 291132( 284K)    receive:291132( 284K)
+timestamp 2020-05-22 16:11:25:894690346
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 299109( 292K)    receive:299109( 292K)
+timestamp 2020-05-22 16:11:26:938088217
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285491( 278K)    receive:285491( 278K)
+timestamp 2020-05-22 16:11:27:985696173
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 293135( 286K)    receive:293135( 286K)
+timestamp 2020-05-22 16:11:29:031785284
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 288023( 281K)    receive:288023( 281K)
+timestamp 2020-05-22 16:11:30:077501261
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 291328( 284K)    receive:291328( 284K)
+timestamp 2020-05-22 16:11:31:122304998
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 275330( 268K)    receive:275330( 268K)
+timestamp 2020-05-22 16:11:32:179659851
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 282044( 275K)    receive:282044( 275K)
+timestamp 2020-05-22 16:11:33:224766159
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 291009( 284K)    receive:291009( 284K)
+timestamp 2020-05-22 16:11:34:270987174
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 290598( 283K)    receive:290598( 283K)
+timestamp 2020-05-22 16:11:35:317105755
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280223( 273K)    receive:280223( 273K)
+timestamp 2020-05-22 16:11:36:362334110
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 292973( 286K)    receive:292973( 286K)
+timestamp 2020-05-22 16:11:37:412701845
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284021( 277K)    receive:284021( 277K)
+timestamp 2020-05-22 16:11:38:459097535
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 279538( 272K)    receive:279538( 272K)
+timestamp 2020-05-22 16:11:39:507002752
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 282311( 275K)    receive:282311( 275K)
+timestamp 2020-05-22 16:11:40:557009110
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 277127( 270K)    receive:277127( 270K)
+timestamp 2020-05-22 16:11:41:602114764
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 279323( 272K)    receive:279323( 272K)
+timestamp 2020-05-22 16:11:42:646713269
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 280185( 273K)    receive:280185( 273K)
+timestamp 2020-05-22 16:11:43:696809917
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 265668( 259K)    receive:265668( 259K)
+timestamp 2020-05-22 16:11:44:744026488
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 271702( 265K)    receive:271702( 265K)
+timestamp 2020-05-22 16:11:45:787911276
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 266400( 260K)    receive:266400( 260K)
+timestamp 2020-05-22 16:11:46:832527370
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 236390( 230K)    receive:236390( 230K)
+timestamp 2020-05-22 16:11:47:881497335
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 237619( 232K)    receive:237619( 232K)
+timestamp 2020-05-22 16:11:48:926489374
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 256384( 250K)    receive:256384( 250K)
+timestamp 2020-05-22 16:11:49:971669221
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 248743( 242K)    receive:248743( 242K)
+timestamp 2020-05-22 16:11:51:019964757
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 262578( 256K)    receive:262578( 256K)
+timestamp 2020-05-22 16:11:52:064933082
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 265962( 259K)    receive:265962( 259K)
+timestamp 2020-05-22 16:11:53:110929251
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 273957( 267K)    receive:273957( 267K)
+timestamp 2020-05-22 16:11:54:156954742
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 264474( 258K)    receive:264474( 258K)
+timestamp 2020-05-22 16:11:55:203930961
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 277872( 271K)    receive:277872( 271K)
+timestamp 2020-05-22 16:11:56:248864053
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 269502( 263K)    receive:269502( 263K)
+timestamp 2020-05-22 16:11:57:294171898
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 270850( 264K)    receive:270850( 264K)
+timestamp 2020-05-22 16:11:58:344289216
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 274213( 267K)    receive:274213( 267K)
+timestamp 2020-05-22 16:11:59:390780265
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 284149( 277K)    receive:284149( 277K)
+timestamp 2020-05-22 16:12:00:435597497
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 285168( 278K)    receive:285168( 278K)
+timestamp 2020-05-22 16:12:01:481575676
+    cpu: client 0%; server 0%;
+    mem: client 3136KB; server 183456KB;
+    transmit: 282699( 276K)    receive:282699( 276K)
+timestamp 2020-05-22 16:12:02:533299495
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 53067( 51K)    receive:53067( 51K)
+timestamp 2020-05-22 16:12:03:576889103
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:12:04:620917381
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:12:05:664648285
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:12:06:709565319
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:12:07:754508148
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)
+timestamp 2020-05-22 16:12:08:798660401
+    cpu: client 0%; server 0%;
+    mem: client 0KB; server 0KB;
+    transmit: 0(0B)    receive:0(0B)

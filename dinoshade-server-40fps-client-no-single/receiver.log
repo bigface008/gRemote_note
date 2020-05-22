@@ -1,0 +1,3628 @@
+src frame 0.0 time sec 1590127090 usec 403297
+    Interpolator time 290552 usec
+    getNextFrame 0.1 time 10594 usec
+add frame 0.1 time sec 1590127090 usec 732394
+src frame 1.0 time sec 1590127090 usec 732407
+    Interpolator time 22416 usec
+    getNextFrame 1.1 time 10257 usec
+add frame 1.1 time sec 1590127090 usec 767036
+src frame 2.0 time sec 1590127090 usec 767078
+    Interpolator time 22988 usec
+    getNextFrame 2.1 time 10377 usec
+add frame 2.1 time sec 1590127090 usec 802404
+src frame 3.0 time sec 1590127090 usec 802419
+    Interpolator time 22375 usec
+    getNextFrame 3.1 time 10556 usec
+add frame 3.1 time sec 1590127090 usec 837429
+src frame 4.0 time sec 1590127090 usec 837445
+    Interpolator time 21417 usec
+    getNextFrame 4.1 time 11152 usec
+add frame 4.1 time sec 1590127090 usec 872997
+src frame 5.0 time sec 1590127090 usec 873010
+    Interpolator time 24455 usec
+    getNextFrame 5.1 time 10283 usec
+add frame 5.1 time sec 1590127090 usec 909568
+src frame 6.0 time sec 1590127090 usec 909646
+    Interpolator time 22374 usec
+    getNextFrame 6.1 time 10183 usec
+add frame 6.1 time sec 1590127090 usec 944077
+src frame 7.0 time sec 1590127090 usec 944090
+    Interpolator time 21537 usec
+    getNextFrame 7.1 time 9922 usec
+add frame 7.1 time sec 1590127090 usec 977364
+src frame 8.0 time sec 1590127090 usec 977378
+    Interpolator time 21711 usec
+    getNextFrame 8.1 time 9921 usec
+add frame 8.1 time sec 1590127091 usec 10876
+src frame 9.0 time sec 1590127091 usec 10890
+    Interpolator time 21107 usec
+    getNextFrame 9.1 time 10257 usec
+add frame 9.1 time sec 1590127091 usec 44203
+src frame 10.0 time sec 1590127091 usec 44215
+    Interpolator time 22831 usec
+    getNextFrame 10.1 time 10117 usec
+add frame 10.1 time sec 1590127091 usec 79202
+src frame 11.0 time sec 1590127091 usec 79215
+    Interpolator time 20136 usec
+    getNextFrame 11.1 time 10270 usec
+add frame 11.1 time sec 1590127091 usec 111409
+src frame 12.0 time sec 1590127091 usec 111422
+    Interpolator time 19541 usec
+    getNextFrame 12.1 time 10190 usec
+add frame 12.1 time sec 1590127091 usec 142933
+src frame 13.0 time sec 1590127091 usec 142947
+    Interpolator time 20516 usec
+    getNextFrame 13.1 time 10957 usec
+add frame 13.1 time sec 1590127091 usec 176264
+src frame 14.0 time sec 1590127091 usec 176276
+    Interpolator time 20455 usec
+    getNextFrame 14.1 time 10094 usec
+add frame 14.1 time sec 1590127091 usec 209053
+src frame 15.0 time sec 1590127091 usec 209128
+    Interpolator time 22682 usec
+    getNextFrame 15.1 time 10857 usec
+add frame 15.1 time sec 1590127091 usec 244445
+src frame 16.0 time sec 1590127091 usec 244539
+    Interpolator time 20040 usec
+    getNextFrame 16.1 time 10380 usec
+add frame 16.1 time sec 1590127091 usec 276870
+src frame 17.0 time sec 1590127091 usec 276913
+    Interpolator time 20669 usec
+    getNextFrame 17.1 time 10445 usec
+add frame 17.1 time sec 1590127091 usec 309954
+src frame 18.0 time sec 1590127091 usec 309967
+    Interpolator time 19312 usec
+    getNextFrame 18.1 time 14944 usec
+add frame 18.1 time sec 1590127091 usec 346169
+src frame 19.0 time sec 1590127091 usec 346184
+    Interpolator time 22843 usec
+    getNextFrame 19.1 time 13843 usec
+add frame 19.1 time sec 1590127091 usec 403573
+src frame 20.0 time sec 1590127091 usec 403617
+    Interpolator time 16857 usec
+    getNextFrame 20.1 time 11272 usec
+add frame 20.1 time sec 1590127091 usec 433668
+src frame 21.0 time sec 1590127091 usec 433684
+    Interpolator time 17327 usec
+    getNextFrame 21.1 time 10795 usec
+add frame 21.1 time sec 1590127091 usec 463867
+src frame 22.0 time sec 1590127091 usec 463880
+    Interpolator time 18813 usec
+    getNextFrame 22.1 time 9680 usec
+add frame 22.1 time sec 1590127091 usec 494399
+src frame 23.0 time sec 1590127091 usec 494447
+    Interpolator time 18062 usec
+    getNextFrame 23.1 time 9856 usec
+add frame 23.1 time sec 1590127091 usec 524565
+src frame 24.0 time sec 1590127091 usec 524607
+    Interpolator time 18234 usec
+    getNextFrame 24.1 time 10760 usec
+add frame 24.1 time sec 1590127091 usec 556131
+src frame 25.0 time sec 1590127091 usec 556215
+    Interpolator time 18207 usec
+    getNextFrame 25.1 time 13572 usec
+add frame 25.1 time sec 1590127091 usec 590514
+src frame 26.0 time sec 1590127091 usec 590534
+    Interpolator time 16966 usec
+    getNextFrame 26.1 time 15522 usec
+add frame 26.1 time sec 1590127091 usec 626072
+src frame 27.0 time sec 1590127091 usec 626089
+    Interpolator time 18943 usec
+    getNextFrame 27.1 time 9991 usec
+add frame 27.1 time sec 1590127091 usec 657763
+src frame 28.0 time sec 1590127091 usec 657779
+    Interpolator time 19414 usec
+    getNextFrame 28.1 time 10073 usec
+add frame 28.1 time sec 1590127091 usec 689616
+src frame 29.0 time sec 1590127091 usec 689699
+    Interpolator time 17039 usec
+    getNextFrame 29.1 time 10280 usec
+add frame 29.1 time sec 1590127091 usec 718837
+src frame 30.0 time sec 1590127091 usec 718850
+    Interpolator time 17200 usec
+    getNextFrame 30.1 time 10028 usec
+add frame 30.1 time sec 1590127091 usec 747970
+src frame 31.0 time sec 1590127091 usec 747986
+    Interpolator time 16599 usec
+    getNextFrame 31.1 time 10272 usec
+add frame 31.1 time sec 1590127091 usec 777300
+src frame 32.0 time sec 1590127091 usec 777376
+    Interpolator time 16570 usec
+    getNextFrame 32.1 time 10312 usec
+add frame 32.1 time sec 1590127091 usec 806125
+src frame 33.0 time sec 1590127091 usec 806141
+    Interpolator time 17201 usec
+    getNextFrame 33.1 time 9970 usec
+add frame 33.1 time sec 1590127091 usec 835226
+src frame 34.0 time sec 1590127091 usec 835239
+    Interpolator time 16730 usec
+    getNextFrame 34.1 time 10514 usec
+add frame 34.1 time sec 1590127091 usec 864452
+src frame 35.0 time sec 1590127091 usec 864465
+    Interpolator time 16294 usec
+    getNextFrame 35.1 time 9922 usec
+add frame 35.1 time sec 1590127091 usec 892516
+src frame 36.0 time sec 1590127091 usec 892590
+    Interpolator time 16470 usec
+    getNextFrame 36.1 time 10024 usec
+add frame 36.1 time sec 1590127091 usec 920886
+src frame 37.0 time sec 1590127091 usec 920967
+    Interpolator time 16639 usec
+    getNextFrame 37.1 time 10289 usec
+add frame 37.1 time sec 1590127091 usec 949835
+src frame 38.0 time sec 1590127091 usec 949848
+    Interpolator time 15820 usec
+    getNextFrame 38.1 time 10393 usec
+add frame 38.1 time sec 1590127091 usec 977927
+src frame 39.0 time sec 1590127091 usec 977943
+    Interpolator time 15825 usec
+    getNextFrame 39.1 time 9934 usec
+add frame 39.1 time sec 1590127092 usec 5548
+src frame 40.0 time sec 1590127092 usec 5563
+    Interpolator time 17204 usec
+    getNextFrame 40.1 time 10225 usec
+add frame 40.1 time sec 1590127092 usec 34903
+src frame 41.0 time sec 1590127092 usec 34944
+    Interpolator time 16699 usec
+    getNextFrame 41.1 time 9962 usec
+add frame 41.1 time sec 1590127092 usec 63501
+src frame 42.0 time sec 1590127092 usec 63515
+    Interpolator time 17763 usec
+    getNextFrame 42.1 time 10110 usec
+add frame 42.1 time sec 1590127092 usec 93305
+src frame 43.0 time sec 1590127092 usec 93347
+    Interpolator time 17304 usec
+    getNextFrame 43.1 time 10158 usec
+add frame 43.1 time sec 1590127092 usec 122680
+src frame 44.0 time sec 1590127092 usec 122693
+    Interpolator time 16974 usec
+    getNextFrame 44.1 time 10366 usec
+add frame 44.1 time sec 1590127092 usec 151948
+src frame 45.0 time sec 1590127092 usec 151992
+    Interpolator time 16989 usec
+    getNextFrame 45.1 time 10041 usec
+add frame 45.1 time sec 1590127092 usec 180869
+src frame 46.0 time sec 1590127092 usec 180915
+    Interpolator time 17091 usec
+    getNextFrame 46.1 time 9920 usec
+add frame 46.1 time sec 1590127092 usec 209783
+src frame 47.0 time sec 1590127092 usec 209825
+    Interpolator time 16992 usec
+    getNextFrame 47.1 time 9975 usec
+add frame 47.1 time sec 1590127092 usec 238648
+src frame 48.0 time sec 1590127092 usec 238690
+    Interpolator time 17334 usec
+    getNextFrame 48.1 time 10719 usec
+add frame 48.1 time sec 1590127092 usec 268593
+src frame 49.0 time sec 1590127092 usec 268644
+    Interpolator time 17328 usec
+    getNextFrame 49.1 time 9793 usec
+add frame 49.1 time sec 1590127092 usec 297621
+src frame 50.0 time sec 1590127092 usec 297647
+    Interpolator time 16315 usec
+    getNextFrame 50.1 time 9935 usec
+add frame 50.1 time sec 1590127092 usec 326873
+src frame 51.0 time sec 1590127092 usec 326888
+    Interpolator time 16535 usec
+    getNextFrame 51.1 time 10330 usec
+add frame 51.1 time sec 1590127092 usec 355612
+src frame 52.0 time sec 1590127092 usec 355654
+    Interpolator time 18624 usec
+    getNextFrame 52.1 time 13883 usec
+add frame 52.1 time sec 1590127092 usec 390143
+src frame 53.0 time sec 1590127092 usec 390160
+    Interpolator time 17856 usec
+    getNextFrame 53.1 time 12286 usec
+add frame 53.1 time sec 1590127092 usec 422727
+src frame 54.0 time sec 1590127092 usec 422819
+    Interpolator time 18575 usec
+    getNextFrame 54.1 time 10722 usec
+add frame 54.1 time sec 1590127092 usec 454258
+src frame 55.0 time sec 1590127092 usec 454274
+    Interpolator time 16224 usec
+    getNextFrame 55.1 time 10104 usec
+add frame 55.1 time sec 1590127092 usec 482450
+src frame 56.0 time sec 1590127092 usec 482465
+    Interpolator time 20279 usec
+    getNextFrame 56.1 time 16579 usec
+add frame 56.1 time sec 1590127092 usec 521245
+src frame 57.0 time sec 1590127092 usec 521284
+    Interpolator time 18174 usec
+    getNextFrame 57.1 time 10024 usec
+add frame 57.1 time sec 1590127092 usec 552470
+src frame 58.0 time sec 1590127092 usec 552547
+    Interpolator time 19296 usec
+    getNextFrame 58.1 time 10280 usec
+add frame 58.1 time sec 1590127092 usec 584136
+src frame 59.0 time sec 1590127092 usec 584224
+    Interpolator time 18248 usec
+    getNextFrame 59.1 time 11506 usec
+add frame 59.1 time sec 1590127092 usec 615828
+src frame 60.0 time sec 1590127092 usec 615866
+    Interpolator time 22028 usec
+    getNextFrame 60.1 time 10453 usec
+add frame 60.1 time sec 1590127092 usec 650242
+src frame 61.0 time sec 1590127092 usec 650334
+    Interpolator time 16778 usec
+    getNextFrame 61.1 time 9913 usec
+add frame 61.1 time sec 1590127092 usec 678957
+src frame 62.0 time sec 1590127092 usec 678998
+    Interpolator time 17901 usec
+    getNextFrame 62.1 time 10032 usec
+add frame 62.1 time sec 1590127092 usec 708802
+src frame 63.0 time sec 1590127092 usec 708841
+    Interpolator time 19516 usec
+    getNextFrame 63.1 time 10640 usec
+add frame 63.1 time sec 1590127092 usec 740902
+src frame 64.0 time sec 1590127092 usec 740940
+    Interpolator time 17009 usec
+    getNextFrame 64.1 time 10050 usec
+add frame 64.1 time sec 1590127092 usec 769851
+src frame 65.0 time sec 1590127092 usec 769892
+    Interpolator time 17999 usec
+    getNextFrame 65.1 time 10847 usec
+add frame 65.1 time sec 1590127092 usec 800722
+src frame 66.0 time sec 1590127092 usec 800767
+    Interpolator time 18512 usec
+    getNextFrame 66.1 time 10384 usec
+add frame 66.1 time sec 1590127092 usec 831515
+src frame 67.0 time sec 1590127092 usec 831557
+    Interpolator time 17653 usec
+    getNextFrame 67.1 time 10979 usec
+add frame 67.1 time sec 1590127092 usec 862033
+src frame 68.0 time sec 1590127092 usec 862046
+    Interpolator time 17928 usec
+    getNextFrame 68.1 time 10151 usec
+add frame 68.1 time sec 1590127092 usec 892134
+src frame 69.0 time sec 1590127092 usec 892146
+    Interpolator time 16968 usec
+    getNextFrame 69.1 time 10568 usec
+add frame 69.1 time sec 1590127092 usec 921553
+src frame 70.0 time sec 1590127092 usec 921567
+    Interpolator time 17716 usec
+    getNextFrame 70.1 time 10410 usec
+add frame 70.1 time sec 1590127092 usec 951544
+src frame 71.0 time sec 1590127092 usec 951558
+    Interpolator time 17388 usec
+    getNextFrame 71.1 time 10320 usec
+add frame 71.1 time sec 1590127092 usec 981066
+src frame 72.0 time sec 1590127092 usec 981081
+    Interpolator time 16787 usec
+    getNextFrame 72.1 time 10359 usec
+add frame 72.1 time sec 1590127093 usec 10029
+src frame 73.0 time sec 1590127093 usec 10043
+    Interpolator time 17947 usec
+    getNextFrame 73.1 time 10079 usec
+add frame 73.1 time sec 1590127093 usec 39922
+src frame 74.0 time sec 1590127093 usec 39936
+    Interpolator time 16773 usec
+    getNextFrame 74.1 time 10187 usec
+add frame 74.1 time sec 1590127093 usec 68814
+src frame 75.0 time sec 1590127093 usec 68839
+    Interpolator time 16583 usec
+    getNextFrame 75.1 time 10172 usec
+add frame 75.1 time sec 1590127093 usec 97591
+src frame 76.0 time sec 1590127093 usec 97623
+    Interpolator time 18228 usec
+    getNextFrame 76.1 time 10986 usec
+add frame 76.1 time sec 1590127093 usec 128741
+src frame 77.0 time sec 1590127093 usec 128756
+    Interpolator time 17312 usec
+    getNextFrame 77.1 time 9913 usec
+add frame 77.1 time sec 1590127093 usec 157858
+src frame 78.0 time sec 1590127093 usec 157871
+    Interpolator time 17105 usec
+    getNextFrame 78.1 time 14680 usec
+add frame 78.1 time sec 1590127093 usec 191651
+src frame 79.0 time sec 1590127093 usec 191665
+    Interpolator time 18199 usec
+    getNextFrame 79.1 time 12878 usec
+add frame 79.1 time sec 1590127093 usec 225490
+src frame 80.0 time sec 1590127093 usec 225505
+    Interpolator time 16755 usec
+    getNextFrame 80.1 time 10430 usec
+add frame 80.1 time sec 1590127093 usec 255680
+src frame 81.0 time sec 1590127093 usec 255722
+    Interpolator time 19716 usec
+    getNextFrame 81.1 time 13365 usec
+add frame 81.1 time sec 1590127093 usec 290646
+src frame 82.0 time sec 1590127093 usec 290661
+    Interpolator time 17308 usec
+    getNextFrame 82.1 time 12716 usec
+add frame 82.1 time sec 1590127093 usec 323033
+src frame 83.0 time sec 1590127093 usec 323079
+    Interpolator time 19877 usec
+    getNextFrame 83.1 time 12851 usec
+add frame 83.1 time sec 1590127093 usec 358307
+src frame 84.0 time sec 1590127093 usec 358350
+    Interpolator time 18857 usec
+    getNextFrame 84.1 time 10030 usec
+add frame 84.1 time sec 1590127093 usec 389589
+src frame 85.0 time sec 1590127093 usec 389602
+    Interpolator time 16393 usec
+    getNextFrame 85.1 time 10143 usec
+add frame 85.1 time sec 1590127093 usec 419303
+src frame 86.0 time sec 1590127093 usec 419314
+    Interpolator time 19020 usec
+    getNextFrame 86.1 time 10059 usec
+add frame 86.1 time sec 1590127093 usec 451366
+src frame 87.0 time sec 1590127093 usec 451378
+    Interpolator time 17655 usec
+    getNextFrame 87.1 time 9963 usec
+add frame 87.1 time sec 1590127093 usec 482089
+src frame 88.0 time sec 1590127093 usec 482102
+    Interpolator time 17211 usec
+    getNextFrame 88.1 time 10063 usec
+add frame 88.1 time sec 1590127093 usec 512282
+src frame 89.0 time sec 1590127093 usec 512294
+    Interpolator time 17218 usec
+    getNextFrame 89.1 time 10201 usec
+add frame 89.1 time sec 1590127093 usec 542522
+src frame 90.0 time sec 1590127093 usec 542534
+    Interpolator time 24993 usec
+    getNextFrame 90.1 time 16801 usec
+add frame 90.1 time sec 1590127093 usec 587369
+src frame 91.0 time sec 1590127093 usec 587385
+    Interpolator time 15953 usec
+    getNextFrame 91.1 time 10455 usec
+add frame 91.1 time sec 1590127093 usec 616077
+src frame 92.0 time sec 1590127093 usec 616152
+    Interpolator time 16887 usec
+    getNextFrame 92.1 time 10413 usec
+add frame 92.1 time sec 1590127093 usec 645267
+src frame 93.0 time sec 1590127093 usec 645350
+    Interpolator time 16445 usec
+    getNextFrame 93.1 time 10640 usec
+add frame 93.1 time sec 1590127093 usec 674414
+src frame 94.0 time sec 1590127093 usec 674426
+    Interpolator time 16790 usec
+    getNextFrame 94.1 time 15202 usec
+add frame 94.1 time sec 1590127093 usec 708293
+src frame 95.0 time sec 1590127093 usec 708309
+    Interpolator time 18142 usec
+    getNextFrame 95.1 time 15308 usec
+add frame 95.1 time sec 1590127093 usec 744830
+src frame 96.0 time sec 1590127093 usec 744846
+    Interpolator time 17669 usec
+    getNextFrame 96.1 time 14939 usec
+add frame 96.1 time sec 1590127093 usec 780419
+src frame 97.0 time sec 1590127093 usec 780458
+    Interpolator time 17860 usec
+    getNextFrame 97.1 time 11460 usec
+add frame 97.1 time sec 1590127093 usec 812872
+src frame 98.0 time sec 1590127093 usec 812915
+    Interpolator time 16430 usec
+    getNextFrame 98.1 time 10266 usec
+add frame 98.1 time sec 1590127093 usec 841472
+src frame 99.0 time sec 1590127093 usec 841514
+    Interpolator time 17164 usec
+    getNextFrame 99.1 time 10040 usec
+add frame 99.1 time sec 1590127093 usec 870588
+src frame 100.0 time sec 1590127093 usec 870639
+    Interpolator time 17745 usec
+    getNextFrame 100.1 time 10149 usec
+add frame 100.1 time sec 1590127093 usec 901376
+src frame 101.0 time sec 1590127093 usec 901420
+    Interpolator time 16905 usec
+    getNextFrame 101.1 time 10397 usec
+add frame 101.1 time sec 1590127093 usec 930560
+src frame 102.0 time sec 1590127093 usec 930574
+    Interpolator time 18925 usec
+    getNextFrame 102.1 time 10301 usec
+add frame 102.1 time sec 1590127093 usec 961729
+src frame 103.0 time sec 1590127093 usec 961770
+    Interpolator time 17688 usec
+    getNextFrame 103.1 time 10414 usec
+add frame 103.1 time sec 1590127093 usec 991753
+src frame 104.0 time sec 1590127093 usec 991829
+    Interpolator time 17404 usec
+    getNextFrame 104.1 time 9779 usec
+add frame 104.1 time sec 1590127094 usec 20884
+src frame 105.0 time sec 1590127094 usec 20895
+    Interpolator time 18605 usec
+    getNextFrame 105.1 time 10324 usec
+add frame 105.1 time sec 1590127094 usec 52785
+src frame 106.0 time sec 1590127094 usec 52797
+    Interpolator time 25010 usec
+    getNextFrame 106.1 time 9492 usec
+add frame 106.1 time sec 1590127094 usec 90221
+src frame 107.0 time sec 1590127094 usec 90305
+    Interpolator time 15929 usec
+    getNextFrame 107.1 time 9713 usec
+add frame 107.1 time sec 1590127094 usec 117820
+src frame 108.0 time sec 1590127094 usec 117912
+    Interpolator time 16595 usec
+    getNextFrame 108.1 time 9914 usec
+add frame 108.1 time sec 1590127094 usec 146295
+src frame 109.0 time sec 1590127094 usec 146307
+    Interpolator time 16608 usec
+    getNextFrame 109.1 time 9878 usec
+add frame 109.1 time sec 1590127094 usec 175659
+src frame 110.0 time sec 1590127094 usec 175670
+    Interpolator time 16850 usec
+    getNextFrame 110.1 time 9910 usec
+add frame 110.1 time sec 1590127094 usec 205408
+src frame 111.0 time sec 1590127094 usec 205418
+    Interpolator time 16656 usec
+    getNextFrame 111.1 time 9873 usec
+add frame 111.1 time sec 1590127094 usec 234852
+src frame 112.0 time sec 1590127094 usec 234863
+    Interpolator time 16584 usec
+    getNextFrame 112.1 time 9759 usec
+add frame 112.1 time sec 1590127094 usec 264094
+src frame 113.0 time sec 1590127094 usec 264104
+    Interpolator time 19007 usec
+    getNextFrame 113.1 time 10589 usec
+add frame 113.1 time sec 1590127094 usec 296658
+src frame 114.0 time sec 1590127094 usec 296671
+    Interpolator time 17748 usec
+    getNextFrame 114.1 time 9677 usec
+add frame 114.1 time sec 1590127094 usec 326988
+src frame 115.0 time sec 1590127094 usec 327036
+    Interpolator time 16642 usec
+    getNextFrame 115.1 time 9934 usec
+add frame 115.1 time sec 1590127094 usec 355487
+src frame 116.0 time sec 1590127094 usec 355531
+    Interpolator time 16547 usec
+    getNextFrame 116.1 time 9788 usec
+add frame 116.1 time sec 1590127094 usec 383708
+src frame 117.0 time sec 1590127094 usec 383751
+    Interpolator time 16571 usec
+    getNextFrame 117.1 time 9970 usec
+add frame 117.1 time sec 1590127094 usec 412121
+src frame 118.0 time sec 1590127094 usec 412167
+    Interpolator time 17157 usec
+    getNextFrame 118.1 time 10030 usec
+add frame 118.1 time sec 1590127094 usec 441214
+src frame 119.0 time sec 1590127094 usec 441227
+    Interpolator time 16943 usec
+    getNextFrame 119.1 time 10658 usec
+add frame 119.1 time sec 1590127094 usec 470622
+src frame 120.0 time sec 1590127094 usec 470638
+    Interpolator time 17378 usec
+    getNextFrame 120.1 time 10018 usec
+add frame 120.1 time sec 1590127094 usec 499911
+src frame 121.0 time sec 1590127094 usec 499925
+    Interpolator time 16516 usec
+    getNextFrame 121.1 time 9859 usec
+add frame 121.1 time sec 1590127094 usec 528107
+src frame 122.0 time sec 1590127094 usec 528119
+    Interpolator time 17127 usec
+    getNextFrame 122.1 time 10164 usec
+add frame 122.1 time sec 1590127094 usec 558263
+src frame 123.0 time sec 1590127094 usec 558274
+    Interpolator time 16983 usec
+    getNextFrame 123.1 time 9976 usec
+add frame 123.1 time sec 1590127094 usec 588085
+src frame 124.0 time sec 1590127094 usec 588097
+    Interpolator time 16619 usec
+    getNextFrame 124.1 time 10028 usec
+add frame 124.1 time sec 1590127094 usec 617731
+src frame 125.0 time sec 1590127094 usec 617773
+    Interpolator time 17690 usec
+    getNextFrame 125.1 time 15051 usec
+add frame 125.1 time sec 1590127094 usec 652373
+src frame 126.0 time sec 1590127094 usec 652388
+    Interpolator time 20423 usec
+    getNextFrame 126.1 time 10370 usec
+add frame 126.1 time sec 1590127094 usec 685324
+src frame 127.0 time sec 1590127094 usec 685336
+    Interpolator time 17922 usec
+    getNextFrame 127.1 time 10501 usec
+add frame 127.1 time sec 1590127094 usec 716715
+src frame 128.0 time sec 1590127094 usec 716727
+    Interpolator time 16570 usec
+    getNextFrame 128.1 time 10053 usec
+add frame 128.1 time sec 1590127094 usec 746388
+src frame 129.0 time sec 1590127094 usec 746400
+    Interpolator time 15747 usec
+    getNextFrame 129.1 time 10241 usec
+add frame 129.1 time sec 1590127094 usec 775667
+src frame 130.0 time sec 1590127094 usec 775685
+    Interpolator time 15611 usec
+    getNextFrame 130.1 time 9836 usec
+add frame 130.1 time sec 1590127094 usec 804024
+src frame 131.0 time sec 1590127094 usec 804038
+    Interpolator time 15742 usec
+    getNextFrame 131.1 time 9760 usec
+add frame 131.1 time sec 1590127094 usec 832493
+src frame 132.0 time sec 1590127094 usec 832506
+    Interpolator time 15896 usec
+    getNextFrame 132.1 time 10329 usec
+add frame 132.1 time sec 1590127094 usec 861603
+src frame 133.0 time sec 1590127094 usec 861617
+    Interpolator time 15819 usec
+    getNextFrame 133.1 time 9945 usec
+add frame 133.1 time sec 1590127094 usec 890232
+src frame 134.0 time sec 1590127094 usec 890245
+    Interpolator time 16209 usec
+    getNextFrame 134.1 time 9913 usec
+add frame 134.1 time sec 1590127094 usec 919273
+src frame 135.0 time sec 1590127094 usec 919288
+    Interpolator time 17130 usec
+    getNextFrame 135.1 time 10011 usec
+add frame 135.1 time sec 1590127094 usec 949292
+src frame 136.0 time sec 1590127094 usec 949380
+    Interpolator time 17200 usec
+    getNextFrame 136.1 time 9863 usec
+add frame 136.1 time sec 1590127094 usec 978326
+src frame 137.0 time sec 1590127094 usec 978402
+    Interpolator time 16231 usec
+    getNextFrame 137.1 time 9784 usec
+add frame 137.1 time sec 1590127095 usec 6301
+src frame 138.0 time sec 1590127095 usec 6376
+    Interpolator time 16764 usec
+    getNextFrame 138.1 time 10427 usec
+add frame 138.1 time sec 1590127095 usec 35441
+src frame 139.0 time sec 1590127095 usec 35473
+    Interpolator time 17761 usec
+    getNextFrame 139.1 time 9896 usec
+add frame 139.1 time sec 1590127095 usec 65204
+src frame 140.0 time sec 1590127095 usec 65246
+    Interpolator time 17103 usec
+    getNextFrame 140.1 time 10171 usec
+add frame 140.1 time sec 1590127095 usec 94461
+src frame 141.0 time sec 1590127095 usec 94503
+    Interpolator time 20629 usec
+    getNextFrame 141.1 time 10385 usec
+add frame 141.1 time sec 1590127095 usec 127390
+src frame 142.0 time sec 1590127095 usec 127402
+    Interpolator time 18792 usec
+    getNextFrame 142.1 time 10549 usec
+add frame 142.1 time sec 1590127095 usec 159794
+src frame 143.0 time sec 1590127095 usec 159806
+    Interpolator time 17705 usec
+    getNextFrame 143.1 time 10502 usec
+add frame 143.1 time sec 1590127095 usec 190838
+src frame 144.0 time sec 1590127095 usec 190884
+    Interpolator time 18956 usec
+    getNextFrame 144.1 time 10449 usec
+add frame 144.1 time sec 1590127095 usec 222214
+src frame 145.0 time sec 1590127095 usec 222229
+    Interpolator time 18941 usec
+    getNextFrame 145.1 time 9986 usec
+add frame 145.1 time sec 1590127095 usec 254310
+src frame 146.0 time sec 1590127095 usec 254321
+    Interpolator time 19257 usec
+    getNextFrame 146.1 time 15030 usec
+add frame 146.1 time sec 1590127095 usec 291562
+src frame 147.0 time sec 1590127095 usec 291603
+    Interpolator time 19766 usec
+    getNextFrame 147.1 time 14157 usec
+add frame 147.1 time sec 1590127095 usec 328289
+src frame 148.0 time sec 1590127095 usec 328328
+    Interpolator time 18510 usec
+    getNextFrame 148.1 time 15103 usec
+add frame 148.1 time sec 1590127095 usec 364517
+src frame 149.0 time sec 1590127095 usec 364533
+    Interpolator time 18756 usec
+    getNextFrame 149.1 time 15017 usec
+add frame 149.1 time sec 1590127095 usec 401111
+src frame 150.0 time sec 1590127095 usec 401125
+    Interpolator time 22219 usec
+    getNextFrame 150.1 time 15012 usec
+add frame 150.1 time sec 1590127095 usec 441032
+src frame 151.0 time sec 1590127095 usec 441049
+    Interpolator time 17319 usec
+    getNextFrame 151.1 time 15039 usec
+add frame 151.1 time sec 1590127095 usec 476113
+src frame 152.0 time sec 1590127095 usec 476129
+    Interpolator time 20811 usec
+    getNextFrame 152.1 time 10307 usec
+add frame 152.1 time sec 1590127095 usec 509828
+src frame 153.0 time sec 1590127095 usec 509893
+    Interpolator time 18212 usec
+    getNextFrame 153.1 time 10525 usec
+add frame 153.1 time sec 1590127095 usec 540530
+src frame 154.0 time sec 1590127095 usec 540547
+    Interpolator time 17070 usec
+    getNextFrame 154.1 time 10051 usec
+add frame 154.1 time sec 1590127095 usec 569670
+src frame 155.0 time sec 1590127095 usec 569738
+    Interpolator time 17008 usec
+    getNextFrame 155.1 time 10261 usec
+add frame 155.1 time sec 1590127095 usec 598984
+src frame 156.0 time sec 1590127095 usec 599028
+    Interpolator time 18382 usec
+    getNextFrame 156.1 time 10243 usec
+add frame 156.1 time sec 1590127095 usec 629538
+src frame 157.0 time sec 1590127095 usec 629579
+    Interpolator time 17082 usec
+    getNextFrame 157.1 time 10424 usec
+add frame 157.1 time sec 1590127095 usec 658988
+src frame 158.0 time sec 1590127095 usec 659006
+    Interpolator time 17511 usec
+    getNextFrame 158.1 time 12936 usec
+add frame 158.1 time sec 1590127095 usec 691399
+src frame 159.0 time sec 1590127095 usec 691414
+    Interpolator time 18101 usec
+    getNextFrame 159.1 time 10738 usec
+add frame 159.1 time sec 1590127095 usec 723361
+src frame 160.0 time sec 1590127095 usec 723374
+    Interpolator time 19522 usec
+    getNextFrame 160.1 time 10443 usec
+add frame 160.1 time sec 1590127095 usec 756302
+src frame 161.0 time sec 1590127095 usec 756361
+    Interpolator time 18982 usec
+    getNextFrame 161.1 time 10181 usec
+add frame 161.1 time sec 1590127095 usec 787392
+src frame 162.0 time sec 1590127095 usec 787406
+    Interpolator time 18000 usec
+    getNextFrame 162.1 time 10273 usec
+add frame 162.1 time sec 1590127095 usec 817634
+src frame 163.0 time sec 1590127095 usec 817676
+    Interpolator time 18095 usec
+    getNextFrame 163.1 time 10052 usec
+add frame 163.1 time sec 1590127095 usec 847711
+src frame 164.0 time sec 1590127095 usec 847754
+    Interpolator time 17146 usec
+    getNextFrame 164.1 time 13051 usec
+add frame 164.1 time sec 1590127095 usec 879867
+src frame 165.0 time sec 1590127095 usec 879905
+    Interpolator time 18431 usec
+    getNextFrame 165.1 time 15507 usec
+add frame 165.1 time sec 1590127095 usec 916646
+src frame 166.0 time sec 1590127095 usec 916661
+    Interpolator time 19231 usec
+    getNextFrame 166.1 time 10264 usec
+add frame 166.1 time sec 1590127095 usec 949146
+src frame 167.0 time sec 1590127095 usec 949188
+    Interpolator time 18830 usec
+    getNextFrame 167.1 time 10583 usec
+add frame 167.1 time sec 1590127095 usec 980516
+src frame 168.0 time sec 1590127095 usec 980527
+    Interpolator time 17962 usec
+    getNextFrame 168.1 time 9879 usec
+add frame 168.1 time sec 1590127096 usec 11575
+src frame 169.0 time sec 1590127096 usec 11587
+    Interpolator time 19331 usec
+    getNextFrame 169.1 time 10618 usec
+add frame 169.1 time sec 1590127096 usec 44487
+src frame 170.0 time sec 1590127096 usec 44498
+    Interpolator time 17937 usec
+    getNextFrame 170.1 time 10195 usec
+add frame 170.1 time sec 1590127096 usec 75540
+src frame 171.0 time sec 1590127096 usec 75555
+    Interpolator time 18681 usec
+    getNextFrame 171.1 time 9901 usec
+add frame 171.1 time sec 1590127096 usec 107028
+src frame 172.0 time sec 1590127096 usec 107039
+    Interpolator time 17200 usec
+    getNextFrame 172.1 time 9983 usec
+add frame 172.1 time sec 1590127096 usec 137280
+src frame 173.0 time sec 1590127096 usec 137292
+    Interpolator time 18164 usec
+    getNextFrame 173.1 time 10076 usec
+add frame 173.1 time sec 1590127096 usec 168699
+src frame 174.0 time sec 1590127096 usec 168712
+    Interpolator time 17627 usec
+    getNextFrame 174.1 time 12524 usec
+add frame 174.1 time sec 1590127096 usec 201823
+src frame 175.0 time sec 1590127096 usec 201907
+    Interpolator time 17445 usec
+    getNextFrame 175.1 time 12752 usec
+add frame 175.1 time sec 1590127096 usec 234136
+src frame 176.0 time sec 1590127096 usec 234220
+    Interpolator time 17162 usec
+    getNextFrame 176.1 time 10165 usec
+add frame 176.1 time sec 1590127096 usec 263613
+src frame 177.0 time sec 1590127096 usec 263627
+    Interpolator time 16490 usec
+    getNextFrame 177.1 time 10169 usec
+add frame 177.1 time sec 1590127096 usec 292200
+src frame 178.0 time sec 1590127096 usec 292214
+    Interpolator time 18493 usec
+    getNextFrame 178.1 time 9927 usec
+add frame 178.1 time sec 1590127096 usec 322444
+src frame 179.0 time sec 1590127096 usec 322522
+    Interpolator time 17859 usec
+    getNextFrame 179.1 time 10013 usec
+add frame 179.1 time sec 1590127096 usec 352291
+src frame 180.0 time sec 1590127096 usec 352333
+    Interpolator time 18195 usec
+    getNextFrame 180.1 time 10050 usec
+add frame 180.1 time sec 1590127096 usec 382460
+src frame 181.0 time sec 1590127096 usec 382535
+    Interpolator time 17169 usec
+    getNextFrame 181.1 time 10667 usec
+add frame 181.1 time sec 1590127096 usec 412240
+src frame 182.0 time sec 1590127096 usec 412281
+    Interpolator time 17662 usec
+    getNextFrame 182.1 time 10221 usec
+add frame 182.1 time sec 1590127096 usec 442071
+src frame 183.0 time sec 1590127096 usec 442111
+    Interpolator time 17403 usec
+    getNextFrame 183.1 time 11987 usec
+add frame 183.1 time sec 1590127096 usec 473432
+src frame 184.0 time sec 1590127096 usec 473447
+    Interpolator time 17517 usec
+    getNextFrame 184.1 time 11354 usec
+add frame 184.1 time sec 1590127096 usec 505344
+src frame 185.0 time sec 1590127096 usec 505363
+    Interpolator time 17129 usec
+    getNextFrame 185.1 time 10670 usec
+add frame 185.1 time sec 1590127096 usec 535184
+src frame 186.0 time sec 1590127096 usec 535201
+    Interpolator time 17779 usec
+    getNextFrame 186.1 time 15878 usec
+add frame 186.1 time sec 1590127096 usec 571497
+src frame 187.0 time sec 1590127096 usec 571514
+    Interpolator time 22828 usec
+    getNextFrame 187.1 time 16495 usec
+add frame 187.1 time sec 1590127096 usec 613803
+src frame 188.0 time sec 1590127096 usec 613823
+    Interpolator time 22657 usec
+    getNextFrame 188.1 time 16658 usec
+add frame 188.1 time sec 1590127096 usec 656346
+src frame 189.0 time sec 1590127096 usec 656390
+    Interpolator time 20171 usec
+    getNextFrame 189.1 time 16957 usec
+add frame 189.1 time sec 1590127096 usec 696636
+src frame 190.0 time sec 1590127096 usec 696678
+    Interpolator time 19473 usec
+    getNextFrame 190.1 time 14123 usec
+add frame 190.1 time sec 1590127096 usec 733369
+src frame 191.0 time sec 1590127096 usec 733391
+    Interpolator time 22258 usec
+    getNextFrame 191.1 time 10827 usec
+add frame 191.1 time sec 1590127096 usec 768748
+src frame 192.0 time sec 1590127096 usec 768822
+    Interpolator time 18794 usec
+    getNextFrame 192.1 time 11061 usec
+add frame 192.1 time sec 1590127096 usec 801399
+src frame 193.0 time sec 1590127096 usec 801485
+    Interpolator time 17214 usec
+    getNextFrame 193.1 time 9989 usec
+add frame 193.1 time sec 1590127096 usec 830628
+src frame 194.0 time sec 1590127096 usec 830673
+    Interpolator time 18690 usec
+    getNextFrame 194.1 time 10783 usec
+add frame 194.1 time sec 1590127096 usec 862145
+src frame 195.0 time sec 1590127096 usec 862157
+    Interpolator time 19324 usec
+    getNextFrame 195.1 time 16126 usec
+add frame 195.1 time sec 1590127096 usec 900567
+src frame 196.0 time sec 1590127096 usec 900626
+    Interpolator time 18322 usec
+    getNextFrame 196.1 time 16010 usec
+add frame 196.1 time sec 1590127096 usec 938217
+src frame 197.0 time sec 1590127096 usec 938255
+    Interpolator time 20651 usec
+    getNextFrame 197.1 time 16285 usec
+add frame 197.1 time sec 1590127096 usec 978278
+src frame 198.0 time sec 1590127096 usec 978319
+    Interpolator time 19338 usec
+    getNextFrame 198.1 time 15982 usec
+add frame 198.1 time sec 1590127097 usec 16681
+src frame 199.0 time sec 1590127097 usec 16723
+    Interpolator time 18989 usec
+    getNextFrame 199.1 time 10475 usec
+add frame 199.1 time sec 1590127097 usec 49205
+src frame 200.0 time sec 1590127097 usec 49220
+    Interpolator time 17617 usec
+    getNextFrame 200.1 time 11701 usec
+add frame 200.1 time sec 1590127097 usec 80419
+src frame 201.0 time sec 1590127097 usec 80461
+    Interpolator time 18881 usec
+    getNextFrame 201.1 time 10591 usec
+add frame 201.1 time sec 1590127097 usec 111786
+src frame 202.0 time sec 1590127097 usec 111800
+    Interpolator time 18836 usec
+    getNextFrame 202.1 time 10940 usec
+add frame 202.1 time sec 1590127097 usec 143455
+src frame 203.0 time sec 1590127097 usec 143469
+    Interpolator time 19519 usec
+    getNextFrame 203.1 time 10191 usec
+add frame 203.1 time sec 1590127097 usec 175816
+src frame 204.0 time sec 1590127097 usec 175829
+    Interpolator time 16555 usec
+    getNextFrame 204.1 time 10555 usec
+add frame 204.1 time sec 1590127097 usec 204718
+src frame 205.0 time sec 1590127097 usec 204734
+    Interpolator time 17323 usec
+    getNextFrame 205.1 time 9736 usec
+add frame 205.1 time sec 1590127097 usec 233881
+src frame 206.0 time sec 1590127097 usec 233893
+    Interpolator time 16791 usec
+    getNextFrame 206.1 time 9766 usec
+add frame 206.1 time sec 1590127097 usec 263556
+src frame 207.0 time sec 1590127097 usec 263570
+    Interpolator time 16195 usec
+    getNextFrame 207.1 time 10436 usec
+add frame 207.1 time sec 1590127097 usec 292032
+src frame 208.0 time sec 1590127097 usec 292048
+    Interpolator time 16949 usec
+    getNextFrame 208.1 time 10058 usec
+add frame 208.1 time sec 1590127097 usec 320880
+src frame 209.0 time sec 1590127097 usec 320895
+    Interpolator time 16510 usec
+    getNextFrame 209.1 time 10101 usec
+add frame 209.1 time sec 1590127097 usec 349487
+src frame 210.0 time sec 1590127097 usec 349500
+    Interpolator time 16122 usec
+    getNextFrame 210.1 time 9943 usec
+add frame 210.1 time sec 1590127097 usec 377414
+src frame 211.0 time sec 1590127097 usec 377426
+    Interpolator time 17319 usec
+    getNextFrame 211.1 time 9921 usec
+add frame 211.1 time sec 1590127097 usec 406699
+src frame 212.0 time sec 1590127097 usec 406713
+    Interpolator time 16812 usec
+    getNextFrame 212.1 time 9820 usec
+add frame 212.1 time sec 1590127097 usec 435198
+src frame 213.0 time sec 1590127097 usec 435212
+    Interpolator time 16409 usec
+    getNextFrame 213.1 time 10172 usec
+add frame 213.1 time sec 1590127097 usec 463683
+src frame 214.0 time sec 1590127097 usec 463696
+    Interpolator time 16247 usec
+    getNextFrame 214.1 time 9816 usec
+add frame 214.1 time sec 1590127097 usec 491729
+src frame 215.0 time sec 1590127097 usec 491743
+    Interpolator time 16662 usec
+    getNextFrame 215.1 time 9871 usec
+add frame 215.1 time sec 1590127097 usec 520123
+src frame 216.0 time sec 1590127097 usec 520135
+    Interpolator time 19930 usec
+    getNextFrame 216.1 time 10262 usec
+add frame 216.1 time sec 1590127097 usec 552171
+src frame 217.0 time sec 1590127097 usec 552247
+    Interpolator time 18527 usec
+    getNextFrame 217.1 time 11529 usec
+add frame 217.1 time sec 1590127097 usec 584169
+src frame 218.0 time sec 1590127097 usec 584237
+    Interpolator time 18032 usec
+    getNextFrame 218.1 time 10308 usec
+add frame 218.1 time sec 1590127097 usec 614413
+src frame 219.0 time sec 1590127097 usec 614427
+    Interpolator time 17381 usec
+    getNextFrame 219.1 time 10712 usec
+add frame 219.1 time sec 1590127097 usec 644454
+src frame 220.0 time sec 1590127097 usec 644470
+    Interpolator time 16775 usec
+    getNextFrame 220.1 time 10523 usec
+add frame 220.1 time sec 1590127097 usec 673987
+src frame 221.0 time sec 1590127097 usec 674033
+    Interpolator time 16764 usec
+    getNextFrame 221.1 time 10068 usec
+add frame 221.1 time sec 1590127097 usec 702729
+src frame 222.0 time sec 1590127097 usec 702754
+    Interpolator time 17451 usec
+    getNextFrame 222.1 time 9986 usec
+add frame 222.1 time sec 1590127097 usec 732164
+src frame 223.0 time sec 1590127097 usec 732179
+    Interpolator time 17772 usec
+    getNextFrame 223.1 time 10948 usec
+add frame 223.1 time sec 1590127097 usec 763287
+src frame 224.0 time sec 1590127097 usec 763381
+    Interpolator time 17418 usec
+    getNextFrame 224.1 time 10632 usec
+add frame 224.1 time sec 1590127097 usec 793288
+src frame 225.0 time sec 1590127097 usec 793299
+    Interpolator time 18366 usec
+    getNextFrame 225.1 time 10500 usec
+add frame 225.1 time sec 1590127097 usec 825082
+src frame 226.0 time sec 1590127097 usec 825171
+    Interpolator time 16498 usec
+    getNextFrame 226.1 time 10118 usec
+add frame 226.1 time sec 1590127097 usec 853941
+src frame 227.0 time sec 1590127097 usec 854029
+    Interpolator time 16337 usec
+    getNextFrame 227.1 time 10041 usec
+add frame 227.1 time sec 1590127097 usec 882297
+src frame 228.0 time sec 1590127097 usec 882312
+    Interpolator time 16320 usec
+    getNextFrame 228.1 time 9771 usec
+add frame 228.1 time sec 1590127097 usec 910261
+src frame 229.0 time sec 1590127097 usec 910277
+    Interpolator time 16338 usec
+    getNextFrame 229.1 time 9894 usec
+add frame 229.1 time sec 1590127097 usec 938442
+src frame 230.0 time sec 1590127097 usec 938454
+    Interpolator time 16262 usec
+    getNextFrame 230.1 time 10550 usec
+add frame 230.1 time sec 1590127097 usec 967217
+src frame 231.0 time sec 1590127097 usec 967232
+    Interpolator time 16965 usec
+    getNextFrame 231.1 time 9940 usec
+add frame 231.1 time sec 1590127097 usec 995962
+src frame 232.0 time sec 1590127097 usec 996005
+    Interpolator time 16755 usec
+    getNextFrame 232.1 time 10031 usec
+add frame 232.1 time sec 1590127098 usec 24659
+src frame 233.0 time sec 1590127098 usec 24700
+    Interpolator time 16308 usec
+    getNextFrame 233.1 time 9923 usec
+add frame 233.1 time sec 1590127098 usec 52793
+src frame 234.0 time sec 1590127098 usec 52836
+    Interpolator time 16444 usec
+    getNextFrame 234.1 time 9983 usec
+add frame 234.1 time sec 1590127098 usec 81136
+src frame 235.0 time sec 1590127098 usec 81180
+    Interpolator time 19236 usec
+    getNextFrame 235.1 time 9759 usec
+add frame 235.1 time sec 1590127098 usec 112029
+src frame 236.0 time sec 1590127098 usec 112073
+    Interpolator time 16207 usec
+    getNextFrame 236.1 time 10338 usec
+add frame 236.1 time sec 1590127098 usec 140493
+src frame 237.0 time sec 1590127098 usec 140537
+    Interpolator time 16001 usec
+    getNextFrame 237.1 time 10744 usec
+add frame 237.1 time sec 1590127098 usec 169128
+src frame 238.0 time sec 1590127098 usec 169222
+    Interpolator time 15911 usec
+    getNextFrame 238.1 time 9849 usec
+add frame 238.1 time sec 1590127098 usec 196953
+src frame 239.0 time sec 1590127098 usec 196997
+    Interpolator time 15829 usec
+    getNextFrame 239.1 time 10304 usec
+add frame 239.1 time sec 1590127098 usec 225349
+src frame 240.0 time sec 1590127098 usec 225392
+    Interpolator time 15956 usec
+    getNextFrame 240.1 time 10800 usec
+add frame 240.1 time sec 1590127098 usec 254007
+src frame 241.0 time sec 1590127098 usec 254053
+    Interpolator time 17673 usec
+    getNextFrame 241.1 time 16288 usec
+add frame 241.1 time sec 1590127098 usec 289901
+src frame 242.0 time sec 1590127098 usec 289917
+    Interpolator time 18590 usec
+    getNextFrame 242.1 time 15852 usec
+add frame 242.1 time sec 1590127098 usec 327283
+src frame 243.0 time sec 1590127098 usec 327297
+    Interpolator time 17507 usec
+    getNextFrame 243.1 time 15979 usec
+add frame 243.1 time sec 1590127098 usec 363670
+src frame 244.0 time sec 1590127098 usec 363728
+    Interpolator time 17578 usec
+    getNextFrame 244.1 time 15390 usec
+add frame 244.1 time sec 1590127098 usec 399719
+src frame 245.0 time sec 1590127098 usec 399759
+    Interpolator time 26217 usec
+    getNextFrame 245.1 time 15720 usec
+add frame 245.1 time sec 1590127098 usec 444934
+src frame 246.0 time sec 1590127098 usec 444967
+    Interpolator time 17424 usec
+    getNextFrame 246.1 time 10106 usec
+add frame 246.1 time sec 1590127098 usec 475535
+src frame 247.0 time sec 1590127098 usec 475620
+    Interpolator time 18479 usec
+    getNextFrame 247.1 time 9747 usec
+add frame 247.1 time sec 1590127098 usec 505930
+src frame 248.0 time sec 1590127098 usec 506007
+    Interpolator time 19129 usec
+    getNextFrame 248.1 time 11421 usec
+add frame 248.1 time sec 1590127098 usec 538444
+src frame 249.0 time sec 1590127098 usec 538509
+    Interpolator time 18316 usec
+    getNextFrame 249.1 time 10831 usec
+add frame 249.1 time sec 1590127098 usec 569769
+src frame 250.0 time sec 1590127098 usec 569784
+    Interpolator time 19378 usec
+    getNextFrame 250.1 time 10036 usec
+add frame 250.1 time sec 1590127098 usec 601065
+src frame 251.0 time sec 1590127098 usec 601109
+    Interpolator time 17141 usec
+    getNextFrame 251.1 time 9840 usec
+add frame 251.1 time sec 1590127098 usec 629976
+src frame 252.0 time sec 1590127098 usec 630020
+    Interpolator time 16669 usec
+    getNextFrame 252.1 time 9782 usec
+add frame 252.1 time sec 1590127098 usec 658346
+src frame 253.0 time sec 1590127098 usec 658388
+    Interpolator time 16503 usec
+    getNextFrame 253.1 time 9819 usec
+add frame 253.1 time sec 1590127098 usec 686610
+src frame 254.0 time sec 1590127098 usec 686654
+    Interpolator time 16563 usec
+    getNextFrame 254.1 time 9850 usec
+add frame 254.1 time sec 1590127098 usec 714954
+src frame 255.0 time sec 1590127098 usec 714995
+    Interpolator time 16708 usec
+    getNextFrame 255.1 time 10091 usec
+add frame 255.1 time sec 1590127098 usec 743733
+src frame 256.0 time sec 1590127098 usec 743750
+    Interpolator time 16534 usec
+    getNextFrame 256.1 time 9890 usec
+add frame 256.1 time sec 1590127098 usec 771966
+src frame 257.0 time sec 1590127098 usec 772012
+    Interpolator time 16934 usec
+    getNextFrame 257.1 time 9825 usec
+add frame 257.1 time sec 1590127098 usec 800935
+src frame 258.0 time sec 1590127098 usec 800949
+    Interpolator time 16207 usec
+    getNextFrame 258.1 time 10443 usec
+add frame 258.1 time sec 1590127098 usec 829439
+src frame 259.0 time sec 1590127098 usec 829453
+    Interpolator time 16743 usec
+    getNextFrame 259.1 time 10972 usec
+add frame 259.1 time sec 1590127098 usec 859293
+src frame 260.0 time sec 1590127098 usec 859307
+    Interpolator time 18049 usec
+    getNextFrame 260.1 time 10482 usec
+add frame 260.1 time sec 1590127098 usec 889780
+src frame 261.0 time sec 1590127098 usec 889790
+    Interpolator time 16703 usec
+    getNextFrame 261.1 time 10263 usec
+add frame 261.1 time sec 1590127098 usec 919785
+src frame 262.0 time sec 1590127098 usec 919797
+    Interpolator time 16090 usec
+    getNextFrame 262.1 time 10424 usec
+add frame 262.1 time sec 1590127098 usec 948136
+src frame 263.0 time sec 1590127098 usec 948150
+    Interpolator time 16117 usec
+    getNextFrame 263.1 time 10198 usec
+add frame 263.1 time sec 1590127098 usec 976352
+src frame 264.0 time sec 1590127098 usec 976366
+    Interpolator time 16791 usec
+    getNextFrame 264.1 time 10564 usec
+add frame 264.1 time sec 1590127099 usec 5902
+src frame 265.0 time sec 1590127099 usec 5915
+    Interpolator time 17058 usec
+    getNextFrame 265.1 time 11677 usec
+add frame 265.1 time sec 1590127099 usec 36521
+src frame 266.0 time sec 1590127099 usec 36533
+    Interpolator time 16374 usec
+    getNextFrame 266.1 time 11214 usec
+add frame 266.1 time sec 1590127099 usec 66071
+src frame 267.0 time sec 1590127099 usec 66083
+    Interpolator time 16436 usec
+    getNextFrame 267.1 time 10692 usec
+add frame 267.1 time sec 1590127099 usec 95586
+src frame 268.0 time sec 1590127099 usec 95662
+    Interpolator time 16873 usec
+    getNextFrame 268.1 time 10524 usec
+add frame 268.1 time sec 1590127099 usec 124899
+src frame 269.0 time sec 1590127099 usec 124913
+    Interpolator time 19036 usec
+    getNextFrame 269.1 time 9988 usec
+add frame 269.1 time sec 1590127099 usec 155799
+src frame 270.0 time sec 1590127099 usec 155864
+    Interpolator time 16662 usec
+    getNextFrame 270.1 time 10708 usec
+add frame 270.1 time sec 1590127099 usec 185622
+src frame 271.0 time sec 1590127099 usec 185647
+    Interpolator time 19868 usec
+    getNextFrame 271.1 time 10294 usec
+add frame 271.1 time sec 1590127099 usec 217755
+src frame 272.0 time sec 1590127099 usec 217825
+    Interpolator time 19018 usec
+    getNextFrame 272.1 time 14728 usec
+add frame 272.1 time sec 1590127099 usec 253412
+src frame 273.0 time sec 1590127099 usec 253430
+    Interpolator time 19411 usec
+    getNextFrame 273.1 time 10265 usec
+add frame 273.1 time sec 1590127099 usec 285776
+src frame 274.0 time sec 1590127099 usec 285789
+    Interpolator time 20297 usec
+    getNextFrame 274.1 time 16442 usec
+add frame 274.1 time sec 1590127099 usec 324457
+src frame 275.0 time sec 1590127099 usec 324500
+    Interpolator time 21084 usec
+    getNextFrame 275.1 time 16078 usec
+add frame 275.1 time sec 1590127099 usec 364660
+src frame 276.0 time sec 1590127099 usec 364677
+    Interpolator time 20305 usec
+    getNextFrame 276.1 time 15805 usec
+add frame 276.1 time sec 1590127099 usec 403786
+src frame 277.0 time sec 1590127099 usec 403800
+    Interpolator time 23896 usec
+    getNextFrame 277.1 time 16105 usec
+add frame 277.1 time sec 1590127099 usec 446726
+src frame 278.0 time sec 1590127099 usec 446741
+    Interpolator time 18266 usec
+    getNextFrame 278.1 time 11037 usec
+add frame 278.1 time sec 1590127099 usec 478931
+src frame 279.0 time sec 1590127099 usec 478946
+    Interpolator time 18806 usec
+    getNextFrame 279.1 time 14210 usec
+add frame 279.1 time sec 1590127099 usec 513866
+src frame 280.0 time sec 1590127099 usec 513882
+    Interpolator time 17788 usec
+    getNextFrame 280.1 time 11634 usec
+add frame 280.1 time sec 1590127099 usec 545718
+src frame 281.0 time sec 1590127099 usec 545733
+    Interpolator time 20840 usec
+    getNextFrame 281.1 time 11001 usec
+add frame 281.1 time sec 1590127099 usec 579421
+src frame 282.0 time sec 1590127099 usec 579435
+    Interpolator time 16947 usec
+    getNextFrame 282.1 time 10719 usec
+add frame 282.1 time sec 1590127099 usec 609021
+src frame 283.0 time sec 1590127099 usec 609040
+    Interpolator time 17926 usec
+    getNextFrame 283.1 time 10414 usec
+add frame 283.1 time sec 1590127099 usec 639188
+src frame 284.0 time sec 1590127099 usec 639253
+    Interpolator time 17536 usec
+    getNextFrame 284.1 time 11584 usec
+add frame 284.1 time sec 1590127099 usec 670229
+src frame 285.0 time sec 1590127099 usec 670266
+    Interpolator time 17279 usec
+    getNextFrame 285.1 time 10296 usec
+add frame 285.1 time sec 1590127099 usec 699746
+src frame 286.0 time sec 1590127099 usec 699759
+    Interpolator time 20455 usec
+    getNextFrame 286.1 time 10913 usec
+add frame 286.1 time sec 1590127099 usec 734192
+src frame 287.0 time sec 1590127099 usec 734203
+    Interpolator time 18140 usec
+    getNextFrame 287.1 time 10965 usec
+add frame 287.1 time sec 1590127099 usec 766235
+src frame 288.0 time sec 1590127099 usec 766311
+    Interpolator time 20733 usec
+    getNextFrame 288.1 time 10449 usec
+add frame 288.1 time sec 1590127099 usec 799376
+src frame 289.0 time sec 1590127099 usec 799389
+    Interpolator time 17822 usec
+    getNextFrame 289.1 time 10050 usec
+add frame 289.1 time sec 1590127099 usec 829189
+src frame 290.0 time sec 1590127099 usec 829203
+    Interpolator time 17815 usec
+    getNextFrame 290.1 time 11402 usec
+add frame 290.1 time sec 1590127099 usec 860778
+src frame 291.0 time sec 1590127099 usec 860867
+    Interpolator time 17015 usec
+    getNextFrame 291.1 time 10793 usec
+add frame 291.1 time sec 1590127099 usec 890676
+src frame 292.0 time sec 1590127099 usec 890769
+    Interpolator time 17723 usec
+    getNextFrame 292.1 time 16742 usec
+add frame 292.1 time sec 1590127099 usec 927156
+src frame 293.0 time sec 1590127099 usec 927170
+    Interpolator time 18551 usec
+    getNextFrame 293.1 time 13870 usec
+add frame 293.1 time sec 1590127099 usec 962549
+src frame 294.0 time sec 1590127099 usec 962562
+    Interpolator time 17135 usec
+    getNextFrame 294.1 time 16566 usec
+add frame 294.1 time sec 1590127099 usec 998352
+src frame 295.0 time sec 1590127099 usec 998385
+    Interpolator time 20026 usec
+    getNextFrame 295.1 time 16144 usec
+add frame 295.1 time sec 1590127100 usec 37502
+src frame 296.0 time sec 1590127100 usec 37516
+    Interpolator time 18844 usec
+    getNextFrame 296.1 time 17090 usec
+add frame 296.1 time sec 1590127100 usec 76443
+src frame 297.0 time sec 1590127100 usec 76455
+    Interpolator time 20683 usec
+    getNextFrame 297.1 time 15926 usec
+add frame 297.1 time sec 1590127100 usec 116096
+src frame 298.0 time sec 1590127100 usec 116136
+    Interpolator time 17912 usec
+    getNextFrame 298.1 time 10171 usec
+add frame 298.1 time sec 1590127100 usec 147355
+src frame 299.0 time sec 1590127100 usec 147443
+    Interpolator time 21076 usec
+    getNextFrame 299.1 time 10220 usec
+add frame 299.1 time sec 1590127100 usec 180669
+src frame 300.0 time sec 1590127100 usec 180764
+    Interpolator time 17815 usec
+    getNextFrame 300.1 time 10071 usec
+add frame 300.1 time sec 1590127100 usec 210515
+src frame 301.0 time sec 1590127100 usec 210560
+    Interpolator time 16679 usec
+    getNextFrame 301.1 time 10382 usec
+add frame 301.1 time sec 1590127100 usec 239553
+src frame 302.0 time sec 1590127100 usec 239591
+    Interpolator time 19721 usec
+    getNextFrame 302.1 time 11439 usec
+add frame 302.1 time sec 1590127100 usec 273177
+src frame 303.0 time sec 1590127100 usec 273193
+    Interpolator time 16899 usec
+    getNextFrame 303.1 time 10813 usec
+add frame 303.1 time sec 1590127100 usec 302787
+src frame 304.0 time sec 1590127100 usec 302798
+    Interpolator time 17704 usec
+    getNextFrame 304.1 time 10143 usec
+add frame 304.1 time sec 1590127100 usec 333651
+src frame 305.0 time sec 1590127100 usec 333664
+    Interpolator time 19604 usec
+    getNextFrame 305.1 time 13595 usec
+add frame 305.1 time sec 1590127100 usec 369720
+src frame 306.0 time sec 1590127100 usec 369762
+    Interpolator time 18462 usec
+    getNextFrame 306.1 time 13250 usec
+add frame 306.1 time sec 1590127100 usec 403863
+src frame 307.0 time sec 1590127100 usec 403876
+    Interpolator time 16762 usec
+    getNextFrame 307.1 time 10940 usec
+add frame 307.1 time sec 1590127100 usec 433461
+src frame 308.0 time sec 1590127100 usec 433475
+    Interpolator time 16144 usec
+    getNextFrame 308.1 time 10777 usec
+add frame 308.1 time sec 1590127100 usec 462237
+src frame 309.0 time sec 1590127100 usec 462277
+    Interpolator time 17093 usec
+    getNextFrame 309.1 time 10078 usec
+add frame 309.1 time sec 1590127100 usec 491355
+src frame 310.0 time sec 1590127100 usec 491396
+    Interpolator time 16648 usec
+    getNextFrame 310.1 time 10342 usec
+add frame 310.1 time sec 1590127100 usec 520376
+src frame 311.0 time sec 1590127100 usec 520416
+    Interpolator time 16033 usec
+    getNextFrame 311.1 time 10438 usec
+add frame 311.1 time sec 1590127100 usec 548754
+src frame 312.0 time sec 1590127100 usec 548768
+    Interpolator time 19466 usec
+    getNextFrame 312.1 time 10450 usec
+add frame 312.1 time sec 1590127100 usec 580589
+src frame 313.0 time sec 1590127100 usec 580629
+    Interpolator time 18570 usec
+    getNextFrame 313.1 time 10396 usec
+add frame 313.1 time sec 1590127100 usec 612228
+src frame 314.0 time sec 1590127100 usec 612245
+    Interpolator time 18678 usec
+    getNextFrame 314.1 time 11177 usec
+add frame 314.1 time sec 1590127100 usec 643998
+src frame 315.0 time sec 1590127100 usec 644053
+    Interpolator time 18942 usec
+    getNextFrame 315.1 time 11969 usec
+add frame 315.1 time sec 1590127100 usec 676928
+src frame 316.0 time sec 1590127100 usec 677005
+    Interpolator time 18316 usec
+    getNextFrame 316.1 time 16390 usec
+add frame 316.1 time sec 1590127100 usec 713633
+src frame 317.0 time sec 1590127100 usec 713672
+    Interpolator time 18121 usec
+    getNextFrame 317.1 time 16474 usec
+add frame 317.1 time sec 1590127100 usec 751354
+src frame 318.0 time sec 1590127100 usec 751393
+    Interpolator time 21174 usec
+    getNextFrame 318.1 time 16234 usec
+add frame 318.1 time sec 1590127100 usec 791869
+src frame 319.0 time sec 1590127100 usec 791907
+    Interpolator time 17732 usec
+    getNextFrame 319.1 time 10137 usec
+add frame 319.1 time sec 1590127100 usec 822697
+src frame 320.0 time sec 1590127100 usec 822721
+    Interpolator time 18282 usec
+    getNextFrame 320.1 time 10602 usec
+add frame 320.1 time sec 1590127100 usec 853538
+src frame 321.0 time sec 1590127100 usec 853551
+    Interpolator time 18736 usec
+    getNextFrame 321.1 time 10963 usec
+add frame 321.1 time sec 1590127100 usec 886221
+src frame 322.0 time sec 1590127100 usec 886236
+    Interpolator time 17364 usec
+    getNextFrame 322.1 time 10457 usec
+add frame 322.1 time sec 1590127100 usec 916023
+src frame 323.0 time sec 1590127100 usec 916036
+    Interpolator time 16984 usec
+    getNextFrame 323.1 time 13115 usec
+add frame 323.1 time sec 1590127100 usec 947935
+src frame 324.0 time sec 1590127100 usec 947948
+    Interpolator time 17446 usec
+    getNextFrame 324.1 time 16212 usec
+add frame 324.1 time sec 1590127100 usec 983513
+src frame 325.0 time sec 1590127100 usec 983551
+    Interpolator time 18608 usec
+    getNextFrame 325.1 time 11134 usec
+add frame 325.1 time sec 1590127101 usec 16329
+src frame 326.0 time sec 1590127101 usec 16341
+    Interpolator time 17655 usec
+    getNextFrame 326.1 time 10315 usec
+add frame 326.1 time sec 1590127101 usec 47546
+src frame 327.0 time sec 1590127101 usec 47558
+    Interpolator time 20997 usec
+    getNextFrame 327.1 time 16052 usec
+add frame 327.1 time sec 1590127101 usec 87489
+src frame 328.0 time sec 1590127101 usec 87530
+    Interpolator time 18407 usec
+    getNextFrame 328.1 time 15817 usec
+add frame 328.1 time sec 1590127101 usec 124741
+src frame 329.0 time sec 1590127101 usec 124782
+    Interpolator time 17200 usec
+    getNextFrame 329.1 time 10151 usec
+add frame 329.1 time sec 1590127101 usec 154968
+src frame 330.0 time sec 1590127101 usec 154979
+    Interpolator time 17774 usec
+    getNextFrame 330.1 time 10107 usec
+add frame 330.1 time sec 1590127101 usec 185955
+src frame 331.0 time sec 1590127101 usec 185968
+    Interpolator time 17330 usec
+    getNextFrame 331.1 time 15968 usec
+add frame 331.1 time sec 1590127101 usec 222313
+src frame 332.0 time sec 1590127101 usec 222352
+    Interpolator time 17047 usec
+    getNextFrame 332.1 time 10136 usec
+add frame 332.1 time sec 1590127101 usec 251730
+src frame 333.0 time sec 1590127101 usec 251741
+    Interpolator time 18130 usec
+    getNextFrame 333.1 time 16494 usec
+add frame 333.1 time sec 1590127101 usec 289333
+src frame 334.0 time sec 1590127101 usec 289374
+    Interpolator time 17420 usec
+    getNextFrame 334.1 time 15338 usec
+add frame 334.1 time sec 1590127101 usec 325200
+src frame 335.0 time sec 1590127101 usec 325241
+    Interpolator time 16612 usec
+    getNextFrame 335.1 time 10128 usec
+add frame 335.1 time sec 1590127101 usec 354574
+src frame 336.0 time sec 1590127101 usec 354617
+    Interpolator time 16412 usec
+    getNextFrame 336.1 time 10086 usec
+add frame 336.1 time sec 1590127101 usec 382988
+src frame 337.0 time sec 1590127101 usec 383034
+    Interpolator time 17933 usec
+    getNextFrame 337.1 time 10203 usec
+add frame 337.1 time sec 1590127101 usec 413097
+src frame 338.0 time sec 1590127101 usec 413109
+    Interpolator time 18243 usec
+    getNextFrame 338.1 time 10308 usec
+add frame 338.1 time sec 1590127101 usec 444624
+src frame 339.0 time sec 1590127101 usec 444637
+    Interpolator time 21833 usec
+    getNextFrame 339.1 time 10323 usec
+add frame 339.1 time sec 1590127101 usec 479874
+src frame 340.0 time sec 1590127101 usec 479917
+    Interpolator time 17803 usec
+    getNextFrame 340.1 time 10017 usec
+add frame 340.1 time sec 1590127101 usec 509586
+src frame 341.0 time sec 1590127101 usec 509597
+    Interpolator time 20624 usec
+    getNextFrame 341.1 time 10439 usec
+add frame 341.1 time sec 1590127101 usec 543594
+src frame 342.0 time sec 1590127101 usec 543624
+    Interpolator time 19155 usec
+    getNextFrame 342.1 time 10740 usec
+add frame 342.1 time sec 1590127101 usec 576761
+src frame 343.0 time sec 1590127101 usec 576777
+    Interpolator time 17452 usec
+    getNextFrame 343.1 time 10089 usec
+add frame 343.1 time sec 1590127101 usec 606479
+src frame 344.0 time sec 1590127101 usec 606504
+    Interpolator time 16671 usec
+    getNextFrame 344.1 time 10465 usec
+add frame 344.1 time sec 1590127101 usec 636615
+src frame 345.0 time sec 1590127101 usec 636628
+    Interpolator time 16611 usec
+    getNextFrame 345.1 time 10383 usec
+add frame 345.1 time sec 1590127101 usec 665488
+src frame 346.0 time sec 1590127101 usec 665502
+    Interpolator time 16650 usec
+    getNextFrame 346.1 time 10606 usec
+add frame 346.1 time sec 1590127101 usec 694920
+src frame 347.0 time sec 1590127101 usec 694933
+    Interpolator time 17269 usec
+    getNextFrame 347.1 time 10489 usec
+add frame 347.1 time sec 1590127101 usec 725622
+src frame 348.0 time sec 1590127101 usec 725633
+    Interpolator time 17776 usec
+    getNextFrame 348.1 time 10036 usec
+add frame 348.1 time sec 1590127101 usec 755874
+src frame 349.0 time sec 1590127101 usec 755917
+    Interpolator time 17785 usec
+    getNextFrame 349.1 time 9857 usec
+add frame 349.1 time sec 1590127101 usec 785422
+src frame 350.0 time sec 1590127101 usec 785433
+    Interpolator time 16613 usec
+    getNextFrame 350.1 time 9759 usec
+add frame 350.1 time sec 1590127101 usec 814677
+src frame 351.0 time sec 1590127101 usec 814707
+    Interpolator time 16642 usec
+    getNextFrame 351.1 time 10300 usec
+add frame 351.1 time sec 1590127101 usec 844604
+src frame 352.0 time sec 1590127101 usec 844615
+    Interpolator time 16808 usec
+    getNextFrame 352.1 time 10193 usec
+add frame 352.1 time sec 1590127101 usec 874602
+src frame 353.0 time sec 1590127101 usec 874614
+    Interpolator time 17544 usec
+    getNextFrame 353.1 time 9831 usec
+add frame 353.1 time sec 1590127101 usec 904896
+src frame 354.0 time sec 1590127101 usec 904909
+    Interpolator time 16961 usec
+    getNextFrame 354.1 time 9779 usec
+add frame 354.1 time sec 1590127101 usec 934531
+src frame 355.0 time sec 1590127101 usec 934543
+    Interpolator time 16710 usec
+    getNextFrame 355.1 time 10048 usec
+add frame 355.1 time sec 1590127101 usec 964169
+src frame 356.0 time sec 1590127101 usec 964183
+    Interpolator time 17296 usec
+    getNextFrame 356.1 time 9836 usec
+add frame 356.1 time sec 1590127101 usec 994144
+src frame 357.0 time sec 1590127101 usec 994159
+    Interpolator time 20409 usec
+    getNextFrame 357.1 time 15067 usec
+add frame 357.1 time sec 1590127102 usec 31792
+src frame 358.0 time sec 1590127102 usec 31808
+    Interpolator time 21310 usec
+    getNextFrame 358.1 time 14241 usec
+add frame 358.1 time sec 1590127102 usec 70305
+src frame 359.0 time sec 1590127102 usec 70346
+    Interpolator time 16143 usec
+    getNextFrame 359.1 time 11590 usec
+add frame 359.1 time sec 1590127102 usec 100489
+src frame 360.0 time sec 1590127102 usec 100502
+    Interpolator time 16677 usec
+    getNextFrame 360.1 time 11016 usec
+add frame 360.1 time sec 1590127102 usec 130077
+src frame 361.0 time sec 1590127102 usec 130094
+    Interpolator time 17041 usec
+    getNextFrame 361.1 time 10845 usec
+add frame 361.1 time sec 1590127102 usec 159954
+src frame 362.0 time sec 1590127102 usec 159999
+    Interpolator time 18815 usec
+    getNextFrame 362.1 time 10592 usec
+add frame 362.1 time sec 1590127102 usec 191384
+src frame 363.0 time sec 1590127102 usec 191396
+    Interpolator time 18881 usec
+    getNextFrame 363.1 time 10106 usec
+add frame 363.1 time sec 1590127102 usec 222258
+src frame 364.0 time sec 1590127102 usec 222351
+    Interpolator time 17991 usec
+    getNextFrame 364.1 time 10432 usec
+add frame 364.1 time sec 1590127102 usec 252650
+src frame 365.0 time sec 1590127102 usec 252663
+    Interpolator time 27500 usec
+    getNextFrame 365.1 time 10030 usec
+add frame 365.1 time sec 1590127102 usec 292049
+src frame 366.0 time sec 1590127102 usec 292154
+    Interpolator time 17849 usec
+    getNextFrame 366.1 time 11382 usec
+add frame 366.1 time sec 1590127102 usec 323284
+src frame 367.0 time sec 1590127102 usec 323358
+    Interpolator time 17300 usec
+    getNextFrame 367.1 time 10553 usec
+add frame 367.1 time sec 1590127102 usec 353161
+src frame 368.0 time sec 1590127102 usec 353175
+    Interpolator time 19235 usec
+    getNextFrame 368.1 time 10035 usec
+add frame 368.1 time sec 1590127102 usec 384388
+src frame 369.0 time sec 1590127102 usec 384402
+    Interpolator time 18248 usec
+    getNextFrame 369.1 time 16187 usec
+add frame 369.1 time sec 1590127102 usec 421937
+src frame 370.0 time sec 1590127102 usec 421976
+    Interpolator time 17520 usec
+    getNextFrame 370.1 time 11548 usec
+add frame 370.1 time sec 1590127102 usec 454086
+src frame 371.0 time sec 1590127102 usec 454100
+    Interpolator time 18036 usec
+    getNextFrame 371.1 time 10937 usec
+add frame 371.1 time sec 1590127102 usec 485057
+src frame 372.0 time sec 1590127102 usec 485087
+    Interpolator time 17817 usec
+    getNextFrame 372.1 time 9950 usec
+add frame 372.1 time sec 1590127102 usec 514735
+src frame 373.0 time sec 1590127102 usec 514746
+    Interpolator time 21384 usec
+    getNextFrame 373.1 time 10519 usec
+add frame 373.1 time sec 1590127102 usec 549633
+src frame 374.0 time sec 1590127102 usec 549647
+    Interpolator time 17592 usec
+    getNextFrame 374.1 time 9991 usec
+add frame 374.1 time sec 1590127102 usec 580193
+src frame 375.0 time sec 1590127102 usec 580205
+    Interpolator time 17296 usec
+    getNextFrame 375.1 time 10029 usec
+add frame 375.1 time sec 1590127102 usec 610893
+src frame 376.0 time sec 1590127102 usec 610905
+    Interpolator time 18326 usec
+    getNextFrame 376.1 time 10278 usec
+add frame 376.1 time sec 1590127102 usec 642472
+src frame 377.0 time sec 1590127102 usec 642486
+    Interpolator time 17703 usec
+    getNextFrame 377.1 time 10136 usec
+add frame 377.1 time sec 1590127102 usec 673407
+src frame 378.0 time sec 1590127102 usec 673464
+    Interpolator time 17382 usec
+    getNextFrame 378.1 time 10242 usec
+add frame 378.1 time sec 1590127102 usec 702949
+src frame 379.0 time sec 1590127102 usec 702962
+    Interpolator time 16210 usec
+    getNextFrame 379.1 time 9858 usec
+add frame 379.1 time sec 1590127102 usec 730926
+src frame 380.0 time sec 1590127102 usec 730938
+    Interpolator time 17514 usec
+    getNextFrame 380.1 time 10386 usec
+add frame 380.1 time sec 1590127102 usec 760968
+src frame 381.0 time sec 1590127102 usec 760981
+    Interpolator time 18781 usec
+    getNextFrame 381.1 time 10195 usec
+add frame 381.1 time sec 1590127102 usec 791763
+src frame 382.0 time sec 1590127102 usec 791776
+    Interpolator time 17343 usec
+    getNextFrame 382.1 time 10353 usec
+add frame 382.1 time sec 1590127102 usec 821272
+src frame 383.0 time sec 1590127102 usec 821285
+    Interpolator time 17102 usec
+    getNextFrame 383.1 time 10217 usec
+add frame 383.1 time sec 1590127102 usec 850546
+src frame 384.0 time sec 1590127102 usec 850560
+    Interpolator time 17052 usec
+    getNextFrame 384.1 time 10023 usec
+add frame 384.1 time sec 1590127102 usec 879655
+src frame 385.0 time sec 1590127102 usec 879668
+    Interpolator time 15861 usec
+    getNextFrame 385.1 time 9580 usec
+add frame 385.1 time sec 1590127102 usec 907009
+src frame 386.0 time sec 1590127102 usec 907049
+    Interpolator time 16211 usec
+    getNextFrame 386.1 time 9757 usec
+add frame 386.1 time sec 1590127102 usec 934831
+src frame 387.0 time sec 1590127102 usec 934867
+    Interpolator time 16823 usec
+    getNextFrame 387.1 time 10960 usec
+add frame 387.1 time sec 1590127102 usec 964496
+src frame 388.0 time sec 1590127102 usec 964536
+    Interpolator time 17198 usec
+    getNextFrame 388.1 time 10177 usec
+add frame 388.1 time sec 1590127102 usec 993706
+src frame 389.0 time sec 1590127102 usec 993751
+    Interpolator time 18313 usec
+    getNextFrame 389.1 time 9891 usec
+add frame 389.1 time sec 1590127103 usec 23809
+src frame 390.0 time sec 1590127103 usec 23884
+    Interpolator time 17152 usec
+    getNextFrame 390.1 time 10855 usec
+add frame 390.1 time sec 1590127103 usec 53866
+src frame 391.0 time sec 1590127103 usec 53904
+    Interpolator time 18272 usec
+    getNextFrame 391.1 time 11125 usec
+add frame 391.1 time sec 1590127103 usec 85122
+src frame 392.0 time sec 1590127103 usec 85137
+    Interpolator time 19288 usec
+    getNextFrame 392.1 time 15249 usec
+add frame 392.1 time sec 1590127103 usec 122690
+src frame 393.0 time sec 1590127103 usec 122705
+    Interpolator time 17283 usec
+    getNextFrame 393.1 time 14687 usec
+add frame 393.1 time sec 1590127103 usec 157203
+src frame 394.0 time sec 1590127103 usec 157219
+    Interpolator time 17855 usec
+    getNextFrame 394.1 time 10993 usec
+add frame 394.1 time sec 1590127103 usec 188938
+src frame 395.0 time sec 1590127103 usec 188978
+    Interpolator time 17334 usec
+    getNextFrame 395.1 time 11196 usec
+add frame 395.1 time sec 1590127103 usec 219305
+src frame 396.0 time sec 1590127103 usec 219347
+    Interpolator time 17188 usec
+    getNextFrame 396.1 time 12457 usec
+add frame 396.1 time sec 1590127103 usec 250812
+src frame 397.0 time sec 1590127103 usec 250856
+    Interpolator time 17209 usec
+    getNextFrame 397.1 time 11913 usec
+add frame 397.1 time sec 1590127103 usec 282043
+src frame 398.0 time sec 1590127103 usec 282059
+    Interpolator time 19509 usec
+    getNextFrame 398.1 time 10017 usec
+add frame 398.1 time sec 1590127103 usec 313574
+src frame 399.0 time sec 1590127103 usec 313649
+    Interpolator time 16325 usec
+    getNextFrame 399.1 time 10058 usec
+add frame 399.1 time sec 1590127103 usec 341854
+src frame 400.0 time sec 1590127103 usec 341922
+    Interpolator time 17700 usec
+    getNextFrame 400.1 time 12070 usec
+add frame 400.1 time sec 1590127103 usec 373687
+src frame 401.0 time sec 1590127103 usec 373765
+    Interpolator time 18242 usec
+    getNextFrame 401.1 time 14630 usec
+add frame 401.1 time sec 1590127103 usec 408567
+src frame 402.0 time sec 1590127103 usec 408583
+    Interpolator time 18194 usec
+    getNextFrame 402.1 time 10653 usec
+add frame 402.1 time sec 1590127103 usec 440135
+src frame 403.0 time sec 1590127103 usec 440146
+    Interpolator time 20776 usec
+    getNextFrame 403.1 time 10294 usec
+add frame 403.1 time sec 1590127103 usec 474220
+src frame 404.0 time sec 1590127103 usec 474235
+    Interpolator time 16658 usec
+    getNextFrame 404.1 time 9998 usec
+add frame 404.1 time sec 1590127103 usec 502760
+src frame 405.0 time sec 1590127103 usec 502836
+    Interpolator time 20228 usec
+    getNextFrame 405.1 time 9854 usec
+add frame 405.1 time sec 1590127103 usec 534803
+src frame 406.0 time sec 1590127103 usec 534852
+    Interpolator time 17081 usec
+    getNextFrame 406.1 time 10245 usec
+add frame 406.1 time sec 1590127103 usec 564089
+src frame 407.0 time sec 1590127103 usec 564184
+    Interpolator time 17693 usec
+    getNextFrame 407.1 time 9976 usec
+add frame 407.1 time sec 1590127103 usec 593849
+src frame 408.0 time sec 1590127103 usec 593923
+    Interpolator time 20861 usec
+    getNextFrame 408.1 time 10726 usec
+add frame 408.1 time sec 1590127103 usec 627363
+src frame 409.0 time sec 1590127103 usec 627404
+    Interpolator time 16792 usec
+    getNextFrame 409.1 time 10679 usec
+add frame 409.1 time sec 1590127103 usec 656821
+src frame 410.0 time sec 1590127103 usec 656837
+    Interpolator time 18314 usec
+    getNextFrame 410.1 time 12173 usec
+add frame 410.1 time sec 1590127103 usec 689149
+src frame 411.0 time sec 1590127103 usec 689160
+    Interpolator time 17786 usec
+    getNextFrame 411.1 time 9829 usec
+add frame 411.1 time sec 1590127103 usec 719701
+src frame 412.0 time sec 1590127103 usec 719711
+    Interpolator time 18716 usec
+    getNextFrame 412.1 time 10709 usec
+add frame 412.1 time sec 1590127103 usec 752155
+src frame 413.0 time sec 1590127103 usec 752167
+    Interpolator time 18514 usec
+    getNextFrame 413.1 time 11579 usec
+add frame 413.1 time sec 1590127103 usec 784997
+src frame 414.0 time sec 1590127103 usec 785009
+    Interpolator time 18695 usec
+    getNextFrame 414.1 time 10621 usec
+add frame 414.1 time sec 1590127103 usec 817294
+src frame 415.0 time sec 1590127103 usec 817306
+    Interpolator time 18499 usec
+    getNextFrame 415.1 time 10335 usec
+add frame 415.1 time sec 1590127103 usec 849223
+src frame 416.0 time sec 1590127103 usec 849235
+    Interpolator time 17836 usec
+    getNextFrame 416.1 time 10051 usec
+add frame 416.1 time sec 1590127103 usec 880682
+src frame 417.0 time sec 1590127103 usec 880738
+    Interpolator time 17734 usec
+    getNextFrame 417.1 time 10296 usec
+add frame 417.1 time sec 1590127103 usec 910633
+src frame 418.0 time sec 1590127103 usec 910700
+    Interpolator time 17135 usec
+    getNextFrame 418.1 time 9691 usec
+add frame 418.1 time sec 1590127103 usec 939347
+src frame 419.0 time sec 1590127103 usec 939357
+    Interpolator time 17090 usec
+    getNextFrame 419.1 time 10557 usec
+add frame 419.1 time sec 1590127103 usec 970206
+src frame 420.0 time sec 1590127103 usec 970216
+    Interpolator time 18385 usec
+    getNextFrame 420.1 time 10301 usec
+add frame 420.1 time sec 1590127104 usec 1740
+src frame 421.0 time sec 1590127104 usec 1753
+    Interpolator time 17512 usec
+    getNextFrame 421.1 time 10039 usec
+add frame 421.1 time sec 1590127104 usec 32119
+src frame 422.0 time sec 1590127104 usec 32130
+    Interpolator time 16902 usec
+    getNextFrame 422.1 time 9913 usec
+add frame 422.1 time sec 1590127104 usec 61728
+src frame 423.0 time sec 1590127104 usec 61737
+    Interpolator time 16496 usec
+    getNextFrame 423.1 time 9909 usec
+add frame 423.1 time sec 1590127104 usec 90907
+src frame 424.0 time sec 1590127104 usec 90916
+    Interpolator time 16430 usec
+    getNextFrame 424.1 time 9624 usec
+add frame 424.1 time sec 1590127104 usec 119720
+src frame 425.0 time sec 1590127104 usec 119729
+    Interpolator time 16451 usec
+    getNextFrame 425.1 time 10119 usec
+add frame 425.1 time sec 1590127104 usec 149181
+src frame 426.0 time sec 1590127104 usec 149192
+    Interpolator time 16990 usec
+    getNextFrame 426.1 time 10863 usec
+add frame 426.1 time sec 1590127104 usec 179976
+src frame 427.0 time sec 1590127104 usec 179987
+    Interpolator time 17680 usec
+    getNextFrame 427.1 time 10190 usec
+add frame 427.1 time sec 1590127104 usec 210885
+src frame 428.0 time sec 1590127104 usec 210895
+    Interpolator time 16415 usec
+    getNextFrame 428.1 time 9522 usec
+add frame 428.1 time sec 1590127104 usec 239619
+src frame 429.0 time sec 1590127104 usec 239628
+    Interpolator time 16714 usec
+    getNextFrame 429.1 time 9717 usec
+add frame 429.1 time sec 1590127104 usec 268991
+src frame 430.0 time sec 1590127104 usec 269002
+    Interpolator time 16481 usec
+    getNextFrame 430.1 time 9930 usec
+add frame 430.1 time sec 1590127104 usec 298295
+src frame 431.0 time sec 1590127104 usec 298305
+    Interpolator time 16391 usec
+    getNextFrame 431.1 time 9693 usec
+add frame 431.1 time sec 1590127104 usec 327270
+src frame 432.0 time sec 1590127104 usec 327279
+    Interpolator time 16534 usec
+    getNextFrame 432.1 time 9899 usec
+add frame 432.1 time sec 1590127104 usec 356439
+src frame 433.0 time sec 1590127104 usec 356449
+    Interpolator time 17042 usec
+    getNextFrame 433.1 time 10332 usec
+add frame 433.1 time sec 1590127104 usec 386740
+src frame 434.0 time sec 1590127104 usec 386752
+    Interpolator time 18490 usec
+    getNextFrame 434.1 time 10101 usec
+add frame 434.1 time sec 1590127104 usec 418532
+src frame 435.0 time sec 1590127104 usec 418546
+    Interpolator time 17249 usec
+    getNextFrame 435.1 time 10187 usec
+add frame 435.1 time sec 1590127104 usec 449093
+src frame 436.0 time sec 1590127104 usec 449104
+    Interpolator time 18107 usec
+    getNextFrame 436.1 time 16725 usec
+add frame 436.1 time sec 1590127104 usec 486807
+src frame 437.0 time sec 1590127104 usec 486821
+    Interpolator time 17977 usec
+    getNextFrame 437.1 time 10938 usec
+add frame 437.1 time sec 1590127104 usec 519080
+src frame 438.0 time sec 1590127104 usec 519127
+    Interpolator time 17592 usec
+    getNextFrame 438.1 time 10308 usec
+add frame 438.1 time sec 1590127104 usec 548926
+src frame 439.0 time sec 1590127104 usec 548937
+    Interpolator time 18270 usec
+    getNextFrame 439.1 time 10554 usec
+add frame 439.1 time sec 1590127104 usec 580976
+src frame 440.0 time sec 1590127104 usec 580986
+    Interpolator time 17970 usec
+    getNextFrame 440.1 time 10767 usec
+add frame 440.1 time sec 1590127104 usec 612699
+src frame 441.0 time sec 1590127104 usec 612713
+    Interpolator time 17126 usec
+    getNextFrame 441.1 time 9992 usec
+add frame 441.1 time sec 1590127104 usec 641638
+src frame 442.0 time sec 1590127104 usec 641681
+    Interpolator time 17779 usec
+    getNextFrame 442.1 time 11605 usec
+add frame 442.1 time sec 1590127104 usec 673221
+src frame 443.0 time sec 1590127104 usec 673244
+    Interpolator time 19263 usec
+    getNextFrame 443.1 time 10586 usec
+add frame 443.1 time sec 1590127104 usec 705093
+src frame 444.0 time sec 1590127104 usec 705152
+    Interpolator time 19267 usec
+    getNextFrame 444.1 time 10088 usec
+add frame 444.1 time sec 1590127104 usec 736320
+src frame 445.0 time sec 1590127104 usec 736377
+    Interpolator time 17714 usec
+    getNextFrame 445.1 time 10287 usec
+add frame 445.1 time sec 1590127104 usec 766287
+src frame 446.0 time sec 1590127104 usec 766330
+    Interpolator time 17432 usec
+    getNextFrame 446.1 time 10001 usec
+add frame 446.1 time sec 1590127104 usec 795638
+src frame 447.0 time sec 1590127104 usec 795681
+    Interpolator time 16705 usec
+    getNextFrame 447.1 time 10287 usec
+add frame 447.1 time sec 1590127104 usec 824738
+src frame 448.0 time sec 1590127104 usec 824782
+    Interpolator time 20364 usec
+    getNextFrame 448.1 time 10132 usec
+add frame 448.1 time sec 1590127104 usec 857069
+src frame 449.0 time sec 1590127104 usec 857169
+    Interpolator time 16310 usec
+    getNextFrame 449.1 time 9761 usec
+add frame 449.1 time sec 1590127104 usec 885204
+src frame 450.0 time sec 1590127104 usec 885289
+    Interpolator time 19410 usec
+    getNextFrame 450.1 time 9877 usec
+add frame 450.1 time sec 1590127104 usec 916441
+src frame 451.0 time sec 1590127104 usec 916489
+    Interpolator time 15963 usec
+    getNextFrame 451.1 time 10248 usec
+add frame 451.1 time sec 1590127104 usec 944514
+src frame 452.0 time sec 1590127104 usec 944558
+    Interpolator time 16578 usec
+    getNextFrame 452.1 time 10275 usec
+add frame 452.1 time sec 1590127104 usec 973244
+src frame 453.0 time sec 1590127104 usec 973327
+    Interpolator time 16317 usec
+    getNextFrame 453.1 time 9752 usec
+add frame 453.1 time sec 1590127105 usec 1430
+src frame 454.0 time sec 1590127105 usec 1471
+    Interpolator time 18198 usec
+    getNextFrame 454.1 time 9468 usec
+add frame 454.1 time sec 1590127105 usec 31041
+src frame 455.0 time sec 1590127105 usec 31084
+    Interpolator time 16569 usec
+    getNextFrame 455.1 time 9656 usec
+add frame 455.1 time sec 1590127105 usec 59171
+src frame 456.0 time sec 1590127105 usec 59256
+    Interpolator time 16670 usec
+    getNextFrame 456.1 time 9737 usec
+add frame 456.1 time sec 1590127105 usec 87437
+src frame 457.0 time sec 1590127105 usec 87481
+    Interpolator time 16452 usec
+    getNextFrame 457.1 time 9517 usec
+add frame 457.1 time sec 1590127105 usec 115302
+src frame 458.0 time sec 1590127105 usec 115349
+    Interpolator time 18430 usec
+    getNextFrame 458.1 time 9814 usec
+add frame 458.1 time sec 1590127105 usec 145400
+src frame 459.0 time sec 1590127105 usec 145446
+    Interpolator time 16330 usec
+    getNextFrame 459.1 time 10689 usec
+add frame 459.1 time sec 1590127105 usec 174312
+src frame 460.0 time sec 1590127105 usec 174324
+    Interpolator time 16752 usec
+    getNextFrame 460.1 time 13445 usec
+add frame 460.1 time sec 1590127105 usec 206451
+src frame 461.0 time sec 1590127105 usec 206467
+    Interpolator time 17992 usec
+    getNextFrame 461.1 time 11025 usec
+add frame 461.1 time sec 1590127105 usec 238224
+src frame 462.0 time sec 1590127105 usec 238239
+    Interpolator time 18998 usec
+    getNextFrame 462.1 time 9819 usec
+add frame 462.1 time sec 1590127105 usec 269220
+src frame 463.0 time sec 1590127105 usec 269319
+    Interpolator time 19324 usec
+    getNextFrame 463.1 time 10016 usec
+add frame 463.1 time sec 1590127105 usec 300542
+src frame 464.0 time sec 1590127105 usec 300554
+    Interpolator time 16428 usec
+    getNextFrame 464.1 time 9935 usec
+add frame 464.1 time sec 1590127105 usec 329823
+src frame 465.0 time sec 1590127105 usec 329835
+    Interpolator time 16229 usec
+    getNextFrame 465.1 time 9916 usec
+add frame 465.1 time sec 1590127105 usec 358860
+src frame 466.0 time sec 1590127105 usec 358872
+    Interpolator time 17221 usec
+    getNextFrame 466.1 time 10424 usec
+add frame 466.1 time sec 1590127105 usec 389670
+src frame 467.0 time sec 1590127105 usec 389682
+    Interpolator time 19267 usec
+    getNextFrame 467.1 time 10243 usec
+add frame 467.1 time sec 1590127105 usec 422166
+src frame 468.0 time sec 1590127105 usec 422177
+    Interpolator time 22778 usec
+    getNextFrame 468.1 time 10233 usec
+add frame 468.1 time sec 1590127105 usec 458047
+src frame 469.0 time sec 1590127105 usec 458059
+    Interpolator time 18696 usec
+    getNextFrame 469.1 time 11673 usec
+add frame 469.1 time sec 1590127105 usec 491573
+src frame 470.0 time sec 1590127105 usec 491617
+    Interpolator time 17630 usec
+    getNextFrame 470.1 time 10017 usec
+add frame 470.1 time sec 1590127105 usec 521118
+src frame 471.0 time sec 1590127105 usec 521132
+    Interpolator time 15451 usec
+    getNextFrame 471.1 time 10232 usec
+add frame 471.1 time sec 1590127105 usec 548837
+src frame 472.0 time sec 1590127105 usec 548874
+    Interpolator time 16468 usec
+    getNextFrame 472.1 time 10290 usec
+add frame 472.1 time sec 1590127105 usec 577526
+src frame 473.0 time sec 1590127105 usec 577568
+    Interpolator time 16856 usec
+    getNextFrame 473.1 time 9813 usec
+add frame 473.1 time sec 1590127105 usec 606066
+src frame 474.0 time sec 1590127105 usec 606141
+    Interpolator time 16568 usec
+    getNextFrame 474.1 time 9883 usec
+add frame 474.1 time sec 1590127105 usec 634494
+src frame 475.0 time sec 1590127105 usec 634532
+    Interpolator time 17056 usec
+    getNextFrame 475.1 time 9937 usec
+add frame 475.1 time sec 1590127105 usec 663849
+src frame 476.0 time sec 1590127105 usec 663893
+    Interpolator time 16638 usec
+    getNextFrame 476.1 time 10426 usec
+add frame 476.1 time sec 1590127105 usec 692737
+src frame 477.0 time sec 1590127105 usec 692777
+    Interpolator time 16965 usec
+    getNextFrame 477.1 time 9580 usec
+add frame 477.1 time sec 1590127105 usec 721321
+src frame 478.0 time sec 1590127105 usec 721363
+    Interpolator time 16204 usec
+    getNextFrame 478.1 time 10190 usec
+add frame 478.1 time sec 1590127105 usec 749621
+src frame 479.0 time sec 1590127105 usec 749664
+    Interpolator time 16121 usec
+    getNextFrame 479.1 time 9500 usec
+add frame 479.1 time sec 1590127105 usec 777115
+src frame 480.0 time sec 1590127105 usec 777156
+    Interpolator time 17283 usec
+    getNextFrame 480.1 time 9580 usec
+add frame 480.1 time sec 1590127105 usec 805775
+src frame 481.0 time sec 1590127105 usec 805818
+    Interpolator time 16273 usec
+    getNextFrame 481.1 time 9603 usec
+add frame 481.1 time sec 1590127105 usec 833520
+src frame 482.0 time sec 1590127105 usec 833562
+    Interpolator time 16345 usec
+    getNextFrame 482.1 time 10041 usec
+add frame 482.1 time sec 1590127105 usec 861757
+src frame 483.0 time sec 1590127105 usec 861770
+    Interpolator time 16701 usec
+    getNextFrame 483.1 time 9795 usec
+add frame 483.1 time sec 1590127105 usec 890147
+src frame 484.0 time sec 1590127105 usec 890241
+    Interpolator time 16822 usec
+    getNextFrame 484.1 time 9552 usec
+add frame 484.1 time sec 1590127105 usec 918431
+src frame 485.0 time sec 1590127105 usec 918473
+    Interpolator time 16949 usec
+    getNextFrame 485.1 time 10133 usec
+add frame 485.1 time sec 1590127105 usec 947361
+src frame 486.0 time sec 1590127105 usec 947402
+    Interpolator time 21214 usec
+    getNextFrame 486.1 time 9670 usec
+add frame 486.1 time sec 1590127105 usec 980321
+src frame 487.0 time sec 1590127105 usec 980408
+    Interpolator time 18276 usec
+    getNextFrame 487.1 time 10938 usec
+add frame 487.1 time sec 1590127106 usec 11448
+src frame 488.0 time sec 1590127106 usec 11531
+    Interpolator time 18902 usec
+    getNextFrame 488.1 time 10457 usec
+add frame 488.1 time sec 1590127106 usec 42706
+src frame 489.0 time sec 1590127106 usec 42754
+    Interpolator time 17629 usec
+    getNextFrame 489.1 time 10882 usec
+add frame 489.1 time sec 1590127106 usec 73247
+src frame 490.0 time sec 1590127106 usec 73258
+    Interpolator time 18478 usec
+    getNextFrame 490.1 time 10223 usec
+add frame 490.1 time sec 1590127106 usec 103992
+src frame 491.0 time sec 1590127106 usec 104033
+    Interpolator time 20069 usec
+    getNextFrame 491.1 time 14410 usec
+add frame 491.1 time sec 1590127106 usec 140389
+src frame 492.0 time sec 1590127106 usec 140484
+    Interpolator time 17691 usec
+    getNextFrame 492.1 time 14668 usec
+add frame 492.1 time sec 1590127106 usec 174648
+src frame 493.0 time sec 1590127106 usec 174687
+    Interpolator time 18232 usec
+    getNextFrame 493.1 time 10558 usec
+add frame 493.1 time sec 1590127106 usec 205417
+src frame 494.0 time sec 1590127106 usec 205459
+    Interpolator time 16660 usec
+    getNextFrame 494.1 time 9683 usec
+add frame 494.1 time sec 1590127106 usec 233655
+src frame 495.0 time sec 1590127106 usec 233697
+    Interpolator time 15965 usec
+    getNextFrame 495.1 time 11210 usec
+add frame 495.1 time sec 1590127106 usec 262802
+src frame 496.0 time sec 1590127106 usec 262847
+    Interpolator time 16615 usec
+    getNextFrame 496.1 time 11520 usec
+add frame 496.1 time sec 1590127106 usec 293293
+src frame 497.0 time sec 1590127106 usec 293304
+    Interpolator time 15657 usec
+    getNextFrame 497.1 time 10472 usec
+add frame 497.1 time sec 1590127106 usec 321417
+src frame 498.0 time sec 1590127106 usec 321458
+    Interpolator time 15778 usec
+    getNextFrame 498.1 time 10397 usec
+add frame 498.1 time sec 1590127106 usec 349473
+src frame 499.0 time sec 1590127106 usec 349534
+    Interpolator time 19081 usec
+    getNextFrame 499.1 time 9589 usec
+add frame 499.1 time sec 1590127106 usec 380102
+src frame 500.0 time sec 1590127106 usec 380145
+    Interpolator time 17254 usec
+    getNextFrame 500.1 time 9741 usec
+add frame 500.1 time sec 1590127106 usec 408975
+src frame 501.0 time sec 1590127106 usec 409008
+    Interpolator time 17444 usec
+    getNextFrame 501.1 time 10485 usec
+add frame 501.1 time sec 1590127106 usec 439357
+src frame 502.0 time sec 1590127106 usec 439439
+    Interpolator time 20370 usec
+    getNextFrame 502.1 time 9728 usec
+add frame 502.1 time sec 1590127106 usec 471321
+src frame 503.0 time sec 1590127106 usec 471420
+    Interpolator time 17536 usec
+    getNextFrame 503.1 time 9932 usec
+add frame 503.1 time sec 1590127106 usec 500896
+src frame 504.0 time sec 1590127106 usec 500953
+    Interpolator time 15983 usec
+    getNextFrame 504.1 time 10222 usec
+add frame 504.1 time sec 1590127106 usec 528972
+src frame 505.0 time sec 1590127106 usec 528985
+    Interpolator time 16266 usec
+    getNextFrame 505.1 time 11190 usec
+add frame 505.1 time sec 1590127106 usec 558400
+src frame 506.0 time sec 1590127106 usec 558443
+    Interpolator time 16637 usec
+    getNextFrame 506.1 time 11095 usec
+add frame 506.1 time sec 1590127106 usec 588731
+src frame 507.0 time sec 1590127106 usec 588745
+    Interpolator time 15276 usec
+    getNextFrame 507.1 time 10925 usec
+add frame 507.1 time sec 1590127106 usec 616674
+src frame 508.0 time sec 1590127106 usec 616688
+    Interpolator time 23292 usec
+    getNextFrame 508.1 time 10926 usec
+add frame 508.1 time sec 1590127106 usec 652715
+src frame 509.0 time sec 1590127106 usec 652776
+    Interpolator time 20186 usec
+    getNextFrame 509.1 time 10661 usec
+add frame 509.1 time sec 1590127106 usec 685406
+src frame 510.0 time sec 1590127106 usec 685485
+    Interpolator time 17924 usec
+    getNextFrame 510.1 time 9937 usec
+add frame 510.1 time sec 1590127106 usec 715472
+src frame 511.0 time sec 1590127106 usec 715487
+    Interpolator time 17574 usec
+    getNextFrame 511.1 time 10383 usec
+add frame 511.1 time sec 1590127106 usec 745410
+src frame 512.0 time sec 1590127106 usec 745422
+    Interpolator time 19052 usec
+    getNextFrame 512.1 time 11319 usec
+add frame 512.1 time sec 1590127106 usec 777831
+src frame 513.0 time sec 1590127106 usec 777883
+    Interpolator time 19656 usec
+    getNextFrame 513.1 time 10199 usec
+add frame 513.1 time sec 1590127106 usec 809546
+src frame 514.0 time sec 1590127106 usec 809620
+    Interpolator time 17599 usec
+    getNextFrame 514.1 time 9899 usec
+add frame 514.1 time sec 1590127106 usec 839344
+src frame 515.0 time sec 1590127106 usec 839432
+    Interpolator time 17008 usec
+    getNextFrame 515.1 time 10224 usec
+add frame 515.1 time sec 1590127106 usec 869030
+src frame 516.0 time sec 1590127106 usec 869105
+    Interpolator time 17081 usec
+    getNextFrame 516.1 time 10479 usec
+add frame 516.1 time sec 1590127106 usec 898499
+src frame 517.0 time sec 1590127106 usec 898526
+    Interpolator time 17015 usec
+    getNextFrame 517.1 time 9804 usec
+add frame 517.1 time sec 1590127106 usec 927292
+src frame 518.0 time sec 1590127106 usec 927305
+    Interpolator time 18960 usec
+    getNextFrame 518.1 time 15807 usec
+add frame 518.1 time sec 1590127106 usec 964131
+src frame 519.0 time sec 1590127106 usec 964192
+    Interpolator time 17999 usec
+    getNextFrame 519.1 time 10430 usec
+add frame 519.1 time sec 1590127106 usec 994841
+src frame 520.0 time sec 1590127106 usec 994910
+    Interpolator time 20016 usec
+    getNextFrame 520.1 time 10127 usec
+add frame 520.1 time sec 1590127107 usec 27019
+src frame 521.0 time sec 1590127107 usec 27058
+    Interpolator time 16611 usec
+    getNextFrame 521.1 time 10211 usec
+add frame 521.1 time sec 1590127107 usec 55802
+src frame 522.0 time sec 1590127107 usec 55844
+    Interpolator time 17046 usec
+    getNextFrame 522.1 time 9614 usec
+add frame 522.1 time sec 1590127107 usec 84294
+src frame 523.0 time sec 1590127107 usec 84340
+    Interpolator time 16948 usec
+    getNextFrame 523.1 time 9667 usec
+add frame 523.1 time sec 1590127107 usec 112754
+src frame 524.0 time sec 1590127107 usec 112840
+    Interpolator time 23921 usec
+    getNextFrame 524.1 time 9999 usec
+add frame 524.1 time sec 1590127107 usec 148527
+src frame 525.0 time sec 1590127107 usec 148612
+    Interpolator time 16433 usec
+    getNextFrame 525.1 time 10472 usec
+add frame 525.1 time sec 1590127107 usec 177439
+src frame 526.0 time sec 1590127107 usec 177524
+    Interpolator time 17963 usec
+    getNextFrame 526.1 time 9949 usec
+add frame 526.1 time sec 1590127107 usec 207447
+src frame 527.0 time sec 1590127107 usec 207544
+    Interpolator time 15466 usec
+    getNextFrame 527.1 time 9709 usec
+add frame 527.1 time sec 1590127107 usec 234561
+src frame 528.0 time sec 1590127107 usec 234647
+    Interpolator time 15366 usec
+    getNextFrame 528.1 time 9740 usec
+add frame 528.1 time sec 1590127107 usec 261701
+src frame 529.0 time sec 1590127107 usec 261800
+    Interpolator time 15251 usec
+    getNextFrame 529.1 time 9893 usec
+add frame 529.1 time sec 1590127107 usec 289101
+src frame 530.0 time sec 1590127107 usec 289188
+    Interpolator time 19400 usec
+    getNextFrame 530.1 time 11283 usec
+add frame 530.1 time sec 1590127107 usec 321951
+src frame 531.0 time sec 1590127107 usec 321991
+    Interpolator time 16071 usec
+    getNextFrame 531.1 time 11710 usec
+add frame 531.1 time sec 1590127107 usec 352803
+src frame 532.0 time sec 1590127107 usec 352891
+    Interpolator time 15565 usec
+    getNextFrame 532.1 time 10765 usec
+add frame 532.1 time sec 1590127107 usec 381854
+src frame 533.0 time sec 1590127107 usec 381896
+    Interpolator time 16412 usec
+    getNextFrame 533.1 time 9858 usec
+add frame 533.1 time sec 1590127107 usec 409999
+src frame 534.0 time sec 1590127107 usec 410036
+    Interpolator time 18904 usec
+    getNextFrame 534.1 time 9667 usec
+add frame 534.1 time sec 1590127107 usec 440507
+src frame 535.0 time sec 1590127107 usec 440519
+    Interpolator time 16874 usec
+    getNextFrame 535.1 time 10390 usec
+add frame 535.1 time sec 1590127107 usec 469494
+src frame 536.0 time sec 1590127107 usec 469535
+    Interpolator time 17770 usec
+    getNextFrame 536.1 time 10252 usec
+add frame 536.1 time sec 1590127107 usec 499455
+src frame 537.0 time sec 1590127107 usec 499494
+    Interpolator time 17365 usec
+    getNextFrame 537.1 time 9820 usec
+add frame 537.1 time sec 1590127107 usec 528466
+src frame 538.0 time sec 1590127107 usec 528508
+    Interpolator time 16982 usec
+    getNextFrame 538.1 time 10876 usec
+add frame 538.1 time sec 1590127107 usec 558196
+src frame 539.0 time sec 1590127107 usec 558270
+    Interpolator time 17412 usec
+    getNextFrame 539.1 time 9956 usec
+add frame 539.1 time sec 1590127107 usec 587510
+src frame 540.0 time sec 1590127107 usec 587536
+    Interpolator time 18218 usec
+    getNextFrame 540.1 time 9691 usec
+add frame 540.1 time sec 1590127107 usec 618548
+src frame 541.0 time sec 1590127107 usec 618558
+    Interpolator time 17384 usec
+    getNextFrame 541.1 time 10579 usec
+add frame 541.1 time sec 1590127107 usec 649538
+src frame 542.0 time sec 1590127107 usec 649551
+    Interpolator time 17815 usec
+    getNextFrame 542.1 time 10823 usec
+add frame 542.1 time sec 1590127107 usec 681172
+src frame 543.0 time sec 1590127107 usec 681184
+    Interpolator time 17722 usec
+    getNextFrame 543.1 time 9937 usec
+add frame 543.1 time sec 1590127107 usec 711696
+src frame 544.0 time sec 1590127107 usec 711707
+    Interpolator time 18106 usec
+    getNextFrame 544.1 time 9509 usec
+add frame 544.1 time sec 1590127107 usec 742042
+src frame 545.0 time sec 1590127107 usec 742051
+    Interpolator time 16385 usec
+    getNextFrame 545.1 time 9821 usec
+add frame 545.1 time sec 1590127107 usec 771059
+src frame 546.0 time sec 1590127107 usec 771069
+    Interpolator time 15928 usec
+    getNextFrame 546.1 time 9929 usec
+add frame 546.1 time sec 1590127107 usec 799867
+src frame 547.0 time sec 1590127107 usec 799883
+    Interpolator time 15441 usec
+    getNextFrame 547.1 time 9967 usec
+add frame 547.1 time sec 1590127107 usec 828123
+src frame 548.0 time sec 1590127107 usec 828135
+    Interpolator time 16086 usec
+    getNextFrame 548.1 time 10115 usec
+add frame 548.1 time sec 1590127107 usec 857103
+src frame 549.0 time sec 1590127107 usec 857115
+    Interpolator time 19093 usec
+    getNextFrame 549.1 time 9681 usec
+add frame 549.1 time sec 1590127107 usec 888775
+src frame 550.0 time sec 1590127107 usec 888786
+    Interpolator time 18287 usec
+    getNextFrame 550.1 time 10263 usec
+add frame 550.1 time sec 1590127107 usec 920357
+src frame 551.0 time sec 1590127107 usec 920436
+    Interpolator time 16197 usec
+    getNextFrame 551.1 time 9941 usec
+add frame 551.1 time sec 1590127107 usec 948517
+src frame 552.0 time sec 1590127107 usec 948560
+    Interpolator time 19608 usec
+    getNextFrame 552.1 time 10605 usec
+add frame 552.1 time sec 1590127107 usec 980779
+src frame 553.0 time sec 1590127107 usec 980861
+    Interpolator time 16290 usec
+    getNextFrame 553.1 time 9723 usec
+add frame 553.1 time sec 1590127108 usec 8660
+src frame 554.0 time sec 1590127108 usec 8745
+    Interpolator time 17443 usec
+    getNextFrame 554.1 time 9592 usec
+add frame 554.1 time sec 1590127108 usec 37600
+src frame 555.0 time sec 1590127108 usec 37676
+    Interpolator time 19240 usec
+    getNextFrame 555.1 time 9578 usec
+add frame 555.1 time sec 1590127108 usec 68320
+src frame 556.0 time sec 1590127108 usec 68407
+    Interpolator time 16721 usec
+    getNextFrame 556.1 time 10162 usec
+add frame 556.1 time sec 1590127108 usec 97179
+src frame 557.0 time sec 1590127108 usec 97221
+    Interpolator time 15660 usec
+    getNextFrame 557.1 time 10183 usec
+add frame 557.1 time sec 1590127108 usec 125006
+src frame 558.0 time sec 1590127108 usec 125065
+    Interpolator time 15731 usec
+    getNextFrame 558.1 time 10793 usec
+add frame 558.1 time sec 1590127108 usec 153502
+src frame 559.0 time sec 1590127108 usec 153543
+    Interpolator time 16884 usec
+    getNextFrame 559.1 time 10854 usec
+add frame 559.1 time sec 1590127108 usec 183176
+src frame 560.0 time sec 1590127108 usec 183189
+    Interpolator time 16410 usec
+    getNextFrame 560.1 time 10296 usec
+add frame 560.1 time sec 1590127108 usec 211756
+src frame 561.0 time sec 1590127108 usec 211820
+    Interpolator time 16974 usec
+    getNextFrame 561.1 time 11211 usec
+add frame 561.1 time sec 1590127108 usec 241742
+src frame 562.0 time sec 1590127108 usec 241757
+    Interpolator time 17175 usec
+    getNextFrame 562.1 time 10530 usec
+add frame 562.1 time sec 1590127108 usec 271331
+src frame 563.0 time sec 1590127108 usec 271343
+    Interpolator time 16335 usec
+    getNextFrame 563.1 time 10748 usec
+add frame 563.1 time sec 1590127108 usec 300210
+src frame 564.0 time sec 1590127108 usec 300222
+    Interpolator time 19800 usec
+    getNextFrame 564.1 time 11049 usec
+add frame 564.1 time sec 1590127108 usec 332985
+src frame 565.0 time sec 1590127108 usec 332997
+    Interpolator time 17134 usec
+    getNextFrame 565.1 time 10936 usec
+add frame 565.1 time sec 1590127108 usec 362811
+src frame 566.0 time sec 1590127108 usec 362824
+    Interpolator time 16786 usec
+    getNextFrame 566.1 time 11520 usec
+add frame 566.1 time sec 1590127108 usec 393659
+src frame 567.0 time sec 1590127108 usec 393674
+    Interpolator time 17778 usec
+    getNextFrame 567.1 time 9957 usec
+add frame 567.1 time sec 1590127108 usec 424245
+src frame 568.0 time sec 1590127108 usec 424290
+    Interpolator time 18104 usec
+    getNextFrame 568.1 time 10566 usec
+add frame 568.1 time sec 1590127108 usec 455090
+src frame 569.0 time sec 1590127108 usec 455104
+    Interpolator time 17303 usec
+    getNextFrame 569.1 time 9760 usec
+add frame 569.1 time sec 1590127108 usec 483984
+src frame 570.0 time sec 1590127108 usec 484075
+    Interpolator time 16329 usec
+    getNextFrame 570.1 time 9743 usec
+add frame 570.1 time sec 1590127108 usec 511919
+src frame 571.0 time sec 1590127108 usec 512018
+    Interpolator time 16327 usec
+    getNextFrame 571.1 time 9538 usec
+add frame 571.1 time sec 1590127108 usec 539655
+src frame 572.0 time sec 1590127108 usec 539741
+    Interpolator time 19215 usec
+    getNextFrame 572.1 time 9635 usec
+add frame 572.1 time sec 1590127108 usec 570388
+src frame 573.0 time sec 1590127108 usec 570463
+    Interpolator time 16789 usec
+    getNextFrame 573.1 time 10092 usec
+add frame 573.1 time sec 1590127108 usec 599149
+src frame 574.0 time sec 1590127108 usec 599232
+    Interpolator time 18487 usec
+    getNextFrame 574.1 time 11080 usec
+add frame 574.1 time sec 1590127108 usec 630609
+src frame 575.0 time sec 1590127108 usec 630622
+    Interpolator time 16057 usec
+    getNextFrame 575.1 time 10734 usec
+add frame 575.1 time sec 1590127108 usec 659284
+src frame 576.0 time sec 1590127108 usec 659325
+    Interpolator time 18899 usec
+    getNextFrame 576.1 time 9716 usec
+add frame 576.1 time sec 1590127108 usec 689842
+src frame 577.0 time sec 1590127108 usec 689882
+    Interpolator time 17309 usec
+    getNextFrame 577.1 time 9647 usec
+add frame 577.1 time sec 1590127108 usec 718826
+src frame 578.0 time sec 1590127108 usec 718870
+    Interpolator time 16559 usec
+    getNextFrame 578.1 time 9692 usec
+add frame 578.1 time sec 1590127108 usec 746955
+src frame 579.0 time sec 1590127108 usec 746997
+    Interpolator time 17002 usec
+    getNextFrame 579.1 time 9610 usec
+add frame 579.1 time sec 1590127108 usec 775556
+src frame 580.0 time sec 1590127108 usec 775599
+    Interpolator time 17677 usec
+    getNextFrame 580.1 time 9758 usec
+add frame 580.1 time sec 1590127108 usec 804781
+src frame 581.0 time sec 1590127108 usec 804825
+    Interpolator time 16624 usec
+    getNextFrame 581.1 time 9951 usec
+add frame 581.1 time sec 1590127108 usec 833213
+src frame 582.0 time sec 1590127108 usec 833252
+    Interpolator time 16475 usec
+    getNextFrame 582.1 time 9830 usec
+add frame 582.1 time sec 1590127108 usec 861318
+src frame 583.0 time sec 1590127108 usec 861359
+    Interpolator time 20445 usec
+    getNextFrame 583.1 time 9820 usec
+add frame 583.1 time sec 1590127108 usec 893436
+src frame 584.0 time sec 1590127108 usec 893516
+    Interpolator time 17399 usec
+    getNextFrame 584.1 time 9979 usec
+add frame 584.1 time sec 1590127108 usec 923004
+src frame 585.0 time sec 1590127108 usec 923047
+    Interpolator time 17058 usec
+    getNextFrame 585.1 time 10759 usec
+add frame 585.1 time sec 1590127108 usec 952731
+src frame 586.0 time sec 1590127108 usec 952777
+    Interpolator time 22050 usec
+    getNextFrame 586.1 time 10281 usec
+add frame 586.1 time sec 1590127108 usec 987036
+src frame 587.0 time sec 1590127108 usec 987050
+    Interpolator time 16405 usec
+    getNextFrame 587.1 time 11017 usec
+add frame 587.1 time sec 1590127109 usec 16521
+src frame 588.0 time sec 1590127109 usec 16534
+    Interpolator time 15805 usec
+    getNextFrame 588.1 time 9905 usec
+add frame 588.1 time sec 1590127109 usec 44025
+src frame 589.0 time sec 1590127109 usec 44088
+    Interpolator time 15925 usec
+    getNextFrame 589.1 time 10259 usec
+add frame 589.1 time sec 1590127109 usec 73275
+src frame 590.0 time sec 1590127109 usec 73289
+    Interpolator time 16639 usec
+    getNextFrame 590.1 time 11149 usec
+add frame 590.1 time sec 1590127109 usec 102851
+src frame 591.0 time sec 1590127109 usec 102868
+    Interpolator time 16368 usec
+    getNextFrame 591.1 time 10164 usec
+add frame 591.1 time sec 1590127109 usec 131324
+src frame 592.0 time sec 1590127109 usec 131340
+    Interpolator time 16841 usec
+    getNextFrame 592.1 time 10536 usec
+add frame 592.1 time sec 1590127109 usec 160659
+src frame 593.0 time sec 1590127109 usec 160674
+    Interpolator time 16218 usec
+    getNextFrame 593.1 time 9968 usec
+add frame 593.1 time sec 1590127109 usec 188625
+src frame 594.0 time sec 1590127109 usec 188646
+    Interpolator time 16228 usec
+    getNextFrame 594.1 time 9650 usec
+add frame 594.1 time sec 1590127109 usec 216842
+src frame 595.0 time sec 1590127109 usec 216892
+    Interpolator time 15347 usec
+    getNextFrame 595.1 time 9729 usec
+add frame 595.1 time sec 1590127109 usec 243902
+src frame 596.0 time sec 1590127109 usec 243945
+    Interpolator time 15943 usec
+    getNextFrame 596.1 time 9804 usec
+add frame 596.1 time sec 1590127109 usec 271589
+src frame 597.0 time sec 1590127109 usec 271634
+    Interpolator time 15665 usec
+    getNextFrame 597.1 time 10198 usec
+add frame 597.1 time sec 1590127109 usec 299365
+src frame 598.0 time sec 1590127109 usec 299416
+    Interpolator time 16731 usec
+    getNextFrame 598.1 time 9978 usec
+add frame 598.1 time sec 1590127109 usec 327960
+src frame 599.0 time sec 1590127109 usec 328030
+    Interpolator time 15452 usec
+    getNextFrame 599.1 time 10640 usec
+add frame 599.1 time sec 1590127109 usec 355886
+src frame 600.0 time sec 1590127109 usec 355971
+    Interpolator time 15076 usec
+    getNextFrame 600.1 time 10651 usec
+add frame 600.1 time sec 1590127109 usec 383697
+src frame 601.0 time sec 1590127109 usec 383711
+    Interpolator time 17963 usec
+    getNextFrame 601.1 time 9920 usec
+add frame 601.1 time sec 1590127109 usec 413353
+src frame 602.0 time sec 1590127109 usec 413436
+    Interpolator time 15447 usec
+    getNextFrame 602.1 time 10247 usec
+add frame 602.1 time sec 1590127109 usec 441431
+src frame 603.0 time sec 1590127109 usec 441498
+    Interpolator time 17105 usec
+    getNextFrame 603.1 time 10179 usec
+add frame 603.1 time sec 1590127109 usec 470631
+src frame 604.0 time sec 1590127109 usec 470715
+    Interpolator time 18848 usec
+    getNextFrame 604.1 time 9922 usec
+add frame 604.1 time sec 1590127109 usec 501324
+src frame 605.0 time sec 1590127109 usec 501411
+    Interpolator time 19606 usec
+    getNextFrame 605.1 time 9884 usec
+add frame 605.1 time sec 1590127109 usec 532717
+src frame 606.0 time sec 1590127109 usec 532804
+    Interpolator time 16878 usec
+    getNextFrame 606.1 time 9955 usec
+add frame 606.1 time sec 1590127109 usec 561425
+src frame 607.0 time sec 1590127109 usec 561475
+    Interpolator time 16180 usec
+    getNextFrame 607.1 time 9764 usec
+add frame 607.1 time sec 1590127109 usec 589253
+src frame 608.0 time sec 1590127109 usec 589266
+    Interpolator time 16519 usec
+    getNextFrame 608.1 time 10252 usec
+add frame 608.1 time sec 1590127109 usec 617953
+src frame 609.0 time sec 1590127109 usec 617967
+    Interpolator time 16550 usec
+    getNextFrame 609.1 time 10593 usec
+add frame 609.1 time sec 1590127109 usec 646944
+src frame 610.0 time sec 1590127109 usec 646957
+    Interpolator time 16859 usec
+    getNextFrame 610.1 time 10478 usec
+add frame 610.1 time sec 1590127109 usec 676467
+src frame 611.0 time sec 1590127109 usec 676481
+    Interpolator time 18746 usec
+    getNextFrame 611.1 time 10201 usec
+add frame 611.1 time sec 1590127109 usec 707324
+src frame 612.0 time sec 1590127109 usec 707395
+    Interpolator time 16819 usec
+    getNextFrame 612.1 time 10302 usec
+add frame 612.1 time sec 1590127109 usec 736398
+src frame 613.0 time sec 1590127109 usec 736411
+    Interpolator time 16139 usec
+    getNextFrame 613.1 time 11733 usec
+add frame 613.1 time sec 1590127109 usec 766033
+src frame 614.0 time sec 1590127109 usec 766047
+    Interpolator time 15757 usec
+    getNextFrame 614.1 time 10193 usec
+add frame 614.1 time sec 1590127109 usec 793839
+src frame 615.0 time sec 1590127109 usec 793855
+    Interpolator time 19255 usec
+    getNextFrame 615.1 time 11374 usec
+add frame 615.1 time sec 1590127109 usec 826389
+src frame 616.0 time sec 1590127109 usec 826402
+    Interpolator time 17554 usec
+    getNextFrame 616.1 time 10687 usec
+add frame 616.1 time sec 1590127109 usec 856554
+src frame 617.0 time sec 1590127109 usec 856595
+    Interpolator time 17049 usec
+    getNextFrame 617.1 time 10293 usec
+add frame 617.1 time sec 1590127109 usec 885711
+src frame 618.0 time sec 1590127109 usec 885753
+    Interpolator time 16764 usec
+    getNextFrame 618.1 time 9780 usec
+add frame 618.1 time sec 1590127109 usec 914191
+src frame 619.0 time sec 1590127109 usec 914236
+    Interpolator time 16426 usec
+    getNextFrame 619.1 time 9468 usec
+add frame 619.1 time sec 1590127109 usec 941937
+src frame 620.0 time sec 1590127109 usec 941974
+    Interpolator time 16243 usec
+    getNextFrame 620.1 time 9669 usec
+add frame 620.1 time sec 1590127109 usec 969775
+src frame 621.0 time sec 1590127109 usec 969821
+    Interpolator time 17055 usec
+    getNextFrame 621.1 time 9816 usec
+add frame 621.1 time sec 1590127109 usec 998549
+src frame 622.0 time sec 1590127109 usec 998590
+    Interpolator time 17036 usec
+    getNextFrame 622.1 time 9785 usec
+add frame 622.1 time sec 1590127110 usec 27263
+src frame 623.0 time sec 1590127110 usec 27307
+    Interpolator time 16796 usec
+    getNextFrame 623.1 time 10070 usec
+add frame 623.1 time sec 1590127110 usec 56019
+src frame 624.0 time sec 1590127110 usec 56062
+    Interpolator time 16862 usec
+    getNextFrame 624.1 time 9814 usec
+add frame 624.1 time sec 1590127110 usec 84495
+src frame 625.0 time sec 1590127110 usec 84538
+    Interpolator time 16441 usec
+    getNextFrame 625.1 time 9750 usec
+add frame 625.1 time sec 1590127110 usec 112483
+src frame 626.0 time sec 1590127110 usec 112525
+    Interpolator time 17366 usec
+    getNextFrame 626.1 time 9609 usec
+add frame 626.1 time sec 1590127110 usec 141331
+src frame 627.0 time sec 1590127110 usec 141388
+    Interpolator time 17408 usec
+    getNextFrame 627.1 time 11281 usec
+add frame 627.1 time sec 1590127110 usec 172141
+src frame 628.0 time sec 1590127110 usec 172184
+    Interpolator time 18029 usec
+    getNextFrame 628.1 time 10023 usec
+add frame 628.1 time sec 1590127110 usec 202053
+src frame 629.0 time sec 1590127110 usec 202101
+    Interpolator time 16432 usec
+    getNextFrame 629.1 time 9684 usec
+add frame 629.1 time sec 1590127110 usec 230043
+src frame 630.0 time sec 1590127110 usec 230088
+    Interpolator time 16459 usec
+    getNextFrame 630.1 time 9972 usec
+add frame 630.1 time sec 1590127110 usec 258334
+src frame 631.0 time sec 1590127110 usec 258380
+    Interpolator time 17725 usec
+    getNextFrame 631.1 time 10015 usec
+add frame 631.1 time sec 1590127110 usec 287926
+src frame 632.0 time sec 1590127110 usec 287965
+    Interpolator time 16936 usec
+    getNextFrame 632.1 time 11041 usec
+add frame 632.1 time sec 1590127110 usec 317726
+src frame 633.0 time sec 1590127110 usec 317766
+    Interpolator time 18006 usec
+    getNextFrame 633.1 time 10793 usec
+add frame 633.1 time sec 1590127110 usec 348463
+src frame 634.0 time sec 1590127110 usec 348506
+    Interpolator time 17767 usec
+    getNextFrame 634.1 time 9762 usec
+add frame 634.1 time sec 1590127110 usec 377978
+src frame 635.0 time sec 1590127110 usec 378023
+    Interpolator time 17494 usec
+    getNextFrame 635.1 time 10122 usec
+add frame 635.1 time sec 1590127110 usec 407452
+src frame 636.0 time sec 1590127110 usec 407493
+    Interpolator time 17369 usec
+    getNextFrame 636.1 time 10613 usec
+add frame 636.1 time sec 1590127110 usec 437469
+src frame 637.0 time sec 1590127110 usec 437515
+    Interpolator time 16845 usec
+    getNextFrame 637.1 time 11095 usec
+add frame 637.1 time sec 1590127110 usec 467497
+src frame 638.0 time sec 1590127110 usec 467542
+    Interpolator time 18065 usec
+    getNextFrame 638.1 time 16481 usec
+add frame 638.1 time sec 1590127110 usec 503943
+src frame 639.0 time sec 1590127110 usec 503984
+    Interpolator time 20552 usec
+    getNextFrame 639.1 time 10823 usec
+add frame 639.1 time sec 1590127110 usec 537618
+src frame 640.0 time sec 1590127110 usec 537630
+    Interpolator time 17878 usec
+    getNextFrame 640.1 time 10703 usec
+add frame 640.1 time sec 1590127110 usec 569384
+src frame 641.0 time sec 1590127110 usec 569438
+    Interpolator time 17197 usec
+    getNextFrame 641.1 time 10454 usec
+add frame 641.1 time sec 1590127110 usec 598963
+src frame 642.0 time sec 1590127110 usec 599001
+    Interpolator time 18130 usec
+    getNextFrame 642.1 time 9726 usec
+add frame 642.1 time sec 1590127110 usec 628750
+src frame 643.0 time sec 1590127110 usec 628790
+    Interpolator time 18340 usec
+    getNextFrame 643.1 time 10154 usec
+add frame 643.1 time sec 1590127110 usec 659265
+src frame 644.0 time sec 1590127110 usec 659309
+    Interpolator time 16880 usec
+    getNextFrame 644.1 time 9855 usec
+add frame 644.1 time sec 1590127110 usec 687799
+src frame 645.0 time sec 1590127110 usec 687843
+    Interpolator time 16717 usec
+    getNextFrame 645.1 time 14535 usec
+add frame 645.1 time sec 1590127110 usec 720850
+src frame 646.0 time sec 1590127110 usec 720891
+    Interpolator time 16995 usec
+    getNextFrame 646.1 time 10760 usec
+add frame 646.1 time sec 1590127110 usec 751390
+src frame 647.0 time sec 1590127110 usec 751404
+    Interpolator time 16563 usec
+    getNextFrame 647.1 time 10174 usec
+add frame 647.1 time sec 1590127110 usec 780110
+src frame 648.0 time sec 1590127110 usec 780124
+    Interpolator time 15771 usec
+    getNextFrame 648.1 time 9887 usec
+add frame 648.1 time sec 1590127110 usec 807749
+src frame 649.0 time sec 1590127110 usec 807779
+    Interpolator time 17034 usec
+    getNextFrame 649.1 time 10173 usec
+add frame 649.1 time sec 1590127110 usec 837025
+src frame 650.0 time sec 1590127110 usec 837037
+    Interpolator time 15051 usec
+    getNextFrame 650.1 time 10543 usec
+add frame 650.1 time sec 1590127110 usec 864365
+src frame 651.0 time sec 1590127110 usec 864407
+    Interpolator time 15060 usec
+    getNextFrame 651.1 time 9801 usec
+add frame 651.1 time sec 1590127110 usec 891111
+src frame 652.0 time sec 1590127110 usec 891155
+    Interpolator time 15297 usec
+    getNextFrame 652.1 time 9753 usec
+add frame 652.1 time sec 1590127110 usec 918076
+src frame 653.0 time sec 1590127110 usec 918119
+    Interpolator time 15058 usec
+    getNextFrame 653.1 time 10415 usec
+add frame 653.1 time sec 1590127110 usec 945490
+src frame 654.0 time sec 1590127110 usec 945540
+    Interpolator time 18334 usec
+    getNextFrame 654.1 time 10599 usec
+add frame 654.1 time sec 1590127110 usec 976341
+src frame 655.0 time sec 1590127110 usec 976378
+    Interpolator time 16663 usec
+    getNextFrame 655.1 time 10228 usec
+add frame 655.1 time sec 1590127111 usec 5432
+src frame 656.0 time sec 1590127111 usec 5473
+    Interpolator time 17440 usec
+    getNextFrame 656.1 time 10165 usec
+add frame 656.1 time sec 1590127111 usec 34882
+src frame 657.0 time sec 1590127111 usec 34924
+    Interpolator time 19054 usec
+    getNextFrame 657.1 time 15625 usec
+add frame 657.1 time sec 1590127111 usec 71416
+src frame 658.0 time sec 1590127111 usec 71468
+    Interpolator time 20559 usec
+    getNextFrame 658.1 time 16087 usec
+add frame 658.1 time sec 1590127111 usec 110969
+src frame 659.0 time sec 1590127111 usec 111021
+    Interpolator time 17359 usec
+    getNextFrame 659.1 time 9826 usec
+add frame 659.1 time sec 1590127111 usec 140077
+src frame 660.0 time sec 1590127111 usec 140119
+    Interpolator time 18763 usec
+    getNextFrame 660.1 time 10847 usec
+add frame 660.1 time sec 1590127111 usec 171552
+src frame 661.0 time sec 1590127111 usec 171597
+    Interpolator time 16880 usec
+    getNextFrame 661.1 time 10221 usec
+add frame 661.1 time sec 1590127111 usec 200475
+src frame 662.0 time sec 1590127111 usec 200517
+    Interpolator time 17392 usec
+    getNextFrame 662.1 time 9887 usec
+add frame 662.1 time sec 1590127111 usec 229824
+src frame 663.0 time sec 1590127111 usec 229876
+    Interpolator time 17614 usec
+    getNextFrame 663.1 time 15082 usec
+add frame 663.1 time sec 1590127111 usec 264441
+src frame 664.0 time sec 1590127111 usec 264479
+    Interpolator time 20254 usec
+    getNextFrame 664.1 time 10432 usec
+add frame 664.1 time sec 1590127111 usec 298013
+src frame 665.0 time sec 1590127111 usec 298023
+    Interpolator time 17538 usec
+    getNextFrame 665.1 time 10156 usec
+add frame 665.1 time sec 1590127111 usec 329039
+src frame 666.0 time sec 1590127111 usec 329050
+    Interpolator time 16391 usec
+    getNextFrame 666.1 time 10660 usec
+add frame 666.1 time sec 1590127111 usec 359018
+src frame 667.0 time sec 1590127111 usec 359031
+    Interpolator time 18242 usec
+    getNextFrame 667.1 time 10051 usec
+add frame 667.1 time sec 1590127111 usec 390195
+src frame 668.0 time sec 1590127111 usec 390206
+    Interpolator time 17190 usec
+    getNextFrame 668.1 time 10012 usec
+add frame 668.1 time sec 1590127111 usec 420340
+src frame 669.0 time sec 1590127111 usec 420354
+    Interpolator time 17224 usec
+    getNextFrame 669.1 time 10070 usec
+add frame 669.1 time sec 1590127111 usec 450833
+src frame 670.0 time sec 1590127111 usec 450844
+    Interpolator time 19605 usec
+    getNextFrame 670.1 time 9903 usec
+add frame 670.1 time sec 1590127111 usec 483533
+src frame 671.0 time sec 1590127111 usec 483544
+    Interpolator time 16614 usec
+    getNextFrame 671.1 time 10190 usec
+add frame 671.1 time sec 1590127111 usec 513365
+src frame 672.0 time sec 1590127111 usec 513377
+    Interpolator time 16116 usec
+    getNextFrame 672.1 time 12315 usec
+add frame 672.1 time sec 1590127111 usec 544704
+src frame 673.0 time sec 1590127111 usec 544743
+    Interpolator time 16802 usec
+    getNextFrame 673.1 time 13600 usec
+add frame 673.1 time sec 1590127111 usec 578134
+src frame 674.0 time sec 1590127111 usec 578191
+    Interpolator time 16960 usec
+    getNextFrame 674.1 time 10051 usec
+add frame 674.1 time sec 1590127111 usec 607268
+src frame 675.0 time sec 1590127111 usec 607310
+    Interpolator time 20740 usec
+    getNextFrame 675.1 time 9850 usec
+add frame 675.1 time sec 1590127111 usec 639670
+src frame 676.0 time sec 1590127111 usec 639712
+    Interpolator time 19319 usec
+    getNextFrame 676.1 time 10624 usec
+add frame 676.1 time sec 1590127111 usec 671541
+src frame 677.0 time sec 1590127111 usec 671581
+    Interpolator time 17458 usec
+    getNextFrame 677.1 time 10794 usec
+add frame 677.1 time sec 1590127111 usec 701808
+src frame 678.0 time sec 1590127111 usec 701821
+    Interpolator time 17747 usec
+    getNextFrame 678.1 time 10325 usec
+add frame 678.1 time sec 1590127111 usec 732869
+src frame 679.0 time sec 1590127111 usec 732879
+    Interpolator time 17091 usec
+    getNextFrame 679.1 time 10192 usec
+add frame 679.1 time sec 1590127111 usec 763302
+src frame 680.0 time sec 1590127111 usec 763313
+    Interpolator time 17827 usec
+    getNextFrame 680.1 time 10744 usec
+add frame 680.1 time sec 1590127111 usec 794836
+src frame 681.0 time sec 1590127111 usec 794848
+    Interpolator time 17927 usec
+    getNextFrame 681.1 time 10510 usec
+add frame 681.1 time sec 1590127111 usec 826525
+src frame 682.0 time sec 1590127111 usec 826535
+    Interpolator time 18203 usec
+    getNextFrame 682.1 time 10641 usec
+add frame 682.1 time sec 1590127111 usec 858370
+src frame 683.0 time sec 1590127111 usec 858381
+    Interpolator time 17295 usec
+    getNextFrame 683.1 time 9849 usec
+add frame 683.1 time sec 1590127111 usec 888651
+src frame 684.0 time sec 1590127111 usec 888662
+    Interpolator time 18463 usec
+    getNextFrame 684.1 time 10653 usec
+add frame 684.1 time sec 1590127111 usec 920668
+src frame 685.0 time sec 1590127111 usec 920678
+    Interpolator time 17880 usec
+    getNextFrame 685.1 time 10322 usec
+add frame 685.1 time sec 1590127111 usec 951778
+src frame 686.0 time sec 1590127111 usec 951789
+    Interpolator time 19412 usec
+    getNextFrame 686.1 time 10099 usec
+add frame 686.1 time sec 1590127111 usec 984365
+src frame 687.0 time sec 1590127111 usec 984377
+    Interpolator time 19160 usec
+    getNextFrame 687.1 time 9886 usec
+add frame 687.1 time sec 1590127112 usec 16572
+src frame 688.0 time sec 1590127112 usec 16582
+    Interpolator time 18373 usec
+    getNextFrame 688.1 time 10079 usec
+add frame 688.1 time sec 1590127112 usec 48365
+src frame 689.0 time sec 1590127112 usec 48406
+    Interpolator time 20722 usec
+    getNextFrame 689.1 time 9905 usec
+add frame 689.1 time sec 1590127112 usec 81049
+src frame 690.0 time sec 1590127112 usec 81061
+    Interpolator time 17910 usec
+    getNextFrame 690.1 time 10008 usec
+add frame 690.1 time sec 1590127112 usec 111775
+src frame 691.0 time sec 1590127112 usec 111786
+    Interpolator time 17309 usec
+    getNextFrame 691.1 time 10351 usec
+add frame 691.1 time sec 1590127112 usec 142238
+src frame 692.0 time sec 1590127112 usec 142278
+    Interpolator time 19050 usec
+    getNextFrame 692.1 time 10112 usec
+add frame 692.1 time sec 1590127112 usec 173558
+src frame 693.0 time sec 1590127112 usec 173602
+    Interpolator time 16123 usec
+    getNextFrame 693.1 time 10398 usec
+add frame 693.1 time sec 1590127112 usec 201960
+src frame 694.0 time sec 1590127112 usec 201974
+    Interpolator time 16763 usec
+    getNextFrame 694.1 time 10099 usec
+add frame 694.1 time sec 1590127112 usec 230715
+src frame 695.0 time sec 1590127112 usec 230727
+    Interpolator time 18871 usec
+    getNextFrame 695.1 time 10438 usec
+add frame 695.1 time sec 1590127112 usec 262523
+src frame 696.0 time sec 1590127112 usec 262536
+    Interpolator time 17342 usec
+    getNextFrame 696.1 time 10777 usec
+add frame 696.1 time sec 1590127112 usec 292506
+src frame 697.0 time sec 1590127112 usec 292520
+    Interpolator time 16617 usec
+    getNextFrame 697.1 time 10764 usec
+add frame 697.1 time sec 1590127112 usec 321802
+src frame 698.0 time sec 1590127112 usec 321840
+    Interpolator time 17820 usec
+    getNextFrame 698.1 time 9981 usec
+add frame 698.1 time sec 1590127112 usec 351506
+src frame 699.0 time sec 1590127112 usec 351549
+    Interpolator time 17656 usec
+    getNextFrame 699.1 time 10936 usec
+add frame 699.1 time sec 1590127112 usec 381921
+src frame 700.0 time sec 1590127112 usec 381958
+    Interpolator time 17827 usec
+    getNextFrame 700.1 time 10153 usec
+add frame 700.1 time sec 1590127112 usec 411769
+src frame 701.0 time sec 1590127112 usec 411828
+    Interpolator time 17072 usec
+    getNextFrame 701.1 time 9621 usec
+add frame 701.1 time sec 1590127112 usec 440310
+src frame 702.0 time sec 1590127112 usec 440352
+    Interpolator time 19194 usec
+    getNextFrame 702.1 time 10802 usec
+add frame 702.1 time sec 1590127112 usec 472152
+src frame 703.0 time sec 1590127112 usec 472166
+    Interpolator time 18482 usec
+    getNextFrame 703.1 time 10548 usec
+add frame 703.1 time sec 1590127112 usec 503027
+src frame 704.0 time sec 1590127112 usec 503067
+    Interpolator time 17132 usec
+    getNextFrame 704.1 time 9586 usec
+add frame 704.1 time sec 1590127112 usec 531611
+src frame 705.0 time sec 1590127112 usec 531680
+    Interpolator time 16952 usec
+    getNextFrame 705.1 time 10602 usec
+add frame 705.1 time sec 1590127112 usec 561244
+src frame 706.0 time sec 1590127112 usec 561259
+    Interpolator time 17045 usec
+    getNextFrame 706.1 time 13608 usec
+add frame 706.1 time sec 1590127112 usec 593832
+src frame 707.0 time sec 1590127112 usec 593844
+    Interpolator time 18941 usec
+    getNextFrame 707.1 time 14152 usec
+add frame 707.1 time sec 1590127112 usec 628789
+src frame 708.0 time sec 1590127112 usec 628802
+    Interpolator time 20818 usec
+    getNextFrame 708.1 time 10159 usec
+add frame 708.1 time sec 1590127112 usec 662228
+src frame 709.0 time sec 1590127112 usec 662286
+    Interpolator time 17549 usec
+    getNextFrame 709.1 time 9835 usec
+add frame 709.1 time sec 1590127112 usec 691835
+src frame 710.0 time sec 1590127112 usec 691950
+    Interpolator time 18143 usec
+    getNextFrame 710.1 time 10293 usec
+add frame 710.1 time sec 1590127112 usec 722875
+src frame 711.0 time sec 1590127112 usec 722888
+    Interpolator time 18380 usec
+    getNextFrame 711.1 time 10589 usec
+add frame 711.1 time sec 1590127112 usec 754821
+src frame 712.0 time sec 1590127112 usec 754833
+    Interpolator time 16355 usec
+    getNextFrame 712.1 time 11146 usec
+add frame 712.1 time sec 1590127112 usec 785348
+src frame 713.0 time sec 1590127112 usec 785360
+    Interpolator time 18389 usec
+    getNextFrame 713.1 time 10266 usec
+add frame 713.1 time sec 1590127112 usec 815891
+src frame 714.0 time sec 1590127112 usec 815903
+    Interpolator time 20943 usec
+    getNextFrame 714.1 time 10034 usec
+add frame 714.1 time sec 1590127112 usec 849873
+src frame 715.0 time sec 1590127112 usec 849956
+    Interpolator time 20693 usec
+    getNextFrame 715.1 time 10164 usec
+add frame 715.1 time sec 1590127112 usec 882829
+src frame 716.0 time sec 1590127112 usec 882903
+    Interpolator time 16734 usec
+    getNextFrame 716.1 time 9696 usec
+add frame 716.1 time sec 1590127112 usec 911476
+src frame 717.0 time sec 1590127112 usec 911571
+    Interpolator time 19243 usec
+    getNextFrame 717.1 time 9893 usec
+add frame 717.1 time sec 1590127112 usec 942509
+src frame 718.0 time sec 1590127112 usec 942613
+    Interpolator time 16301 usec
+    getNextFrame 718.1 time 10198 usec
+add frame 718.1 time sec 1590127112 usec 970977
+src frame 719.0 time sec 1590127112 usec 971031
+    Interpolator time 22047 usec
+    getNextFrame 719.1 time 10426 usec
+add frame 719.1 time sec 1590127113 usec 5479
+src frame 720.0 time sec 1590127113 usec 5495
+    Interpolator time 16780 usec
+    getNextFrame 720.1 time 10647 usec
+add frame 720.1 time sec 1590127113 usec 34873
+src frame 721.0 time sec 1590127113 usec 34974
+    Interpolator time 16554 usec
+    getNextFrame 721.1 time 9961 usec
+add frame 721.1 time sec 1590127113 usec 63368
+src frame 722.0 time sec 1590127113 usec 63459
+    Interpolator time 16415 usec
+    getNextFrame 722.1 time 9845 usec
+add frame 722.1 time sec 1590127113 usec 91549
+src frame 723.0 time sec 1590127113 usec 91612
+    Interpolator time 16069 usec
+    getNextFrame 723.1 time 9596 usec
+add frame 723.1 time sec 1590127113 usec 119098
+src frame 724.0 time sec 1590127113 usec 119132
+    Interpolator time 15759 usec
+    getNextFrame 724.1 time 9514 usec
+add frame 724.1 time sec 1590127113 usec 146187
+src frame 725.0 time sec 1590127113 usec 146198
+    Interpolator time 16220 usec
+    getNextFrame 725.1 time 10745 usec
+add frame 725.1 time sec 1590127113 usec 175028
+src frame 726.0 time sec 1590127113 usec 175039
+    Interpolator time 17118 usec
+    getNextFrame 726.1 time 10084 usec
+add frame 726.1 time sec 1590127113 usec 204070
+src frame 727.0 time sec 1590127113 usec 204156
+    Interpolator time 16305 usec
+    getNextFrame 727.1 time 9620 usec
+add frame 727.1 time sec 1590127113 usec 231851
+src frame 728.0 time sec 1590127113 usec 231887
+    Interpolator time 16304 usec
+    getNextFrame 728.1 time 10921 usec
+add frame 728.1 time sec 1590127113 usec 260953
+src frame 729.0 time sec 1590127113 usec 260998
+    Interpolator time 16518 usec
+    getNextFrame 729.1 time 10494 usec
+add frame 729.1 time sec 1590127113 usec 289764
+src frame 730.0 time sec 1590127113 usec 289807
+    Interpolator time 17414 usec
+    getNextFrame 730.1 time 10293 usec
+add frame 730.1 time sec 1590127113 usec 319522
+src frame 731.0 time sec 1590127113 usec 319534
+    Interpolator time 16480 usec
+    getNextFrame 731.1 time 9655 usec
+add frame 731.1 time sec 1590127113 usec 347675
+src frame 732.0 time sec 1590127113 usec 347718
+    Interpolator time 18148 usec
+    getNextFrame 732.1 time 10201 usec
+add frame 732.1 time sec 1590127113 usec 377898
+src frame 733.0 time sec 1590127113 usec 377943
+    Interpolator time 16986 usec
+    getNextFrame 733.1 time 10512 usec
+add frame 733.1 time sec 1590127113 usec 407302
+src frame 734.0 time sec 1590127113 usec 407338
+    Interpolator time 18108 usec
+    getNextFrame 734.1 time 9775 usec
+add frame 734.1 time sec 1590127113 usec 437071
+src frame 735.0 time sec 1590127113 usec 437116
+    Interpolator time 17706 usec
+    getNextFrame 735.1 time 10571 usec
+add frame 735.1 time sec 1590127113 usec 467487
+src frame 736.0 time sec 1590127113 usec 467500
+    Interpolator time 17209 usec
+    getNextFrame 736.1 time 10165 usec
+add frame 736.1 time sec 1590127113 usec 496960
+src frame 737.0 time sec 1590127113 usec 496973
+    Interpolator time 17077 usec
+    getNextFrame 737.1 time 10119 usec
+add frame 737.1 time sec 1590127113 usec 526042
+src frame 738.0 time sec 1590127113 usec 526058
+    Interpolator time 17616 usec
+    getNextFrame 738.1 time 10272 usec
+add frame 738.1 time sec 1590127113 usec 555979
+src frame 739.0 time sec 1590127113 usec 555993
+    Interpolator time 18824 usec
+    getNextFrame 739.1 time 10139 usec
+add frame 739.1 time sec 1590127113 usec 586736
+src frame 740.0 time sec 1590127113 usec 586812
+    Interpolator time 17399 usec
+    getNextFrame 740.1 time 9906 usec
+add frame 740.1 time sec 1590127113 usec 615959
+src frame 741.0 time sec 1590127113 usec 615970
+    Interpolator time 16708 usec
+    getNextFrame 741.1 time 10333 usec
+add frame 741.1 time sec 1590127113 usec 646448
+src frame 742.0 time sec 1590127113 usec 646488
+    Interpolator time 16425 usec
+    getNextFrame 742.1 time 12668 usec
+add frame 742.1 time sec 1590127113 usec 677455
+src frame 743.0 time sec 1590127113 usec 677469
+    Interpolator time 18188 usec
+    getNextFrame 743.1 time 10203 usec
+add frame 743.1 time sec 1590127113 usec 708062
+src frame 744.0 time sec 1590127113 usec 708103
+    Interpolator time 16445 usec
+    getNextFrame 744.1 time 10086 usec
+add frame 744.1 time sec 1590127113 usec 736460
+src frame 745.0 time sec 1590127113 usec 736506
+    Interpolator time 16478 usec
+    getNextFrame 745.1 time 10122 usec
+add frame 745.1 time sec 1590127113 usec 764920
+src frame 746.0 time sec 1590127113 usec 764940
+    Interpolator time 16460 usec
+    getNextFrame 746.1 time 9669 usec
+add frame 746.1 time sec 1590127113 usec 792929
+src frame 747.0 time sec 1590127113 usec 792971
+    Interpolator time 16445 usec
+    getNextFrame 747.1 time 10025 usec
+add frame 747.1 time sec 1590127113 usec 821209
+src frame 748.0 time sec 1590127113 usec 821258
+    Interpolator time 16588 usec
+    getNextFrame 748.1 time 9622 usec
+add frame 748.1 time sec 1590127113 usec 849271
+src frame 749.0 time sec 1590127113 usec 849314
+    Interpolator time 17538 usec
+    getNextFrame 749.1 time 9854 usec
+add frame 749.1 time sec 1590127113 usec 878658
+src frame 750.0 time sec 1590127113 usec 878719
+    Interpolator time 16338 usec
+    getNextFrame 750.1 time 10017 usec
+add frame 750.1 time sec 1590127113 usec 906915
+src frame 751.0 time sec 1590127113 usec 906964
+    Interpolator time 16422 usec
+    getNextFrame 751.1 time 9786 usec
+add frame 751.1 time sec 1590127113 usec 935014
+src frame 752.0 time sec 1590127113 usec 935061
+    Interpolator time 16933 usec
+    getNextFrame 752.1 time 9749 usec
+add frame 752.1 time sec 1590127113 usec 963584
+src frame 753.0 time sec 1590127113 usec 963627
+    Interpolator time 17916 usec
+    getNextFrame 753.1 time 9655 usec
+add frame 753.1 time sec 1590127113 usec 992992
+src frame 754.0 time sec 1590127113 usec 993033
+    Interpolator time 20560 usec
+    getNextFrame 754.1 time 9743 usec
+add frame 754.1 time sec 1590127114 usec 25080
+src frame 755.0 time sec 1590127114 usec 25168
+    Interpolator time 17989 usec
+    getNextFrame 755.1 time 10449 usec
+add frame 755.1 time sec 1590127114 usec 55548
+src frame 756.0 time sec 1590127114 usec 55591
+    Interpolator time 17977 usec
+    getNextFrame 756.1 time 10124 usec
+add frame 756.1 time sec 1590127114 usec 86073
+src frame 757.0 time sec 1590127114 usec 86117
+    Interpolator time 17963 usec
+    getNextFrame 757.1 time 10737 usec
+add frame 757.1 time sec 1590127114 usec 116651
+src frame 758.0 time sec 1590127114 usec 116663
+    Interpolator time 16537 usec
+    getNextFrame 758.1 time 10308 usec
+add frame 758.1 time sec 1590127114 usec 145575
+src frame 759.0 time sec 1590127114 usec 145589
+    Interpolator time 17522 usec
+    getNextFrame 759.1 time 10618 usec
+add frame 759.1 time sec 1590127114 usec 175570
+src frame 760.0 time sec 1590127114 usec 175584
+    Interpolator time 16790 usec
+    getNextFrame 760.1 time 10954 usec
+add frame 760.1 time sec 1590127114 usec 205495
+src frame 761.0 time sec 1590127114 usec 205535
+    Interpolator time 18389 usec
+    getNextFrame 761.1 time 10270 usec
+add frame 761.1 time sec 1590127114 usec 236026
+src frame 762.0 time sec 1590127114 usec 236067
+    Interpolator time 18110 usec
+    getNextFrame 762.1 time 10250 usec
+add frame 762.1 time sec 1590127114 usec 266586
+src frame 763.0 time sec 1590127114 usec 266597
+    Interpolator time 17350 usec
+    getNextFrame 763.1 time 10574 usec
+add frame 763.1 time sec 1590127114 usec 297386
+src frame 764.0 time sec 1590127114 usec 297397
+    Interpolator time 17843 usec
+    getNextFrame 764.1 time 9988 usec
+add frame 764.1 time sec 1590127114 usec 328196
+src frame 765.0 time sec 1590127114 usec 328206
+    Interpolator time 16570 usec
+    getNextFrame 765.1 time 10179 usec
+add frame 765.1 time sec 1590127114 usec 357704
+src frame 766.0 time sec 1590127114 usec 357715
+    Interpolator time 16510 usec
+    getNextFrame 766.1 time 9507 usec
+add frame 766.1 time sec 1590127114 usec 386567
+src frame 767.0 time sec 1590127114 usec 386576
+    Interpolator time 16599 usec
+    getNextFrame 767.1 time 9635 usec
+add frame 767.1 time sec 1590127114 usec 415647
+src frame 768.0 time sec 1590127114 usec 415658
+    Interpolator time 17021 usec
+    getNextFrame 768.1 time 9628 usec
+add frame 768.1 time sec 1590127114 usec 445061
+src frame 769.0 time sec 1590127114 usec 445072
+    Interpolator time 16553 usec
+    getNextFrame 769.1 time 9705 usec
+add frame 769.1 time sec 1590127114 usec 474229
+src frame 770.0 time sec 1590127114 usec 474239
+    Interpolator time 20948 usec
+    getNextFrame 770.1 time 9921 usec
+add frame 770.1 time sec 1590127114 usec 507958
+src frame 771.0 time sec 1590127114 usec 507970
+    Interpolator time 15954 usec
+    getNextFrame 771.1 time 9830 usec
+add frame 771.1 time sec 1590127114 usec 536698
+src frame 772.0 time sec 1590127114 usec 536706
+    Interpolator time 16405 usec
+    getNextFrame 772.1 time 9871 usec
+add frame 772.1 time sec 1590127114 usec 565932
+src frame 773.0 time sec 1590127114 usec 565945
+    Interpolator time 17010 usec
+    getNextFrame 773.1 time 9958 usec
+add frame 773.1 time sec 1590127114 usec 595800
+src frame 774.0 time sec 1590127114 usec 595888
+    Interpolator time 19675 usec
+    getNextFrame 774.1 time 9975 usec
+add frame 774.1 time sec 1590127114 usec 627327
+src frame 775.0 time sec 1590127114 usec 627409
+    Interpolator time 16651 usec
+    getNextFrame 775.1 time 10021 usec
+add frame 775.1 time sec 1590127114 usec 655848
+src frame 776.0 time sec 1590127114 usec 655935
+    Interpolator time 20627 usec
+    getNextFrame 776.1 time 10644 usec
+add frame 776.1 time sec 1590127114 usec 689234
+src frame 777.0 time sec 1590127114 usec 689321
+    Interpolator time 15692 usec
+    getNextFrame 777.1 time 16309 usec
+add frame 777.1 time sec 1590127114 usec 723160
+src frame 778.0 time sec 1590127114 usec 723259
+    Interpolator time 18553 usec
+    getNextFrame 778.1 time 10368 usec
+add frame 778.1 time sec 1590127114 usec 755092
+src frame 779.0 time sec 1590127114 usec 755134
+    Interpolator time 20231 usec
+    getNextFrame 779.1 time 9843 usec
+add frame 779.1 time sec 1590127114 usec 787303
+src frame 780.0 time sec 1590127114 usec 787387
+    Interpolator time 18301 usec
+    getNextFrame 780.1 time 11429 usec
+add frame 780.1 time sec 1590127114 usec 819067
+src frame 781.0 time sec 1590127114 usec 819104
+    Interpolator time 18255 usec
+    getNextFrame 781.1 time 10079 usec
+add frame 781.1 time sec 1590127114 usec 849259
+src frame 782.0 time sec 1590127114 usec 849300
+    Interpolator time 17654 usec
+    getNextFrame 782.1 time 10950 usec
+add frame 782.1 time sec 1590127114 usec 879732
+src frame 783.0 time sec 1590127114 usec 879826
+    Interpolator time 16958 usec
+    getNextFrame 783.1 time 9906 usec
+add frame 783.1 time sec 1590127114 usec 908469
+src frame 784.0 time sec 1590127114 usec 908513
+    Interpolator time 17472 usec
+    getNextFrame 784.1 time 10316 usec
+add frame 784.1 time sec 1590127114 usec 938117
+src frame 785.0 time sec 1590127114 usec 938156
+    Interpolator time 18432 usec
+    getNextFrame 785.1 time 10101 usec
+add frame 785.1 time sec 1590127114 usec 969529
+src frame 786.0 time sec 1590127114 usec 969570
+    Interpolator time 17575 usec
+    getNextFrame 786.1 time 11111 usec
+add frame 786.1 time sec 1590127115 usec 80
+src frame 787.0 time sec 1590127115 usec 95
+    Interpolator time 18521 usec
+    getNextFrame 787.1 time 10333 usec
+add frame 787.1 time sec 1590127115 usec 31659
+src frame 788.0 time sec 1590127115 usec 31700
+    Interpolator time 17519 usec
+    getNextFrame 788.1 time 10400 usec
+add frame 788.1 time sec 1590127115 usec 61474
+src frame 789.0 time sec 1590127115 usec 61513
+    Interpolator time 16993 usec
+    getNextFrame 789.1 time 9631 usec
+add frame 789.1 time sec 1590127115 usec 89952
+src frame 790.0 time sec 1590127115 usec 89960
+    Interpolator time 16494 usec
+    getNextFrame 790.1 time 9510 usec
+add frame 790.1 time sec 1590127115 usec 118870
+src frame 791.0 time sec 1590127115 usec 118880
+    Interpolator time 16594 usec
+    getNextFrame 791.1 time 11104 usec
+add frame 791.1 time sec 1590127115 usec 149493
+src frame 792.0 time sec 1590127115 usec 149504
+    Interpolator time 17198 usec
+    getNextFrame 792.1 time 13883 usec
+add frame 792.1 time sec 1590127115 usec 183655
+src frame 793.0 time sec 1590127115 usec 191127
+    Interpolator time 16828 usec
+    getNextFrame 793.1 time 13886 usec
+add frame 793.1 time sec 1590127115 usec 224572
+src frame 794.0 time sec 1590127115 usec 224586
+    Interpolator time 17940 usec
+    getNextFrame 794.1 time 11463 usec
+add frame 794.1 time sec 1590127115 usec 256725
+src frame 795.0 time sec 1590127115 usec 256737
+    Interpolator time 20407 usec
+    getNextFrame 795.1 time 10624 usec
+add frame 795.1 time sec 1590127115 usec 289834
+src frame 796.0 time sec 1590127115 usec 289845
+    Interpolator time 16295 usec
+    getNextFrame 796.1 time 11190 usec
+add frame 796.1 time sec 1590127115 usec 319290
+src frame 797.0 time sec 1590127115 usec 319373
+    Interpolator time 23572 usec
+    getNextFrame 797.1 time 9707 usec
+add frame 797.1 time sec 1590127115 usec 354534
+src frame 798.0 time sec 1590127115 usec 354545
+    Interpolator time 18494 usec
+    getNextFrame 798.1 time 10091 usec
+add frame 798.1 time sec 1590127115 usec 386108
+src frame 799.0 time sec 1590127115 usec 386122
+    Interpolator time 18066 usec
+    getNextFrame 799.1 time 10045 usec
+add frame 799.1 time sec 1590127115 usec 417314
+src frame 800.0 time sec 1590127115 usec 417327
+    Interpolator time 17326 usec
+    getNextFrame 800.1 time 11582 usec
+add frame 800.1 time sec 1590127115 usec 449348
+src frame 801.0 time sec 1590127115 usec 449362
+    Interpolator time 16709 usec
+    getNextFrame 801.1 time 10224 usec
+add frame 801.1 time sec 1590127115 usec 479230
+src frame 802.0 time sec 1590127115 usec 479240
+    Interpolator time 16099 usec
+    getNextFrame 802.1 time 10510 usec
+add frame 802.1 time sec 1590127115 usec 508686
+src frame 803.0 time sec 1590127115 usec 508696
+    Interpolator time 18166 usec
+    getNextFrame 803.1 time 10358 usec
+add frame 803.1 time sec 1590127115 usec 540261
+src frame 804.0 time sec 1590127115 usec 540272
+    Interpolator time 18326 usec
+    getNextFrame 804.1 time 10018 usec
+add frame 804.1 time sec 1590127115 usec 571442
+src frame 805.0 time sec 1590127115 usec 571455
+    Interpolator time 18657 usec
+    getNextFrame 805.1 time 10469 usec
+add frame 805.1 time sec 1590127115 usec 603806
+src frame 806.0 time sec 1590127115 usec 603816
+    Interpolator time 19992 usec
+    getNextFrame 806.1 time 10205 usec
+add frame 806.1 time sec 1590127115 usec 636941
+src frame 807.0 time sec 1590127115 usec 636953
+    Interpolator time 17649 usec
+    getNextFrame 807.1 time 11666 usec
+add frame 807.1 time sec 1590127115 usec 669404
+src frame 808.0 time sec 1590127115 usec 669413
+    Interpolator time 17520 usec
+    getNextFrame 808.1 time 10402 usec
+add frame 808.1 time sec 1590127115 usec 700773
+src frame 809.0 time sec 1590127115 usec 700838
+    Interpolator time 17856 usec
+    getNextFrame 809.1 time 10381 usec
+add frame 809.1 time sec 1590127115 usec 732107
+src frame 810.0 time sec 1590127115 usec 732118
+    Interpolator time 20298 usec
+    getNextFrame 810.1 time 15125 usec
+add frame 810.1 time sec 1590127115 usec 770289
+src frame 811.0 time sec 1590127115 usec 770304
+    Interpolator time 19028 usec
+    getNextFrame 811.1 time 11086 usec
+add frame 811.1 time sec 1590127115 usec 802377
+src frame 812.0 time sec 1590127115 usec 802414
+    Interpolator time 19537 usec
+    getNextFrame 812.1 time 10168 usec
+add frame 812.1 time sec 1590127115 usec 833979
+src frame 813.0 time sec 1590127115 usec 834016
+    Interpolator time 22776 usec
+    getNextFrame 813.1 time 10212 usec
+add frame 813.1 time sec 1590127115 usec 868873
+src frame 814.0 time sec 1590127115 usec 868927
+    Interpolator time 15750 usec
+    getNextFrame 814.1 time 10223 usec
+add frame 814.1 time sec 1590127115 usec 896835
+src frame 815.0 time sec 1590127115 usec 896848
+    Interpolator time 15575 usec
+    getNextFrame 815.1 time 9747 usec
+add frame 815.1 time sec 1590127115 usec 924018
+src frame 816.0 time sec 1590127115 usec 924060
+    Interpolator time 19083 usec
+    getNextFrame 816.1 time 9959 usec
+add frame 816.1 time sec 1590127115 usec 954916
+src frame 817.0 time sec 1590127115 usec 954958
+    Interpolator time 17026 usec
+    getNextFrame 817.1 time 9722 usec
+add frame 817.1 time sec 1590127115 usec 983665
+src frame 818.0 time sec 1590127115 usec 983702
+    Interpolator time 18384 usec
+    getNextFrame 818.1 time 9976 usec
+add frame 818.1 time sec 1590127116 usec 13919
+src frame 819.0 time sec 1590127116 usec 13981
+    Interpolator time 17389 usec
+    getNextFrame 819.1 time 9803 usec
+add frame 819.1 time sec 1590127116 usec 42998
+src frame 820.0 time sec 1590127116 usec 43042
+    Interpolator time 17442 usec
+    getNextFrame 820.1 time 9696 usec
+add frame 820.1 time sec 1590127116 usec 72045
+src frame 821.0 time sec 1590127116 usec 72110
+    Interpolator time 16511 usec
+    getNextFrame 821.1 time 9583 usec
+add frame 821.1 time sec 1590127116 usec 100122
+src frame 822.0 time sec 1590127116 usec 100165
+    Interpolator time 16882 usec
+    getNextFrame 822.1 time 9915 usec
+add frame 822.1 time sec 1590127116 usec 128846
+src frame 823.0 time sec 1590127116 usec 128887
+    Interpolator time 16675 usec
+    getNextFrame 823.1 time 10126 usec
+add frame 823.1 time sec 1590127116 usec 157465
+src frame 824.0 time sec 1590127116 usec 157531
+    Interpolator time 18124 usec
+    getNextFrame 824.1 time 10308 usec
+add frame 824.1 time sec 1590127116 usec 187815
+src frame 825.0 time sec 1590127116 usec 187826
+    Interpolator time 18261 usec
+    getNextFrame 825.1 time 9752 usec
+add frame 825.1 time sec 1590127116 usec 217595
+src frame 826.0 time sec 1590127116 usec 217637
+    Interpolator time 16518 usec
+    getNextFrame 826.1 time 9666 usec
+add frame 826.1 time sec 1590127116 usec 245698
+src frame 827.0 time sec 1590127116 usec 245742
+    Interpolator time 19770 usec
+    getNextFrame 827.1 time 9695 usec
+add frame 827.1 time sec 1590127116 usec 277085
+src frame 828.0 time sec 1590127116 usec 277162
+    Interpolator time 17259 usec
+    getNextFrame 828.1 time 10600 usec
+add frame 828.1 time sec 1590127116 usec 307022
+src frame 829.0 time sec 1590127116 usec 307063
+    Interpolator time 16362 usec
+    getNextFrame 829.1 time 9889 usec
+add frame 829.1 time sec 1590127116 usec 335144
+src frame 830.0 time sec 1590127116 usec 335157
+    Interpolator time 16168 usec
+    getNextFrame 830.1 time 10188 usec
+add frame 830.1 time sec 1590127116 usec 363510
+src frame 831.0 time sec 1590127116 usec 363553
+    Interpolator time 16144 usec
+    getNextFrame 831.1 time 10162 usec
+add frame 831.1 time sec 1590127116 usec 391686
+src frame 832.0 time sec 1590127116 usec 391699
+    Interpolator time 16291 usec
+    getNextFrame 832.1 time 9966 usec
+add frame 832.1 time sec 1590127116 usec 420120
+src frame 833.0 time sec 1590127116 usec 420159
+    Interpolator time 18137 usec
+    getNextFrame 833.1 time 14684 usec
+add frame 833.1 time sec 1590127116 usec 454910
+src frame 834.0 time sec 1590127116 usec 454922
+    Interpolator time 17135 usec
+    getNextFrame 834.1 time 10483 usec
+add frame 834.1 time sec 1590127116 usec 485485
+src frame 835.0 time sec 1590127116 usec 485530
+    Interpolator time 20283 usec
+    getNextFrame 835.1 time 10392 usec
+add frame 835.1 time sec 1590127116 usec 518139
+src frame 836.0 time sec 1590127116 usec 518215
+    Interpolator time 18065 usec
+    getNextFrame 836.1 time 10903 usec
+add frame 836.1 time sec 1590127116 usec 549040
+src frame 837.0 time sec 1590127116 usec 549080
+    Interpolator time 18749 usec
+    getNextFrame 837.1 time 13659 usec
+add frame 837.1 time sec 1590127116 usec 583474
+src frame 838.0 time sec 1590127116 usec 583514
+    Interpolator time 19361 usec
+    getNextFrame 838.1 time 11266 usec
+add frame 838.1 time sec 1590127116 usec 616777
+src frame 839.0 time sec 1590127116 usec 616831
+    Interpolator time 16637 usec
+    getNextFrame 839.1 time 10251 usec
+add frame 839.1 time sec 1590127116 usec 645625
+src frame 840.0 time sec 1590127116 usec 645665
+    Interpolator time 17265 usec
+    getNextFrame 840.1 time 10525 usec
+add frame 840.1 time sec 1590127116 usec 675294
+src frame 841.0 time sec 1590127116 usec 675306
+    Interpolator time 18439 usec
+    getNextFrame 841.1 time 11128 usec
+add frame 841.1 time sec 1590127116 usec 707874
+src frame 842.0 time sec 1590127116 usec 707890
+    Interpolator time 17405 usec
+    getNextFrame 842.1 time 9928 usec
+add frame 842.1 time sec 1590127116 usec 738139
+src frame 843.0 time sec 1590127116 usec 738152
+    Interpolator time 19081 usec
+    getNextFrame 843.1 time 10301 usec
+add frame 843.1 time sec 1590127116 usec 770672
+src frame 844.0 time sec 1590127116 usec 770684
+    Interpolator time 17631 usec
+    getNextFrame 844.1 time 10100 usec
+add frame 844.1 time sec 1590127116 usec 801406
+src frame 845.0 time sec 1590127116 usec 801418
+    Interpolator time 17920 usec
+    getNextFrame 845.1 time 11004 usec
+add frame 845.1 time sec 1590127116 usec 833392
+src frame 846.0 time sec 1590127116 usec 833402
+    Interpolator time 20706 usec
+    getNextFrame 846.1 time 10092 usec
+add frame 846.1 time sec 1590127116 usec 867355
+src frame 847.0 time sec 1590127116 usec 867449
+    Interpolator time 16226 usec
+    getNextFrame 847.1 time 10224 usec
+add frame 847.1 time sec 1590127116 usec 895798
+src frame 848.0 time sec 1590127116 usec 895890
+    Interpolator time 16737 usec
+    getNextFrame 848.1 time 9953 usec
+add frame 848.1 time sec 1590127116 usec 924371
+src frame 849.0 time sec 1590127116 usec 924399
+    Interpolator time 16399 usec
+    getNextFrame 849.1 time 10554 usec
+add frame 849.1 time sec 1590127116 usec 953327
+src frame 850.0 time sec 1590127116 usec 953340
+    Interpolator time 16206 usec
+    getNextFrame 850.1 time 10515 usec
+add frame 850.1 time sec 1590127116 usec 982043
+src frame 851.0 time sec 1590127116 usec 982088
+    Interpolator time 18981 usec
+    getNextFrame 851.1 time 10134 usec
+add frame 851.1 time sec 1590127117 usec 13027
+src frame 852.0 time sec 1590127117 usec 13065
+    Interpolator time 18004 usec
+    getNextFrame 852.1 time 10547 usec
+add frame 852.1 time sec 1590127117 usec 43760
+src frame 853.0 time sec 1590127117 usec 43802
+    Interpolator time 17705 usec
+    getNextFrame 853.1 time 10304 usec
+add frame 853.1 time sec 1590127117 usec 73671
+src frame 854.0 time sec 1590127117 usec 73713
+    Interpolator time 18334 usec
+    getNextFrame 854.1 time 11928 usec
+add frame 854.1 time sec 1590127117 usec 105905
+src frame 855.0 time sec 1590127117 usec 105945
+    Interpolator time 22596 usec
+    getNextFrame 855.1 time 10794 usec
+add frame 855.1 time sec 1590127117 usec 142178
+src frame 856.0 time sec 1590127117 usec 142258
+    Interpolator time 19420 usec
+    getNextFrame 856.1 time 10571 usec
+add frame 856.1 time sec 1590127117 usec 174178
+src frame 857.0 time sec 1590127117 usec 174206
+    Interpolator time 18041 usec
+    getNextFrame 857.1 time 10605 usec
+add frame 857.1 time sec 1590127117 usec 204829
+src frame 858.0 time sec 1590127117 usec 204877
+    Interpolator time 22243 usec
+    getNextFrame 858.1 time 10430 usec
+add frame 858.1 time sec 1590127117 usec 239716
+src frame 859.0 time sec 1590127117 usec 239793
+    Interpolator time 18137 usec
+    getNextFrame 859.1 time 10542 usec
+add frame 859.1 time sec 1590127117 usec 270371
+src frame 860.0 time sec 1590127117 usec 270384
+    Interpolator time 18438 usec
+    getNextFrame 860.1 time 13808 usec
+add frame 860.1 time sec 1590127117 usec 304549
+src frame 861.0 time sec 1590127117 usec 304589
+    Interpolator time 16807 usec
+    getNextFrame 861.1 time 10379 usec
+add frame 861.1 time sec 1590127117 usec 333887
+src frame 862.0 time sec 1590127117 usec 333927
+    Interpolator time 16477 usec
+    getNextFrame 862.1 time 10283 usec
+add frame 862.1 time sec 1590127117 usec 362573
+src frame 863.0 time sec 1590127117 usec 362617
+    Interpolator time 16646 usec
+    getNextFrame 863.1 time 9931 usec
+add frame 863.1 time sec 1590127117 usec 391050
+src frame 864.0 time sec 1590127117 usec 391096
+    Interpolator time 17228 usec
+    getNextFrame 864.1 time 10313 usec
+add frame 864.1 time sec 1590127117 usec 420432
+src frame 865.0 time sec 1590127117 usec 420446
+    Interpolator time 17342 usec
+    getNextFrame 865.1 time 10139 usec
+add frame 865.1 time sec 1590127117 usec 449754
+src frame 866.0 time sec 1590127117 usec 449767
+    Interpolator time 16593 usec
+    getNextFrame 866.1 time 10013 usec
+add frame 866.1 time sec 1590127117 usec 478155
+src frame 867.0 time sec 1590127117 usec 478197
+    Interpolator time 17355 usec
+    getNextFrame 867.1 time 10423 usec
+add frame 867.1 time sec 1590127117 usec 507953
+src frame 868.0 time sec 1590127117 usec 507993
+    Interpolator time 20211 usec
+    getNextFrame 868.1 time 9886 usec
+add frame 868.1 time sec 1590127117 usec 539924
+src frame 869.0 time sec 1590127117 usec 539961
+    Interpolator time 17928 usec
+    getNextFrame 869.1 time 9873 usec
+add frame 869.1 time sec 1590127117 usec 569750
+src frame 870.0 time sec 1590127117 usec 569795
+    Interpolator time 18028 usec
+    getNextFrame 870.1 time 9626 usec
+add frame 870.1 time sec 1590127117 usec 599271
+src frame 871.0 time sec 1590127117 usec 599314
+    Interpolator time 19193 usec
+    getNextFrame 871.1 time 14521 usec
+add frame 871.1 time sec 1590127117 usec 634851
+src frame 872.0 time sec 1590127117 usec 634904
+    Interpolator time 18205 usec
+    getNextFrame 872.1 time 14261 usec
+add frame 872.1 time sec 1590127117 usec 669988
+src frame 873.0 time sec 1590127117 usec 670046
+    Interpolator time 18808 usec
+    getNextFrame 873.1 time 14958 usec
+add frame 873.1 time sec 1590127117 usec 706335
+src frame 874.0 time sec 1590127117 usec 706400
+    Interpolator time 21086 usec
+    getNextFrame 874.1 time 10019 usec
+add frame 874.1 time sec 1590127117 usec 740501
+src frame 875.0 time sec 1590127117 usec 740514
+    Interpolator time 16314 usec
+    getNextFrame 875.1 time 10186 usec
+add frame 875.1 time sec 1590127117 usec 769100
+src frame 876.0 time sec 1590127117 usec 769151
+    Interpolator time 17541 usec
+    getNextFrame 876.1 time 9892 usec
+add frame 876.1 time sec 1590127117 usec 798607
+src frame 877.0 time sec 1590127117 usec 798643
+    Interpolator time 16989 usec
+    getNextFrame 877.1 time 10609 usec
+add frame 877.1 time sec 1590127117 usec 828072
+src frame 878.0 time sec 1590127117 usec 828112
+    Interpolator time 23475 usec
+    getNextFrame 878.1 time 11257 usec
+add frame 878.1 time sec 1590127117 usec 864896
+src frame 879.0 time sec 1590127117 usec 864947
+    Interpolator time 20265 usec
+    getNextFrame 879.1 time 12128 usec
+add frame 879.1 time sec 1590127117 usec 899943
+src frame 880.0 time sec 1590127117 usec 899954
+    Interpolator time 19677 usec
+    getNextFrame 880.1 time 9995 usec
+add frame 880.1 time sec 1590127117 usec 932731
+src frame 881.0 time sec 1590127117 usec 932742
+    Interpolator time 17103 usec
+    getNextFrame 881.1 time 10183 usec
+add frame 881.1 time sec 1590127117 usec 962865
+src frame 882.0 time sec 1590127117 usec 962874
+    Interpolator time 17742 usec
+    getNextFrame 882.1 time 10098 usec
+add frame 882.1 time sec 1590127117 usec 993602
+src frame 883.0 time sec 1590127117 usec 993612
+    Interpolator time 21099 usec
+    getNextFrame 883.1 time 9808 usec
+add frame 883.1 time sec 1590127118 usec 27685
+src frame 884.0 time sec 1590127118 usec 27742
+    Interpolator time 18474 usec
+    getNextFrame 884.1 time 14656 usec
+add frame 884.1 time sec 1590127118 usec 62778
+src frame 885.0 time sec 1590127118 usec 62816
+    Interpolator time 17388 usec
+    getNextFrame 885.1 time 10202 usec
+add frame 885.1 time sec 1590127118 usec 92523
+src frame 886.0 time sec 1590127118 usec 92573
+    Interpolator time 16240 usec
+    getNextFrame 886.1 time 9905 usec
+add frame 886.1 time sec 1590127118 usec 120643
+src frame 887.0 time sec 1590127118 usec 120660
+    Interpolator time 15165 usec
+    getNextFrame 887.1 time 9798 usec
+add frame 887.1 time sec 1590127118 usec 147464
+src frame 888.0 time sec 1590127118 usec 147476
+    Interpolator time 15443 usec
+    getNextFrame 888.1 time 9712 usec
+add frame 888.1 time sec 1590127118 usec 174488
+src frame 889.0 time sec 1590127118 usec 174499
+    Interpolator time 15435 usec
+    getNextFrame 889.1 time 9747 usec
+add frame 889.1 time sec 1590127118 usec 201556
+src frame 890.0 time sec 1590127118 usec 201568
+    Interpolator time 15439 usec
+    getNextFrame 890.1 time 9651 usec
+add frame 890.1 time sec 1590127118 usec 228623
+src frame 891.0 time sec 1590127118 usec 228636
+    Interpolator time 15482 usec
+    getNextFrame 891.1 time 9995 usec
+add frame 891.1 time sec 1590127118 usec 255945
+src frame 892.0 time sec 1590127118 usec 255960
+    Interpolator time 15816 usec
+    getNextFrame 892.1 time 9764 usec
+add frame 892.1 time sec 1590127118 usec 283381
+src frame 893.0 time sec 1590127118 usec 283397
+    Interpolator time 17142 usec
+    getNextFrame 893.1 time 10161 usec
+add frame 893.1 time sec 1590127118 usec 312558
+src frame 894.0 time sec 1590127118 usec 312598
+    Interpolator time 15695 usec
+    getNextFrame 894.1 time 9980 usec
+add frame 894.1 time sec 1590127118 usec 340068
+src frame 895.0 time sec 1590127118 usec 340188
+    Interpolator time 18018 usec
+    getNextFrame 895.1 time 10325 usec
+add frame 895.1 time sec 1590127118 usec 370409
+src frame 896.0 time sec 1590127118 usec 370493
+    Interpolator time 16484 usec
+    getNextFrame 896.1 time 9731 usec
+add frame 896.1 time sec 1590127118 usec 398578
+src frame 897.0 time sec 1590127118 usec 398663
+    Interpolator time 17206 usec
+    getNextFrame 897.1 time 10348 usec
+add frame 897.1 time sec 1590127118 usec 428074
+src frame 898.0 time sec 1590127118 usec 428088
+    Interpolator time 19654 usec
+    getNextFrame 898.1 time 10044 usec
+add frame 898.1 time sec 1590127118 usec 459719
+src frame 899.0 time sec 1590127118 usec 459805
+    Interpolator time 16833 usec
+    getNextFrame 899.1 time 9759 usec
+add frame 899.1 time sec 1590127118 usec 488278
+src frame 900.0 time sec 1590127118 usec 488365
+    Interpolator time 16261 usec
+    getNextFrame 900.1 time 9955 usec
+add frame 900.1 time sec 1590127118 usec 516344
+src frame 901.0 time sec 1590127118 usec 516427
+    Interpolator time 16134 usec
+    getNextFrame 901.1 time 11683 usec
+add frame 901.1 time sec 1590127118 usec 546027
+src frame 902.0 time sec 1590127118 usec 546039
+    Interpolator time 16301 usec
+    getNextFrame 902.1 time 9859 usec
+add frame 902.1 time sec 1590127118 usec 574228
+src frame 903.0 time sec 1590127118 usec 574262
+    Interpolator time 15619 usec
+    getNextFrame 903.1 time 11177 usec
+add frame 903.1 time sec 1590127118 usec 603102
+src frame 904.0 time sec 1590127118 usec 603155
+    Interpolator time 16264 usec
+    getNextFrame 904.1 time 10776 usec
+add frame 904.1 time sec 1590127118 usec 632159
+src frame 905.0 time sec 1590127118 usec 632201
+    Interpolator time 16874 usec
+    getNextFrame 905.1 time 10245 usec
+add frame 905.1 time sec 1590127118 usec 661144
+src frame 906.0 time sec 1590127118 usec 661181
+    Interpolator time 16630 usec
+    getNextFrame 906.1 time 10312 usec
+add frame 906.1 t

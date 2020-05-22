@@ -26,14 +26,20 @@ do
     timestamp=`date '+%Y-%m-%d %H:%M:%S:%N'`
     echo "timestamp $timestamp"
 
-    server_cpu_usage=$(ps aux | grep 'cgl-render' | awk '{sum += $3}END{print sum}')
-    client_cpu_usage=$(ps aux | grep 'cgl-capture' | awk '{sum += $3}END{print sum}')
-    server_mem_usage=$(ps aux | grep 'cgl-render' | awk '{sum += $6}END{print sum}')
-    client_mem_usage=$(ps aux | grep 'cgl-capture' | awk '{sum += $6}END{print sum}')
+    server_info=$(ps aux | grep 'cgl-render' | grep -v grep)
+    client_info=$(ps aux | grep 'cgl-capture' | grep -v grep)
+    # server_cpu_usage=$(ps aux | grep 'cgl-render' | awk '{sum += $3}END{print sum}')
+    # client_cpu_usage=$(ps aux | grep 'cgl-capture' | awk '{sum += $3}END{print sum}')
+    # server_mem_usage=$(ps aux | grep 'cgl-render' | awk '{sum += $6}END{print sum}')
+    # client_mem_usage=$(ps aux | grep 'cgl-capture' | awk '{sum += $6}END{print sum}')
+    server_cpu_usage=$(echo $server_info | awk '{sum += $3}END{print sum}')
+    client_cpu_usage=$(echo $client_info | awk '{sum += $3}END{print sum}')
+    server_mem_usage=$(echo $server_info | awk '{sum += $6}END{print sum}')
+    client_mem_usage=$(echo $client_info | awk '{sum += $6}END{print sum}')
     echo "    cpu: client $client_cpu_usage%; server $server_cpu_usage%;"
     echo "    mem: client ${client_mem_usage}KB; server ${server_mem_usage}KB;"
-    echo "    gpu: client %; server %;"
-    echo "    gpu mem: client %; server %;"
+    # echo "    gpu: client %; server %;"
+    # echo "    gpu mem: client %; server %;"
     # echo 'server_cpu_usage:'$server_cpu_usage
     # echo 'client_cpu_usage:'$client_cpu_usage
 

@@ -1,0 +1,100 @@
+src frame 0.0 time sec 1590979906 usec 162606
+    Interpolator time 1064482 usec
+    getNextFrame 0.1 time 10926 usec
+add frame 0.1 time sec 1590979907 usec 283566
+src frame 1.0 time sec 1590979907 usec 283580
+    Interpolator time 2108131 usec
+    getNextFrame 1.1 time 10557 usec
+add frame 1.1 time sec 1590979909 usec 404232
+src frame 2.0 time sec 1590979909 usec 404300
+    Interpolator time 1790642 usec
+    getNextFrame 2.1 time 10673 usec
+add frame 2.1 time sec 1590979911 usec 207401
+src frame 3.0 time sec 1590979911 usec 207455
+    Interpolator time 966166 usec
+    getNextFrame 3.1 time 12639 usec
+add frame 3.1 time sec 1590979912 usec 188162
+src frame 4.0 time sec 1590979912 usec 188202
+    Interpolator time 713420 usec
+    getNextFrame 4.1 time 10760 usec
+add frame 4.1 time sec 1590979912 usec 915392
+src frame 5.0 time sec 1590979912 usec 915453
+    Interpolator time 1871476 usec
+    getNextFrame 5.1 time 11209 usec
+add frame 5.1 time sec 1590979914 usec 800266
+src frame 6.0 time sec 1590979914 usec 800304
+    Interpolator time 1683674 usec
+    getNextFrame 6.1 time 14658 usec
+add frame 6.1 time sec 1590979916 usec 500928
+src frame 7.0 time sec 1590979916 usec 500968
+    Interpolator time 1553921 usec
+    getNextFrame 7.1 time 10321 usec
+add frame 7.1 time sec 1590979918 usec 68158
+src frame 8.0 time sec 1590979918 usec 68209
+    Interpolator time 611823 usec
+    getNextFrame 8.1 time 10119 usec
+add frame 8.1 time sec 1590979918 usec 691876
+src frame 9.0 time sec 1590979918 usec 691915
+    Interpolator time 599159 usec
+    getNextFrame 9.1 time 10257 usec
+add frame 9.1 time sec 1590979919 usec 303300
+src frame 10.0 time sec 1590979919 usec 303343
+    Interpolator time 747511 usec
+    getNextFrame 10.1 time 10376 usec
+add frame 10.1 time sec 1590979920 usec 63058
+src frame 11.0 time sec 1590979920 usec 63099
+    Interpolator time 634122 usec
+    getNextFrame 11.1 time 10117 usec
+add frame 11.1 time sec 1590979920 usec 709255
+src frame 12.0 time sec 1590979920 usec 709313
+    Interpolator time 999744 usec
+    getNextFrame 12.1 time 9833 usec
+add frame 12.1 time sec 1590979921 usec 720607
+src frame 13.0 time sec 1590979921 usec 720683
+    Interpolator time 1499160 usec
+    getNextFrame 13.1 time 10439 usec
+add frame 13.1 time sec 1590979923 usec 232280
+src frame 14.0 time sec 1590979923 usec 232360
+    Interpolator time 1649043 usec
+    getNextFrame 14.1 time 10309 usec
+add frame 14.1 time sec 1590979924 usec 893426
+src frame 15.0 time sec 1590979924 usec 893478
+    Interpolator time 588054 usec
+    getNextFrame 15.1 time 11723 usec
+add frame 15.1 time sec 1590979925 usec 494959
+src frame 16.0 time sec 1590979925 usec 495013
+    Interpolator time 949671 usec
+    getNextFrame 16.1 time 10215 usec
+add frame 16.1 time sec 1590979926 usec 456954
+src frame 17.0 time sec 1590979926 usec 456992
+    Interpolator time 858807 usec
+    getNextFrame 17.1 time 10331 usec
+add frame 17.1 time sec 1590979927 usec 328206
+src frame 18.0 time sec 1590979927 usec 328258
+    Interpolator time 774557 usec
+    getNextFrame 18.1 time 10101 usec
+add frame 18.1 time sec 1590979928 usec 114626
+src frame 19.0 time sec 1590979928 usec 114677
+    Interpolator time 836578 usec
+    getNextFrame 19.1 time 10000 usec
+add frame 19.1 time sec 1590979928 usec 963062
+src frame 20.0 time sec 1590979928 usec 963116
+    Interpolator time 574131 usec
+    getNextFrame 20.1 time 10026 usec
+add frame 20.1 time sec 1590979929 usec 549169
+src frame 21.0 time sec 1590979929 usec 549182
+    Interpolator time 1953600 usec
+    getNextFrame 21.1 time 16331 usec
+add frame 21.1 time sec 1590979931 usec 545647
+src frame 22.0 time sec 1590979931 usec 545730
+    Interpolator time 666672 usec
+    getNextFrame 22.1 time 10642 usec
+add frame 22.1 time sec 1590979932 usec 224833
+src frame 23.0 time sec 1590979932 usec 224877
+    Interpolator time 950842 usec
+    getNextFrame 23.1 time 10649 usec
+add frame 23.1 time sec 1590979933 usec 188229
+src frame 24.0 time sec 1590979933 usec 188292
+    Interpolator time 2071553 usec
+    getNextFrame 24.1 time 10807 usec
+add frame 24.1 tim
